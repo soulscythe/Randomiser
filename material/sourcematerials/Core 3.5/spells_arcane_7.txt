@@ -1,0 +1,35 @@
+3,greater arcane sight,-,-,-
+4,banishment,-,-,-
+3,grasping hand,-,-,-
+3,control undead,-,-,-
+3,control weather,-,-,-
+3,delayed blast fireball,-,-,-
+2,instant summons,-,-,-
+3,ethereal jaunt,-,-,-
+3,finger of death,-,-,-
+3,forcecage,-,-,-
+4,mass hold person,-,-,-
+3,insanity,-,-,-
+4,mass invisibility,-,-,-
+1,limited wish,-,-,-
+2,mage’s magnificent mansion,-,-,-
+3,mage’s sword,-,-,-
+3,phase door,-,-,-
+3,plane shift,-,-,-
+3,power word blind,-,-,-
+4,prismatic spray,-,-,-
+3,project image,-,-,-
+3,reverse gravity,-,-,-
+3,greater scrying,-,-,-
+3,sequester,-,-,-
+3,greater shadow conjuration,-,-,-
+1,simulacrum,-,-,-
+3,spell turning,-,-,-
+2,statue,-,-,-
+3,summon monster VII,-,-,-
+1,symbol of stunning,-,-,-
+1,symbol of weakness,-,-,-
+3,teleport object,-,-,-
+5,greater teleport,-,-,-
+2,vision,-,-,-
+3,waves of exhaustion,-,-,-

@@ -1,0 +1,36 @@
+13,Detect magic,-,Wood,-
+13,Light,-,Wood,-
+19,Burning hands,-,Wood,-
+19,Charm animal,-,Wood,-
+19,Charm person,-,Wood,-
+19,Color spray,-,Wood,-
+19,Cure light wounds,-,Wood,-
+19,Detect secret doors,-,Wood,-
+19,Enlarge person,-,Wood,-
+19,Magic missile (1st),-,Wood,-
+19,Shocking grasp,-,Wood,-
+19,Summon monster I,-,Wood,-
+13,Magic missile (3rd),-,Wood,-
+6,Magic missile (5th),-,Wood,-
+19,Bear's endurance,-,Wood,-
+19,Bull's strength,-,Wood,-
+19,Cat's grace,-,Wood,-
+19,Cure moderate wounds,-,Wood,-
+13,Darkness,-,Wood,-
+19,Daze Monster,-,Wood,-
+19,Delay poison,-,Wood,-
+19,Eagle's splendor,-,Wood,-
+19,False life,-,Wood,-
+19,Fox's cunning,-,Wood,-
+13,Ghoul touch,-,Wood,-
+19,Hold person,-,Wood,-
+19,Invisibility,-,Wood,-
+19,Knock,-,Wood,-
+19,Levitate,-,Wood,-
+19,Acid arrow,-,Wood,-
+19,Mirror image,-,Wood,-
+19,Owl's wisdom,-,Wood,-
+13,Shatter,-,Wood,-
+19,Silence,-,Wood,-
+19,Summon monster II,-,Wood,-
+19,Web,-,Wood,-

@@ -1,0 +1,12 @@
+You
+Ray
+Spread
+Objects in Range of Target Area
+Creatures in Range of Target Area
+Area (Burst)
+Area (Emanation)
+Area (Spread)
+Area (Cone)
+Area (Cylinder)
+Area (Line)
+Area (Sphere)

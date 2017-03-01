@@ -1,0 +1,4 @@
+33,Splint mail,45,Metal,-
+52,Banded mail,35,Metal,-
+66,Half-plate,50,Metal,-
+70,Full plate,50,Metal,-

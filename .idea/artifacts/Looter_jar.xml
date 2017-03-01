@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Looter:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Looter_jar</output-path>
+    <root id="archive" name="Looter.jar">
+      <element id="module-output" name="Looter" />
+    </root>
+  </artifact>
+</component>

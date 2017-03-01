@@ -1,0 +1,30 @@
+33,Arrow catching,-,-,-
+19,Bashing,-,-,-
+13,Blinding,-,-,-
+33,light Fortification,-,-,-
+33,Arrow deflection,-,-,-
+33,Animated,-,-,-
+19,Acid resistance,-,-,-
+19,Cold resistance,-,-,-
+19,Electricity resistance,-,-,-
+19,Fire resistance,-,-,-
+19,Sonic resistance,-,-,-
+39,Ghost touch,WE-,-,-
+66,moderate Fortification,-,-,-
+19,Spell resistance (15),-,-,-
+6,Wild,-,-,-
+33,improved Acid resistance,-,-,-
+33,improved Cold resistance,-,-,-
+33,improved Electricity resistance,-,-,-
+33,improved Fire resistance,-,-,-
+33,improved Sonic resistance,-,-,-
+13,Spell resistance (17),-,-,-
+6,Undead controlling,-,-,-
+26,heavy Fortification,-,-,-
+13,Reflecting,-,-,-
+6,Spell resistance (19),-,-,-
+6,greater Acid resistance,-,-,-
+6,greater Cold resistance,-,-,-
+6,greater Electricity resistance,-,-,-
+6,greater Fire resistance,-,-,-
+6,greater Sonic resistance,-,-,-

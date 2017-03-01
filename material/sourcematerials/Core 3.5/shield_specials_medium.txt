@@ -1,0 +1,16 @@
+66,Arrow catching,-,-,-
+66,Bashing,-,-,-
+33,Blinding,-,-,-
+99,light Fortification,-,-,-
+66,Arrow deflection,-,-,-
+46,Animated,-,-,-
+13,Spell resistance (13),-,-,-
+26,Acid resistance,-,-,-
+26,Cold resistance,-,-,-
+26,Electricity resistance,-,-,-
+26,Fire resistance,-,-,-
+26,Sonic resistance,-,-,-
+39,Ghost touch,-,-,-
+66,moderate Fortification,-,-,-
+19,Spell resistance (15),-,-,-
+6,Wild,-,-,-

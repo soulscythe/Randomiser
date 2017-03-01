@@ -1,0 +1,8 @@
+66,[Specific Armour]Adamantine breastplate,-,-,-
+66,[Specific Armour]Dwarven plate,-,-,-
+79,[Specific Armour]Banded mail of luck,-,-,-
+118,[Specific Armour]Celestial armor,-,-,-
+66,[Specific Armour]Plate armor of the deep,-,-,-
+99,[Specific Armour]Breastplate of command,-,-,-
+99,[Specific Armour]Mithral full plate of speed,-,-,-
+66,[Specific Armour]Demon armor,-,-,-

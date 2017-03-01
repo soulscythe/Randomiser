@@ -1,0 +1,22 @@
+26,Assassin's dagger,-,-,-
+19,Shifter's sorrow,-,-,-
+13,Trident of fish command,-,-,-
+26,Flame tongue,-,-,-
+26,Luck blade (0 wishes),-,-,-
+46,Sword of subtlety,-,-,-
+46,Sword of the planes,-,-,-
+39,Nine lives stealer,-,-,-
+33,Sword of life stealing,-,-,-
+26,Oathbow,-,-,-
+33,Mace of terror,-,-,-
+39,Life-drinker,-,-,-
+33,Sylvan scimitar,-,-,-
+33,Rapier of puncturing,-,-,-
+39,Sun blade,-,-,-
+39,Frost brand,-,-,-
+33,Dwarven thrower,-,-,-
+46,Luck blade (1 wish),-,-,-
+26,Mace of smiting,-,-,-
+13,Luck blade (2 wishes),-,-,-
+13,Holy avenger,-,-,-
+6,Luck blade (3 wishes),-,-,-

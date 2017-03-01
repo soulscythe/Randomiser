@@ -1,0 +1,23 @@
+3,Claw bracer,2,Metal,Leather
+3,Panther claw,3,Metal,Wood
+3,Stump knife,2,Metal,-
+3,Tiger claws,2,Metal,-
+3,Triple dagger,1,Metal,-
+3,Ward cestus,4,Metal,-
+3,gnome Battlepick,5,Metal,Wood
+3,bladed Gauntlet,4,Metal,-
+3,Sapara,6,Metal,-
+3,butterfly Sword,2,Metal,-
+3,Tonfa,2,Wood,-
+3,War fan,3,Metal,Cloth
+3,Chain-and-dagger,4,Metal,-
+3,Khopesh,12,Metal,-
+3,mercurial Longsword,6,Metal,-
+3,Duom,8,Metal,Wood
+3,mercurial Greatsword,17,Metal,-
+3,Gyrspike,20,Metal,-
+3,double Mace,25,Metal,Wood
+3,Manti,9,Metal,Wood
+3,double Scimitar,15,Metal,-
+3,Three-section staff,8,Wood,Metal
+3,Fullblade,23,Metal,-

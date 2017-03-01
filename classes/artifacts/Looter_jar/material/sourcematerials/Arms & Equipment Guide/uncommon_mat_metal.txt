@@ -1,0 +1,8 @@
+2,Baatorian Green Steel,-,Metal,-
+2,Gehennan Morghuth-Iron,-,Metal,-
+2,Solanian Truesteel,-,Metal,-
+2,Blended Quartz,-,Metal,-
+2,Bronzewood,-,Wood,-
+2,Chitin,-,Chitin,-
+2,Elukian Clay,-,Stone,-
+2,Entropium,-,Metal,-

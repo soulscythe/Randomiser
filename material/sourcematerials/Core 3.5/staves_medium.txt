@@ -1,0 +1,8 @@
+99,Charming,5,Wood,-
+99,Fire,5,Wood,-
+66,Swarming insects,5,Wood,-
+132,Healing,5,Wood,-
+99,Size alteration,5,Wood,-
+99,Illumination,5,Wood,-
+33,Frost,5,Wood,-
+33,Defense,5,Wood,-

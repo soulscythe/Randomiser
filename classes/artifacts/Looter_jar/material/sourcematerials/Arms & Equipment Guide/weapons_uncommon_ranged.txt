@@ -1,0 +1,13 @@
+3,Fukimi-bari,0.1,Metal,-
+3,halfling Skiprock,0.25,Stone,-
+3,two-ball Bolas,2,Metal,-
+3,gnome Calculus,2,Leather,-
+3,Chakram,2,Metal,-
+3,Throwing iron,3,Metal,-
+3,Whip-dagger,3,Leather,Metal
+3,spring-loaded Gauntlet,4,Metal,-
+3,spinning Javelin,2,Metal,Wood
+3,great Crossbow,15,Metal,-
+3,elven Double bow,3,Wood,-
+3,Harpoon,10,Metal,Wood
+3,orc Shotput,15,Metal,-

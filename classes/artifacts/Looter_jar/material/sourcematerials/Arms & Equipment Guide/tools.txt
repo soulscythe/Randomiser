@@ -1,0 +1,22 @@
+6,Hoe,2,Metal,Wood
+6,Billhook,2,Metal,Wood
+6,Post-hole digger,8,Metal,Wood
+6,Pitchfork,4,Metal,Wood
+6,Rake,3,Metal,Wood
+6,Metal Tongs,4,Metal,-
+2,Portable Winch (Str 18),20,-,-
+2,Portable Winch (Str 20),40,-,-
+2,Portable Winch (Str 22),80,-,-
+6,Sprayer,4,-,-
+6,Folding Saw,2,Metal,Wood
+6,Pulley,1,-,-
+6,Hand Mill,1,-,-
+6,Small Magnet,1,Stone,-
+6,Ice axe,5,Metal,Wood
+6,Common Hacksaw,1,Metal,Wood
+6,Superior Hacksaw,1,Metal,Wood
+2,Portable Crane (Str 22),75,-,-
+2,Portable Crane (Str 24),120,-,-
+2,Portable Crane (Str 28),250,-,-
+6,Bolt cutters,5,Metal,-
+6,Ascender/slider,1,Wood,-

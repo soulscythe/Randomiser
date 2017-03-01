@@ -1,0 +1,4 @@
+66,hand Crossbow,2,Wood,-
+66,light repeating Crossbow,6,Wood,-
+66,heavy repeating Crossbow,12,Wood,-
+66,Shuriken (50),5,Metal,-

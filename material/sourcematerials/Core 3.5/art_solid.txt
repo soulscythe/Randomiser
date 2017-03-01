@@ -1,0 +1,14 @@
+6,Statue,-,-,-
+6,Statuette,-,-,-
+6,Vase (Ornate),-,-,-
+6,Urn (Burial),-,-,-
+6,Coffer,-,-,-
+6,Knife (Ceremonial),-,-,-
+6,Altar (Small),-,-,-
+6,Ewer,-,-,-
+6,Mask,-,-,-
+6,Chalice,-,-,-
+6,Mug,-,-,-
+6,Comb,-,-,-
+6,Music Box,-,-,-
+6,Cup,-,-,-

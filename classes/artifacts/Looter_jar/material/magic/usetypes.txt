@@ -1,0 +1,14 @@
+Oneshot (mundane after)
+Oneshot (disintegrated/destroyed after use)
+Ulimited
+2
+3
+4
+5
+10
+15
+20
+25
+30
+50
+100

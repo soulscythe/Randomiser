@@ -1,0 +1,100 @@
+6,Boots of levitation,-,-,-
+6,Harp of charming,-,-,-
+6,Amulet of natural armor +2,-,-,-
+6,flesh Golem manual,-,-,-
+6,Hand of glory,-,-,-
+6,deep red sphere Ioun stone,-,-,-
+6,incandescent blue sphere Ioun stone,-,-,-
+6,pale blue rhomboid Ioun stone,-,-,-
+6,pink and green sphere Ioun stone,-,-,-
+6,pink rhomboid Ioun stone,-,-,-
+6,scarlet and blue sphere Ioun stone,-,-,-
+6,Deck of illusions,-,-,-
+6,Necklace of fireballs type VI,-,-,-
+6,Candle of invocation,-,-,-
+6,Necklace of fireballs type VII,-,-,-
+6,Bracers of armor +3,-,-,-
+6,Cloak of resistance +3,-,-,-
+6,Decanter of endless water,-,-,-
+6,Necklace of adaptation,-,-,-
+6,3rd-level spell Pearl of power,-,-,-
+6,serpentine owl Figurine of wondrous power,-,-,-
+6,lesser Strand of prayer beads,-,-,-
+6,Bag of holding type IV,-,-,-
+6,bronze griffon Figurine of wondrous power,-,-,-
+6,ebony fly Figurine of wondrous power,-,-,-
+6,Glove of storing,-,-,-
+6,dark blue rhomboid Ioun stone,-,-,-
+6,courser Stone horse,-,-,-
+6,druid�s Vestment,-,-,-
+6,Cape of the mountebank,-,-,-
+6,Phylactery of undead turning,-,-,-
+6,Gauntlet of rust,-,-,-
+6,Boots of speed,-,-,-
+6,Goggles of night,-,-,-
+6,clay Golem manual,-,-,-
+6,Medallion of thoughts,-,-,-
+6,Pipes of pain,-,-,-
+6,Blessed book,-,-,-
+6,monk�s Belt,-,-,-
+6,Gem of brightness,-,-,-
+6,Lyre of building,-,-,-
+6,Cloak of arachnida,-,-,-
+6,destrier Stone horse,-,-,-
+6,Belt of dwarvenkind,-,-,-
+6,Periapt of wound closure,-,-,-
+6,Horn of the tritons,-,-,-
+6,Pearl of the sirines,-,-,-
+6,onyx dog Figurine of wondrous power,-,-,-
+6,Amulet of health +4,-,-,-
+6,Belt of giant Strength +4,-,-,-
+6,winged Boots,-,-,-
+6,Bracers of armor +4,-,-,-
+6,Cloak of Charisma +4,-,-,-
+6,Cloak of resistance +4,-,-,-
+6,Gloves of Dexterity +4,-,-,-
+6,Headband of intellect +4,-,-,-
+6,4th-level spell Pearl of power,-,-,-
+6,Periapt of Wisdom +4,-,-,-
+6,Scabbard of keen edges,-,-,-
+6,golden lions Figurine of wondrous power,-,-,-
+6,Chime of interruption,-,-,-
+6,Broom of flying,-,-,-
+6,marble elephant Figurine of wondrous power,-,-,-
+6,Amulet of natural armor +3,-,-,-
+6,iridescent spindle Ioun stone,-,-,-
+6,Bracelet of friends,-,-,-
+6,5 ft. by 5 ft. Carpet of flying,-,-,-
+6,Horn of blasting,-,-,-
+6,pale lavender ellipsoid Ioun stone,-,-,-
+6,pearly white spindle Ioun stone,-,-,-
+6,Portable hole,-,-,-
+6,Stone of good luck (luckstone),-,-,-
+6,ivory goats Figurine of wondrous power,-,-,-
+6,Rope of entanglement,-,-,-
+6,stone Golem manual,-,-,-
+6,Mask of the skull,-,-,-
+6,Mattock of the titans,-,-,-
+6,major Circlet of blasting,-,-,-
+6,Amulet of mighty fists +2,-,-,-
+6,minor Cloak of displacement,-,-,-
+6,Helm of underwater action,-,-,-
+6,greater Bracers of archery,-,-,-
+6,Bracers of armor +5,-,-,-
+6,Cloak of resistance +5,-,-,-
+6,Eyes of doom,-,-,-
+6,5th-level spell Pearl of power,-,-,-
+6,Maul of the titans,-,-,-
+6,Strand of prayer beads,-,-,-
+6,Cloak of the bat,-,-,-
+6,Iron bands of binding,-,-,-
+6,Cube of frost resistance,-,-,-
+6,Helm of telepathy,-,-,-
+6,Periapt of proof against poison,-,-,-
+6,Robe of scintillating colors,-,-,-
+6,Manual of bodily health +1,-,-,-
+6,Manual of gainful exercise +1,-,-,-
+6,Manual of quickness of action +1,-,-,-
+6,Tome of clear thought +1,-,-,-
+6,Tome of leadership and influence +1,-,-,-
+6,Tome of understanding +1,-,-,-

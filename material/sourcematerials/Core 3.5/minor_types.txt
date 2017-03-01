@@ -1,0 +1,7 @@
+26,Armour and Shields,-,-,-
+33,Weapons,-,-,-
+231,Potions,-,-,-
+13,Rings,-,-,-
+231,Scrolls,-,-,-
+66,Wands,-,-,-
+59,Wondrous Items,-,-,-

@@ -1,0 +1,14 @@
+66,Bane,-,-,-
+46,Defending,-,-,-
+66,Flaming,-,-,-
+66,Frost,-,-,-
+66,Shock,-,-,-
+59,Ghost touch,-,-,-
+72,Keen,-,-,-
+26,Ki Focus,-,-,-
+26,Merciful,-,-,-
+46,Mighty cleaving,-,-,-
+33,Spell storing,-,-,-
+26,Throwing,-,-,-
+26,Thundering,-,-,-
+26,Vicious,-,-,-

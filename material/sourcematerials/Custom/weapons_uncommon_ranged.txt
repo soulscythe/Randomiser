@@ -1,0 +1,3 @@
+52,Bolt Caster,4,Wood,-
+66,Hand Caster,2,Wood,-
+39,Long Caster,7,Wood,-

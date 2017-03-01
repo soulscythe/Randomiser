@@ -1,0 +1,74 @@
+6,Animal call,-,Metal,-
+6,Armor maintenance kit,1,-,-
+6,Banner/standard,10,Cloth,-
+6,Barbed wire (50 ft.),35,Metal,-
+6,False Book,2,Paper,Leather
+6,Dwarven Brewmaker,5,-,-
+1,Cage (Diminutive),13,Metal,-
+1,Cage (Tiny),25,Metal,-
+1,Cage (Small),75,Metal,-
+1,Cage (Medium),100,Metal,-
+1,Cage (Large),200,Metal,-
+3,Silver Candelabra (four-candle),0.5,Metal,-
+3,Gold Candelabra (four-candle),1,Metal,-
+3,Silver Candelabra (eight-candle),1,Metal,-
+3,Gold Candelabra (eight-candle),2,Metal,-
+3,Silver Candelabra (sixteen-candle),3,Metal,-
+3,Gold Candelabra (sixteen-candle),6,Metal,-
+6,Candle mold,5,Wood,-
+6,Insectbane Candle,-,Wax,-
+6,Earplugs,-,-,-
+6,Finger blades,-,Metal,-
+6,Fishing tackle,5,Metal,-
+6,Flotation bags,1,Cloth,-
+6,Fowler's snare,5,-,-
+6,Portable Game board,1,-,-
+6,Glass cutter,1,Metal,-
+6,Collapsible Grappling hook,2,Metal,-
+6,Grappling ladder (10 ft.),8,Wood,Metal
+6,Hammock,1,Cloth,-
+6,Heat mat,-,-,-
+6,Holy text,3,Paper,-
+6,Housebreaker harness,2,Cloth,-
+6,Insect netting,5,Cloth,-
+6,Jeweler's loupe,-,-,-
+6,Hand keg,10,Wood,-
+6,Cask,20,Wood,-
+6,Fog-cutter Lantern,3,Metal,Glass
+1,Leash and muzzle (Diminutive),-,Leather,-
+1,Leash and muzzle (Tiny),-,Leather,-
+1,Leash and muzzle (Small),-,Leather,-
+1,Leash and muzzle (Medium),-,Leather,-
+6,Marbles,2,Glass,-
+6,Mess kit,1,-,-
+6,Money belt,-,Leather,-
+6,Music box,-,-,-
+6,Butterfly Net,0.25,Cloth,Wood
+6,Percolator,1,-,-
+6,Periscope,2,Metal,Glass
+6,Pestle and mortar,1,Stone,-
+6,Quiver scabbard,2,Leather,-
+6,Elven Rope (20 ft.),5,Cloth,-
+6,Silent Shoes,1,Leather,-
+6,Shriek rock,0.25,Stone,-
+6,Skis and poles,6,Wood,-
+6,Slate board,1,Stone,-
+6,Snorkel,0.5,Metal,-
+6,Snow goggles,-,Glass,Leather
+6,Snowshoes,8,Leather,Wood
+6,Sparker,-,Stone,-
+6,Spider poles,8,Metal,-
+6,Springwall,1,Cloth,-
+6,Stilts,8,Wood,-
+6,Folding Table case,5,Wood,-
+6,Tarp,30,Cloth,-
+6,Teepee,100,Cloth,Wood
+6,Tent (one-person),10,Cloth,Wood
+6,Tent (four-person),40,Cloth,Wood
+6,Tent (pavilion),300,Cloth,Wood
+6,Thieving helmet,1,Leather,-
+6,Tree stand,5,Wood,-
+6,Elven Tree tent,5,Cloth,-
+6,Roll Twine (50 ft.),-,Cloth,-
+6,lawful/chaotic Water,1,Glass,-
+6,Candle Wick (50 ft.),-,Cloth,Wax

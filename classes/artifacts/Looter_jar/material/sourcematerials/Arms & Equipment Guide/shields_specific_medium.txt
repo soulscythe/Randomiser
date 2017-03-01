@@ -1,0 +1,5 @@
+30,Swarm shield,-,-,-
+69,Variable shield,-,-,-
+90,Beetle buckler,-,-,-
+90,Useful buckler,-,-,-
+21,Spider shield,-,-,-

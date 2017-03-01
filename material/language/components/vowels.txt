@@ -1,0 +1,6 @@
+a,soft
+e,soft
+i,soft
+o,soft
+u,soft
+y,soft,exotic

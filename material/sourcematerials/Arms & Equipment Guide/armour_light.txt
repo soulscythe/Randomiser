@@ -1,0 +1,11 @@
+25,Bark,15,Wood,-
+25,Bondleaf wrap,2,Plant,-
+25,Bone,20,Bone,-
+25,Cord,15,Cloth,-
+25,Leather scale,20,Leather,-
+5,Moon-ivy,5,Plant,-
+5,Moon-ivy (Explosive Spore),5,Plant,-
+5,Moon-ivy (Poison Ivy),5,Plant,-
+5,Moon-ivy (Pheromones),5,Plant,-
+25,Wicker,5,Plant,-
+25,Wood,15,Wood,-

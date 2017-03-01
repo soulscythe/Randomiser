@@ -1,0 +1,47 @@
+2,arcane sight,-,-,-
+2,blink,-,-,-
+2,clairaudience/clairvoyance,-,-,-
+1,cure serious wounds,-,-,-
+3,daylight,-,-,-
+2,deep slumber,-,-,-
+3,dispel magic,-,-,-
+2,displacement,-,-,-
+1,explosive runes,-,-,-
+2,fireball,-,-,-
+2,flame arrow,-,-,-
+3,fly,-,-,-
+2,gaseous form,-,-,-
+2,gentle repose,-,-,-
+1,glibness,-,-,-
+1,good hope,-,-,-
+2,halt undead,-,-,-
+3,haste,-,-,-
+2,heroism,-,-,-
+2,hold person,-,-,-
+1,illusory script,-,-,-
+3,invisibility sphere,-,-,-
+3,keen edge,-,-,-
+2,tiny hut,-,-,-
+2,lightning bolt,-,-,-
+8,magic circle against chaos/evil/good/law,-,-,-
+3,magic weapon, greater,-,-,-
+2,major image,-,-,-
+2,nondetection,-,-,-
+2,phantom steed,-,-,-
+3,protection from energy,-,-,-
+2,rage,-,-,-
+2,ray of exhaustion,-,-,-
+1,sculpt sound,-,-,-
+1,secret page,-,-,-
+1,sepia snake sigil,-,-,-
+1,shrink item,-,-,-
+2,sleet storm,-,-,-
+2,slow,-,-,-
+1,speak with animals,-,-,-
+2,stinking cloud,-,-,-
+2,suggestion,-,-,-
+2,summon monster III,-,-,-
+3,tongues,-,-,-
+2,vampiric touch,-,-,-
+3,water breathing,-,-,-
+2,wind wall,-,-,-

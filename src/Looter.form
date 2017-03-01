@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Looter">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="8" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1201" height="840"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="feb99" binding="RarityPanel" layout-manager="GridLayoutManager" row-count="15" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="4" left="4" bottom="4" right="4"/>
+        <constraints>
+          <grid row="0" column="3" row-span="8" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="bevel-lowered"/>
+        <children>
+          <component id="9e669" class="javax.swing.JSlider" binding="sldAlchem">
+            <constraints>
+              <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="b28b9" class="javax.swing.JLabel" binding="lblAlchem">
+            <constraints>
+              <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="b87b5" class="javax.swing.JSlider" binding="sldAmmo">
+            <constraints>
+              <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="dddda" class="javax.swing.JLabel" binding="lblAmmo">
+            <constraints>
+              <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="cbb78" class="javax.swing.JSlider" binding="sldArmour">
+            <constraints>
+              <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="4f290" class="javax.swing.JLabel" binding="lblArmour">
+            <constraints>
+              <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="679d6" class="javax.swing.JSlider" binding="sldArt">
+            <constraints>
+              <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="7713f" class="javax.swing.JLabel" binding="lblArt">
+            <constraints>
+              <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="2d0b2" class="javax.swing.JSlider" binding="sldClothes">
+            <constraints>
+              <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="a1704" class="javax.swing.JLabel" binding="lblClothes">
+            <constraints>
+              <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="7bfd6" class="javax.swing.JSlider" binding="sldGames">
+            <constraints>
+              <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="aff1" class="javax.swing.JLabel" binding="lblGames">
+            <constraints>
+              <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="91c7e" class="javax.swing.JSlider" binding="sldJewellery">
+            <constraints>
+              <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="b69ad" class="javax.swing.JLabel" binding="lblJewellery">
+            <constraints>
+              <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="a5ef1" class="javax.swing.JSlider" binding="sldScrap">
+            <constraints>
+              <grid row="8" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="ae519" class="javax.swing.JLabel" binding="lblScrap">
+            <constraints>
+              <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="6d73" class="javax.swing.JSlider" binding="sldShields">
+            <constraints>
+              <grid row="9" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="dbeff" class="javax.swing.JLabel" binding="lblShields">
+            <constraints>
+              <grid row="9" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="8544c" class="javax.swing.JSlider" binding="sldTools">
+            <constraints>
+              <grid row="10" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="20a09" class="javax.swing.JLabel" binding="lblTools">
+            <constraints>
+              <grid row="10" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="4b0db" class="javax.swing.JSlider" binding="sldWeapons">
+            <constraints>
+              <grid row="11" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="a59cb" class="javax.swing.JLabel" binding="lblWeapons">
+            <constraints>
+              <grid row="11" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="8c1ba" class="javax.swing.JSlider" binding="sldKitchen">
+            <constraints>
+              <grid row="12" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="e580" class="javax.swing.JLabel" binding="lblKitchen">
+            <constraints>
+              <grid row="12" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="20a3d" class="javax.swing.JSlider" binding="sldMagicItems">
+            <constraints>
+              <grid row="13" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="89f30" class="javax.swing.JLabel" binding="lblMagicItems">
+            <constraints>
+              <grid row="13" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="88ac" class="javax.swing.JSlider" binding="sldGear">
+            <constraints>
+              <grid row="14" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="10"/>
+              <minorTickSpacing value="5"/>
+              <paintLabels value="false"/>
+              <paintTicks value="true"/>
+              <snapToTicks value="true"/>
+              <toolTipText value="Keep in mind these are not percentages, they are relative only to each other."/>
+            </properties>
+          </component>
+          <component id="de9c7" class="javax.swing.JLabel" binding="lblGear">
+            <constraints>
+              <grid row="14" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="30" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="50"/>
+            </properties>
+          </component>
+          <component id="e983d" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font style="1"/>
+              <text value="Relative Item Type Rarities"/>
+            </properties>
+          </component>
+          <component id="5659f" class="javax.swing.JButton" binding="btnAlchemical">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Alchemical"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="72396" class="javax.swing.JButton" binding="btnAmmo">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Ammunition"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="1f665" class="javax.swing.JButton" binding="btnArmour">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Armour"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="384ba" class="javax.swing.JButton" binding="btnArt">
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Art"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="a83de" class="javax.swing.JButton" binding="btnClothing">
+            <constraints>
+              <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Clothing"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="abbb1" class="javax.swing.JButton" binding="btnGames">
+            <constraints>
+              <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Games"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="aab80" class="javax.swing.JButton" binding="btnJewellery">
+            <constraints>
+              <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Jewellery"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="7425c" class="javax.swing.JButton" binding="btnScrap">
+            <constraints>
+              <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Scrap"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="38e52" class="javax.swing.JButton" binding="btnShields">
+            <constraints>
+              <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Shields"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="6f01c" class="javax.swing.JButton" binding="btnTools">
+            <constraints>
+              <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Tools"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="6188d" class="javax.swing.JButton" binding="btnWeapons">
+            <constraints>
+              <grid row="11" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Weapons"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="f59b5" class="javax.swing.JButton" binding="btnKitchenware">
+            <constraints>
+              <grid row="12" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Kitchenware"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="2ded3" class="javax.swing.JButton" binding="btnMagicItems">
+            <constraints>
+              <grid row="13" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Magic Items"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+          <component id="fc346" class="javax.swing.JButton" binding="btnGear">
+            <constraints>
+              <grid row="14" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <horizontalAlignment value="2"/>
+              <text value="Gear"/>
+              <toolTipText value="Add one item of this type to the current loot table."/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="7ed02" binding="LeftPanels" layout-manager="GridLayoutManager" row-count="8" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="8" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="7baee" binding="MainPanel" layout-manager="GridLayoutManager" row-count="8" column-count="7" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="3" column="0" row-span="2" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <hspacer id="1d18f">
+                <constraints>
+                  <grid row="0" column="6" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <component id="73368" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Encounter Level:"/>
+                </properties>
+              </component>
+              <component id="5f81e" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Loot Template:"/>
+                </properties>
+              </component>
+              <component id="cba14" class="javax.swing.JComboBox" binding="cmboType">
+                <constraints>
+                  <grid row="6" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <toolTipText value="Some general presets for the sliders on the right, feel free to choose one then modify as needed."/>
+                </properties>
+              </component>
+              <component id="e636c" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Chance of Damage:"/>
+                </properties>
+              </component>
+              <component id="cb2b3" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Loot Multiplyer:"/>
+                </properties>
+              </component>
+              <component id="9f873" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Min Items:"/>
+                </properties>
+              </component>
+              <component id="c0068" class="javax.swing.JLabel" binding="spn">
+                <constraints>
+                  <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Max Items:"/>
+                </properties>
+              </component>
+              <component id="8960e" class="javax.swing.JSpinner" binding="spnLevel">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <toolTipText value="Set this to use standard treasure tables, using the 'Encounter Loot' button."/>
+                </properties>
+              </component>
+              <component id="8c23b" class="javax.swing.JSpinner" binding="spnSize">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <toolTipText value="The multiplier used in creature details."/>
+                </properties>
+              </component>
+              <component id="546d0" class="javax.swing.JSpinner" binding="spnMinItems">
+                <constraints>
+                  <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <toolTipText value="Minimum 'Fluff' items to generate."/>
+                </properties>
+              </component>
+              <component id="8d8b0" class="javax.swing.JSpinner" binding="spnMaxItems">
+                <constraints>
+                  <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <toolTipText value="Maximum 'Fluff' items to generate."/>
+                </properties>
+              </component>
+              <component id="74e9c" class="javax.swing.JSlider" binding="sldDamageChance">
+                <constraints>
+                  <grid row="5" column="1" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <majorTickSpacing value="10"/>
+                  <minorTickSpacing value="5"/>
+                  <paintLabels value="false"/>
+                  <paintTicks value="true"/>
+                  <snapToTicks value="true"/>
+                  <toolTipText value="Chance of each item being in some way damaged"/>
+                </properties>
+              </component>
+              <component id="7b800" class="javax.swing.JLabel" binding="lblDamageChance">
+                <constraints>
+                  <grid row="5" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="50%"/>
+                </properties>
+              </component>
+              <component id="a9fa2" class="javax.swing.JSlider" binding="sldMaterialChance">
+                <constraints>
+                  <grid row="4" column="1" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <majorTickSpacing value="10"/>
+                  <minorTickSpacing value="5"/>
+                  <paintLabels value="false"/>
+                  <paintTicks value="true"/>
+                  <snapToTicks value="true"/>
+                  <toolTipText value="The chance of any item being made of an unusual material, like Mithral."/>
+                </properties>
+              </component>
+              <component id="aa50e" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Chance of Non-standard Material:"/>
+                </properties>
+              </component>
+              <component id="93ce5" class="javax.swing.JLabel" binding="lblMaterialChance">
+                <constraints>
+                  <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="50%"/>
+                </properties>
+              </component>
+              <vspacer id="79c78">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="7d122">
+                <constraints>
+                  <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="5d6d9" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Chance of Random Enchantment:"/>
+                </properties>
+              </component>
+              <component id="3cab3" class="javax.swing.JSlider" binding="sldEnchantment">
+                <constraints>
+                  <grid row="3" column="1" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <majorTickSpacing value="10"/>
+                  <minorTickSpacing value="5"/>
+                  <paintLabels value="false"/>
+                  <paintTicks value="true"/>
+                  <snapToTicks value="true"/>
+                  <toolTipText value="This will randomly (based on the chosen percentile chance) put an asterisk (*) after certain items in the loot table. You can then use the 'Randomise Enchantment' button above for each of those, until you find a suitable enchantment for the given item(s)."/>
+                </properties>
+              </component>
+              <component id="ff701" class="javax.swing.JLabel" binding="lblEnchantment">
+                <constraints>
+                  <grid row="3" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="50%"/>
+                </properties>
+              </component>
+              <component id="d72c4" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <horizontalAlignment value="10"/>
+                  <horizontalTextPosition value="11"/>
+                  <text value="Overwite current Loot Table?"/>
+                </properties>
+              </component>
+              <component id="45d03" class="javax.swing.JCheckBox" binding="chkOverwrite">
+                <constraints>
+                  <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <selected value="false"/>
+                  <text value=""/>
+                  <toolTipText value="Do you want the table below to be overwritten when randomising more loot?"/>
+                </properties>
+              </component>
+              <component id="56910" class="javax.swing.JButton" binding="btnFluff">
+                <constraints>
+                  <grid row="7" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Fluff Loot"/>
+                  <toolTipText value="Randomise 'Fluff' loot. Sliders on the right are used to decide what type of items are more likely to be found."/>
+                </properties>
+              </component>
+              <component id="2ccd7" class="javax.swing.JButton" binding="btnEncounter">
+                <constraints>
+                  <grid row="7" column="3" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Encounter Loot"/>
+                  <toolTipText value="Randomise Loot using standard encounter tables. Ensure that 'Encounter Level' is 1 or more."/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="bcfd5" binding="OutputPanel" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="6" column="0" row-span="2" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <scrollpane id="4045e">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <toolTipText value="You can use Shift or Ctrl while clicking cells to select multiple of them, and Ctrl+C to copy the text in the selected cells. They may then be pasted into a text file externally to save items."/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="55563" class="javax.swing.JTable" binding="lootTable">
+                    <constraints/>
+                    <properties/>
+                  </component>
+                </children>
+              </scrollpane>
+              <scrollpane id="72e58">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="3463" class="javax.swing.JTextArea" binding="txtDebug">
+                    <constraints/>
+                    <properties>
+                      <editable value="false"/>
+                    </properties>
+                  </component>
+                </children>
+              </scrollpane>
+            </children>
+          </grid>
+          <grid id="11ac8" binding="EnchantmentPanel" layout-manager="GridLayoutManager" row-count="2" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="4" left="4" bottom="4" right="4"/>
+            <constraints>
+              <grid row="0" column="0" row-span="3" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="bc01e" class="javax.swing.JButton" binding="btnEnchant">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Randomise Enchantment"/>
+                  <toolTipText value="This will pop up a window with a random magical 'enchantment'. These may not make sense, feel free to use the enchantment only as inspiration."/>
+                </properties>
+              </component>
+              <hspacer id="5000a">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

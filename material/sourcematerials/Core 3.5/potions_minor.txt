@@ -1,0 +1,41 @@
+66,Cure light wounds (potion),-,Glass,-
+19,Endure elements (potion),-,Glass,-
+13,Hide from animals (potion),-,Glass,-
+13,Hide from undead (potion),-,Glass,-
+13,Jump (potion),-,Glass,-
+19,Mage armor (potion),-,Glass,-
+19,Magic fang (potion),-,Glass,-
+6,Magic stone (oil),-,Glass,-
+6,Magic weapon (oil),-,Glass,-
+6,Pass without trace (potion),-,Glass,-
+13,Protection from (alignment) (potion),-,Glass,-
+13,Remove fear (potion),-,Glass,-
+6,Sanctuary (potion),-,Glass,-
+19,Shield of faith +2 (potion),-,Glass,-
+6,Shillelagh (oil),-,Glass,-
+13,Bless weapon (oil),-,Glass,-
+19,Enlarge person (potion),-,Glass,-
+6,Reduce person (potion),-,Glass,-
+13,Aid (potion),-,Glass,-
+19,Barkskin +2 (potion),-,Glass,-
+19,Bear's endurance (potion),-,Glass,-
+19,Blur (potion),-,Glass,-
+19,Bull's strength (potion),-,Glass,-
+19,Cat's grace (potion),-,Glass,-
+33,Cure moderate wounds (potion),-,Glass,-
+6,Darkness (oil),-,Glass,-
+19,Darkvision (potion),-,Glass,-
+19,Delay poison (potion),-,Glass,-
+13,Eagle's splendor (potion),-,Glass,-
+13,Fox's cunning (potion),-,Glass,-
+19,Invisibility (potion or oil),-,Glass,-
+19,Lesser restoration (potion),-,Glass,-
+13,Levitate (potion or oil),-,Glass,-
+6,Misdirection (potion),-,Glass,-
+13,Owl's wisdom (potion),-,Glass,-
+13,Protection from arrows 10/magic (potion),-,Glass,-
+13,Remove paralysis (potion),-,Glass,-
+19,Resist energy (type) 10 (potion),-,Glass,-
+6,Shield of faith +3 (potion),-,Glass,-
+13,Spider climb (potion),-,Glass,-
+6,Undetectable alignment (potion),-,Glass,-

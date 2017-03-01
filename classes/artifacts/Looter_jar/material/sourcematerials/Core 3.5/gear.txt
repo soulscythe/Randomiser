@@ -1,0 +1,65 @@
+6,Backpack (empty),2,Cloth,-
+6,Barrel (empty),30,Wood,-
+6,Basket (empty),1,Wood,-
+6,Bedroll,5,Cloth,-
+6,Bell,-,Metal,-
+6,winter Blanket,3,Cloth,-
+6,Block and tackle,5,Wood,Metal
+6,Glass wine Bottle,0.25,Glass,-
+6,Bucket (empty),2,Metal,-
+6,Caltrops,2,Metal,-
+6,Candle,-,Wax,-
+6,Canvas (sq. yd.),1,Cloth,-
+6,map or scroll Case,0.5,Wood,-
+6,Chain (10 ft.),2,Metal,-
+6,1 piece Chalk,-,Stone,-
+6,Chest (empty),25,Wood,Metal
+6,Crowbar,5,Metal,-
+6,Firewood,20,Wood,-
+6,Fishhook,-,Metal,-
+6,25 sq. ft. Fishing net,5,Cloth,-
+6,Flask (empty),1.5,Glass,-
+6,Flint and steel,-,Metal,Stone
+6,Grappling hook,4,Metal,-
+6,Hammer,2,Wood,Metal
+6,Ink (1 oz. vial),-,Glass,-
+6,Inkpen,-,Wood,Metal
+6,clay Jug,9,Clay,-
+6,10-foot Ladder,20,Wood,-
+6,common Lamp,1,Metal,Glass
+6,bullseye Lantern,3,Metal,Glass
+6,hooded Lantern,2,Metal,-
+6,Lock (very simple),1,Metal,-
+6,Lock (average),1,Metal,-
+6,Lock (good),1,Metal,-
+6,Lock (amazing),1,Metal,-
+6,Manacles,2,Metal,-
+6,masterwork Manacles,2,Metal,-
+6,small steel Mirror,0.5,Metal,-
+6,clay Mug/Tankard,1,Clay,-
+6,Oil (1-pint flask),1,Glass,-
+6,Paper (sheet),-,Paper,-
+6,Parchment (sheet),-,Paper,-
+6,miner's Pick,10,Wood,Metal
+6,clay Pitcher,5,Clay,-
+6,Piton,0.5,Metal,-
+6,10-foot Pole,8,Wood,-
+6,iron Pot,10,Metal,-
+6,belt (empty) Pouch,0.5,Leather,-
+6,portable Ram,20,Wood,Metal
+6,trail Rations,1,Food,-
+6,hempen Rope (50 ft.),10,Cloth,-
+6,silk Rope (50 ft.),5,Cloth,-
+6,Sack (empty),0.5,Cloth,-
+6,Sealing wax,-,Wax,-
+6,Sewing needle,-,Metal,-
+6,Signal whistle,-,Metal,-
+6,Signet ring,-,Metal,-
+6,Sledge,10,Wood,Metal
+6,Soap (per lb.),1,Soap,-
+6,Spade or shovel,8,Wood,Metal
+6,Spyglass,1,Metal,Glass
+6,Tent,20,Cloth,Wood
+6,Torch,1,Wood,-
+6,Waterskin,4,Leather,-
+6,Whetstone,1,Stone,-

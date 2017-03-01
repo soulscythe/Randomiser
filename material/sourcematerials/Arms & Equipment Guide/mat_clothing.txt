@@ -1,0 +1,4 @@
+6,Sackcloth,-,Cloth,-
+6,Linen,-,Cloth,-
+6,Velvet,-,Cloth,-
+6,Fur,-,Cloth,-

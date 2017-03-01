@@ -1,0 +1,9 @@
+30,[Specific Armour]Electric eel elixir,-,-,-
+36,[Specific Armour]Porcupine elixir,-,-,-
+36,[Specific Armour]Skin paint,-,-,-
+36,[Specific Armour]Beetle elixir,-,-,-
+36,[Specific Armour]Disarmor,-,-,-
+36,[Specific Armour]Plantbane,-,-,-
+36,[Specific Armour]Tesselated armor,-,-,-
+36,[Specific Armour]Rhino elixir,-,-,-
+21,[Specific Armour]Stonecunning,-,-,-

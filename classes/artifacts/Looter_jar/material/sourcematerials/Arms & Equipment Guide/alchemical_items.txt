@@ -1,0 +1,26 @@
+35,Bladefire (1 flask),1,Glass,-
+35,Acid Bullet,-,Glass,-
+35,Flame Bullet,-,Glass,-
+35,Priest's Bullet,-,Glass,-
+35,Focusing Candle,1,Wax,-
+35,Restful Candle,1,Wax,-
+35,Clearbreath (1 vial),-,Glass,-
+35,Darkvision powder (1 vial),-,Glass,-
+35,Defoliator (1 flask),1,Glass,-
+35,Dehydrated food,1,Food,-
+35,Dwarfblind (1 stone),1,Stone,-
+35,Farflame oil (1 flask),1,Glass,-
+35,Fleetfoot (1 vial),-,Glass,-
+35,Ghostoil (1 flask),1,Glass,-
+35,Gravebane (1 flask),1,Glass,-
+35,Hawk's ointment (1 vial),-,Glass,-
+35,Instant rope (1 flask),1,Glass,-
+35,Longbreath (1 vial),-,Glass,-
+35,Motelight (1 flask),1,Glass,-
+35,Nature's draught (1 vial),-,Glass,-
+35,Polar skin (1 flask),1,Glass,-
+35,Signal torch,1,Wood,-
+35,Sparkstone,1,Stone,-
+35,Stonebreaker acid (1 flask),1,Glass,-
+35,Verminbane (1 flask),1,Glass,-
+35,Vicious bleeder (1 flask),1,Glass,-

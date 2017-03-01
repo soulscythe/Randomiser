@@ -1,0 +1,9 @@
+30,[Specific Armour]Disarmor,-,-,-
+30,[Specific Armour]Plantbane,-,-,-
+30,[Specific Armour]Tesselated armor,-,-,-
+30,[Specific Armour]Rhino elixir,-,-,-
+33,[Specific Armour]Stonecunning,-,-,-
+36,[Specific Armour]Bale eye,-,-,-
+36,[Specific Armour]Armor of weapon Creation,-,-,-
+36,[Specific Armour]Gazebane,-,-,-
+39,[Specific Armour]Vampire hunter,-,-,-

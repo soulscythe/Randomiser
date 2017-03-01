@@ -1,0 +1,4 @@
+34,Acidic fire (1 flask),1,Glass,-
+34,Alchemist's Frost (1 flask),1,Glass,-
+34,Alchemist's Spark (1 flask),1,Glass,-
+34,Noxious Smokestick (1 stick),0.5,Wood,-

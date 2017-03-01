@@ -1,0 +1,7 @@
+Personal
+Touch
+Close (25ft)
+Medium (100ft)
+Long (400ft)
+Unlimited
+Other

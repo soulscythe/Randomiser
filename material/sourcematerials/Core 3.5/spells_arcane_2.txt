@@ -1,0 +1,58 @@
+1,animal messenger,-,-,-
+1,animal trance,-,-,-
+1,arcane lock,-,-,-
+2,bear’s endurance,-,-,-
+2,blindness/deafness,-,-,-
+2,blur,-,-,-
+3,bull’s strength,-,-,-
+1,calm emotions,-,-,-
+3,cat’s grace,-,-,-
+2,command undead,-,-,-
+1,continual flame,-,-,-
+1,cure moderate wounds,-,-,-
+1,darkness,-,-,-
+3,darkvision,-,-,-
+1,daze monster,-,-,-
+1,delay poison,-,-,-
+2,detect thoughts,-,-,-
+2,disguise self,-,-,-
+3,eagle’s splendor,-,-,-
+1,enthrall,-,-,-
+2,false life,-,-,-
+2,flaming sphere,-,-,-
+1,fog cloud,-,-,-
+3,fox’s cunning,-,-,-
+1,ghoul touch,-,-,-
+2,glitterdust,-,-,-
+1,gust of wind,-,-,-
+2,hypnotic pattern,-,-,-
+3,invisibility,-,-,-
+3,knock,-,-,-
+1,phantom trap,-,-,-
+2,levitate,-,-,-
+1,locate object,-,-,-
+1,magic mouth,-,-,-
+2,acid arrow,-,-,-
+1,minor image,-,-,-
+2,mirror image,-,-,-
+1,misdirection,-,-,-
+1,obscure object,-,-,-
+3,owl’s wisdom,-,-,-
+3,protection from arrows,-,-,-
+2,pyrotechnics,-,-,-
+3,resist energy,-,-,-
+1,rope trick,-,-,-
+1,scare,-,-,-
+2,scorching ray,-,-,-
+3,see invisibility,-,-,-
+1,shatter,-,-,-
+1,silence,-,-,-
+1,sound burst,-,-,-
+1,spectral hand,-,-,-
+2,spider climb,-,-,-
+2,summon monster II,-,-,-
+2,summon swarm,-,-,-
+1,hideous laughter,-,-,-
+1,touch of idiocy,-,-,-
+2,web,-,-,-
+1,whispering wind,-,-,-

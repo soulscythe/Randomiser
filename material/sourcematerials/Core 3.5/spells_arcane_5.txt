@@ -1,0 +1,46 @@
+2,animal growth,-,-,-
+3,baleful polymorph,-,-,-
+2,interposing hand,-,-,-
+2,blight,-,-,-
+3,break enchantment,-,-,-
+2,cloudkill,-,-,-
+3,cone of cold,-,-,-
+2,contact other plane,-,-,-
+1,mass cure light wounds,-,-,-
+3,dismissal,-,-,-
+3,greater dispel magic,-,-,-
+2,dominate person,-,-,-
+1,dream,-,-,-
+2,fabricate,-,-,-
+2,false vision,-,-,-
+2,feeblemind,-,-,-
+4,hold monster,-,-,-
+1,secret chest,-,-,-
+1,magic jar,-,-,-
+2,major creation,-,-,-
+2,mind fog,-,-,-
+2,mirage arcana,-,-,-
+2,mage’s faithful hound,-,-,-
+2,mage’s private sanctum,-,-,-
+2,nightmare,-,-,-
+4,overland flight,-,-,-
+3,passwall,-,-,-
+1,permanency,-,-,-
+2,persistent image,-,-,-
+2,lesser planar binding,-,-,-
+2,prying eyes,-,-,-
+2,telepathic bond,-,-,-
+2,seeming,-,-,-
+3,sending,-,-,-
+2,shadow evocation,-,-,-
+1,song of discord,-,-,-
+2,summon monster V,-,-,-
+1,symbol of pain,-,-,-
+1,symbol of sleep,-,-,-
+2,telekinesis,-,-,-
+5,teleport,-,-,-
+2,transmute mud to rock,-,-,-
+2,transmute rock to mud,-,-,-
+3,wall of force,-,-,-
+3,wall of stone,-,-,-
+2,waves of fatigue,-,-,-

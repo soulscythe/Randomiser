@@ -1,0 +1,23 @@
+39,Bane,-,-,-
+39,Defending,-,-,-
+46,Flaming,-,-,-
+46,Frost,-,-,-
+46,Shock,-,-,-
+33,Ghost touch,-,-,-
+39,Keen,-,-,-
+26,Ki Focus,-,-,-
+13,Merciful,-,-,-
+26,Mighty cleaving,-,-,-
+33,Spell storing,-,-,-
+26,Throwing,-,-,-
+13,Thundering,-,-,-
+26,Vicious,-,-,-
+19,Anarchic,-,-,-
+19,Axiomatic,-,-,-
+19,Disruption,-,-,-
+19,Flaming burst,-,-,-
+19,Icy burst,-,-,-
+19,Holy,-,-,-
+19,Shocking burst,-,-,-
+19,Unholy,-,-,-
+13,Wounding,-,-,-

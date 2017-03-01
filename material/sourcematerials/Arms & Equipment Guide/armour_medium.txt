@@ -1,0 +1,4 @@
+25,Brigandine,40,Leather,Metal
+45,Lamellar,35,Metal,Cloth
+35,Ring,35,Leather,Metal
+25,Shell,20,Shell,-

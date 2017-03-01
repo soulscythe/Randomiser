@@ -1,0 +1,35 @@
+Primary and secondary materials listed:
+Glass
+Wood
+Leather
+Metal
+Cloth
+Stone
+Ceramic
+Bone     --For variants on bone material, specify different creatures of origin
+Wax
+Clay
+Paper
+Food
+Plant	--For variants, possibly different plants of origin
+Shell
+Coral
+Crystal
+Chitin
+
+Item should be [Material] + " " + [Item Name]
+
+=========================================
+NPC GENERATOR
+=========================================
+
+Form should have various 'view' options,
+    firstly a 'social' view, showing {name, race, appearance basics, occupation, simple personality traits, maybe social skills}.
+    secondly, a 'combat' view, showing the relevant attack bonuses, weapons, stats and so on.
+    thirdly, a 'detailed' view, showing all the possible info available.
+
+Occupations list can also be used for hobbies, one might be a fisherman, with a hobby of wood carving.
+
+'Place of occupation' may need to be accounted for somehow...
+
+Certain occupations are specific to certain ages or genders. This may have to be accounted for.

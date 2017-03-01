@@ -1,0 +1,24 @@
+3,astral projection,-,-,-
+4,crushing hand,-,-,-
+5,dominate monster,-,-,-
+4,energy drain,-,-,-
+5,etherealness,-,-,-
+4,foresight,-,-,-
+4,freedom,-,-,-
+5,gate,-,-,-
+4,hold monster, mass,-,-,-
+4,imprisonment,-,-,-
+5,meteor swarm,-,-,-
+4,mage’s disjunction,-,-,-
+5,power word kill,-,-,-
+4,prismatic sphere,-,-,-
+4,refuge,-,-,-
+4,shades,-,-,-
+6,shapechange,-,-,-
+3,soul bind,-,-,-
+4,summon monster IX,-,-,-
+3,teleportation circle,-,-,-
+4,time stop,-,-,-
+4,wail of the banshee,-,-,-
+4,weird,-,-,-
+1,wish,-,-,-

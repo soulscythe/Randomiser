@@ -1,0 +1,40 @@
+19,Magic missile (5th),-,Wood,-
+26,Bear's endurance,-,Wood,-
+26,Bull's strength,-,Wood,-
+26,Cat's grace,-,Wood,-
+33,Cure moderate wounds,-,Wood,-
+13,Darkness,-,Wood,-
+13,Daze Monster,-,Wood,-
+19,Delay poison,-,Wood,-
+26,Eagle's splendor,-,Wood,-
+13,False life,-,Wood,-
+26,Fox's cunning,-,Wood,-
+6,Ghoul touch,-,Wood,-
+6,Hold person,-,Wood,-
+19,Invisibility,-,Wood,-
+13,Knock,-,Wood,-
+6,Levitate,-,Wood,-
+13,Acid arrow,-,Wood,-
+13,Mirror image,-,Wood,-
+26,Owl's wisdom,-,Wood,-
+6,Shatter,-,Wood,-
+13,Silence,-,Wood,-
+6,Summon monster II,-,Wood,-
+13,Web,-,Wood,-
+19,Magic missile (7th),-,Wood,-
+13,Magic missile (9th),-,Wood,-
+19,Call lightning (5th),-,Wood,-
+6,heightened (3rd-level spell) Charm person,-,Wood,-
+13,Contagion,-,Wood,-
+26,Cure serious wounds,-,Wood,-
+19,Dispel magic,-,Wood,-
+26,Fireball (5th),-,Wood,-
+13,Keen edge,-,Wood,-
+26,Lightning bolt (5th),-,Wood,-
+13,Major image,-,Wood,-
+13,Slow,-,Wood,-
+19,Suggestion,-,Wood,-
+19,Summon monster III,-,Wood,-
+6,Fireball (6th),-,Wood,-
+6,Lightning bolt (6th),-,Wood,-
+6,Searing light (6th),-,Wood,-

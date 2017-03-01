@@ -1,0 +1,6 @@
+6,Buckler,5,Leather,-
+6,light wooden Shield,5,Wood,-
+6,light steel Shield,6,Metal,-
+6,heavy wooden Shield,10,Wood,-
+6,heavy steel Shield,15,Metal,-
+6,tower Shield,45,Wood,-

@@ -1,0 +1,7 @@
+132,Arrow catching,-,-,-
+132,Bashing,-,-,-
+66,Blinding,-,-,-
+165,light Fortification,-,-,-
+178,Arrow deflection,-,-,-
+33,Animated,-,-,-
+13,Spell resistance (13),-,-,-

@@ -1,0 +1,7 @@
+Command word: [Word]
+Button
+Time of day: [Time]
+Continuous
+While held/worn
+Upon attacking with this item
+When using this item for it's usual purpose

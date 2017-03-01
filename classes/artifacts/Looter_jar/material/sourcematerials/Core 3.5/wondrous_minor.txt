@@ -1,0 +1,100 @@
+6,Universal solvent,-,-,-
+6,anchor Feather token,-,-,-
+6,Elixir of love,-,-,-
+6,Unguent of timelessness,-,-,-
+6,fan Feather token,-,-,-
+6,Dust of tracelessness,-,-,-
+6,Elixir of hiding,-,-,-
+6,Elixir of sneaking,-,-,-
+6,Elixir of swimming,-,-,-
+6,Elixir of vision,-,-,-
+6,Silversheen,-,-,-
+6,bird Feather token,-,-,-
+6,tree Feather token,-,-,-
+6,swan boat Feather token,-,-,-
+6,Elixir of truth,-,-,-
+6,whip Feather token,-,-,-
+6,Dust of dryness,-,-,-
+6,gray Bag of tricks,-,-,-
+6,Hand of the mage,-,-,-
+6,Bracers of armor +1,-,-,-
+6,Cloak of resistance +1,-,-,-
+6,1st-level spell Pearl of power,-,-,-
+6,Phylactery of faithfulness,-,-,-
+6,Salve of slipperiness,-,-,-
+6,Elixir of fire breath,-,-,-
+6,Pipes of the sewers,-,-,-
+6,Dust of illusion,-,-,-
+6,Goggles of minute seeing,-,-,-
+6,Brooch of shielding,-,-,-
+6,Necklace of fireballs type I,-,-,-
+6,Dust of appearance,-,-,-
+6,Hat of disguise,-,-,-
+6,Pipes of sounding,-,-,-
+6,Efficient quiver,-,-,-
+6,Amulet of natural armor +1,-,-,-
+6,Handy haversack,-,-,-
+6,Horn of fog,-,-,-
+6,Elemental gem,-,-,-
+6,Robe of bones,-,-,-
+6,Sovereign glue,-,-,-
+6,Bag of holding type I,-,-,-
+6,Boots of elvenkind,-,-,-
+6,Boots of the winterlands,-,-,-
+6,Candle of truth,-,-,-
+6,Cloak of elvenkind,-,-,-
+6,Eyes of the eagle,-,-,-
+6,golembane Scarab,-,-,-
+6,Necklace of fireballs type II,-,-,-
+6,Stone of alarm,-,-,-
+6,rust Bag of tricks,-,-,-
+6,Bead of force,-,-,-
+6,Chime of opening,-,-,-
+6,Horseshoes of speed,-,-,-
+6,Rope of climbing,-,-,-
+6,Dust of disappearance,-,-,-
+6,Lens of detection,-,-,-
+6,silver raven Figurine of wondrous power,-,-,-
+6,Amulet of health +2,-,-,-
+6,Bracers of armor +2,-,-,-
+6,Cloak of Charisma +2,-,-,-
+6,Cloak of resistance +2,-,-,-
+6,Gauntlets of ogre power,-,-,-
+6,Gloves of arrow snaring,-,-,-
+6,Gloves of Dexterity +2,-,-,-
+6,Headband of intellect +2,-,-,-
+6,clear spindle Ioun stone,-,-,-
+6,Restorative ointment,-,-,-
+6,Marvelous pigments,-,-,-
+6,2nd-level spell Pearl of power,-,-,-
+6,Periapt of Wisdom +2,-,-,-
+6,Stone salve,-,-,-
+6,Necklace of fireballs type III,-,-,-
+6,Circlet of persuasion,-,-,-
+6,Slippers of spider climbing,-,-,-
+6,Incense of meditation,-,-,-
+6,Bag of holding type II,-,-,-
+6,lesser Bracers of archery,-,-,-
+6,dusty rose prism Ioun stone,-,-,-
+6,Helm of comprehend languages and read magic,-,-,-
+6,Vest of escape,-,-,-
+6,Eversmoking bottle,-,-,-
+6,Sustaining spoon,-,-,-
+6,Necklace of fireballs type IV,-,-,-
+6,Boots of striding and springing,-,-,-
+6,Wind fan,-,-,-
+6,Necklace of fireballs type V,-,-,-
+6,Amulet of mighty fists +1,-,-,-
+6,Horseshoes of a zephyr,-,-,-
+6,Pipes of haunting,-,-,-
+6,Gloves of swimming and climbing,-,-,-
+6,tan Bag of tricks,-,-,-
+6,minor Circlet of blasting,-,-,-
+6,Horn of goodness/evil,-,-,-
+6,Shrouds of disintegration,-,-,-
+6,Robe of useful items,-,-,-
+6,folding Boat,-,-,-
+6,Cloak of the manta ray,-,-,-
+6,Bottle of air,-,-,-
+6,Bag of holding type III,-,-,-
+6,Periapt of health,-,-,-

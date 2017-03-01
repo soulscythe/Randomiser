@@ -1,0 +1,6 @@
+6,Scratched,-,-,-
+6,Chipped,-,-,-
+6,Dented/Bent,-,-,-
+6,Cracked,-,-,-
+6,Rusted/Tarnished,-,-,-
+6,Broken,-,-,-

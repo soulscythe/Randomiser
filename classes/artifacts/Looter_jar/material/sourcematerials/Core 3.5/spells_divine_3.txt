@@ -1,0 +1,45 @@
+2,animate dead,-,-,-
+2,bestow curse,-,-,-
+2,blindness/deafness,-,-,-
+2,call lightning,-,-,-
+2,contagion,-,-,-
+2,continual flame,-,-,-
+2,create food and water,-,-,-
+4,cure serious wounds,-,-,-
+1,darkvision,-,-,-
+2,daylight,-,-,-
+2,deeper darkness,-,-,-
+2,diminish plants,-,-,-
+2,dispel magic,-,-,-
+2,dominate animal,-,-,-
+2,glyph of warding,-,-,-
+1,heal mount,-,-,-
+2,helping hand,-,-,-
+2,inflict serious wounds,-,-,-
+2,invisibility purge,-,-,-
+2,locate object,-,-,-
+6,magic circle against chaos/evil/good/law,-,-,-
+2,greater magic fang,-,-,-
+2,magic vestment,-,-,-
+2,meld into stone,-,-,-
+3,neutralize poison,-,-,-
+2,obscure object,-,-,-
+2,plant growth,-,-,-
+3,prayer,-,-,-
+2,protection from energy,-,-,-
+2,quench,-,-,-
+3,remove blindness/deafness,-,-,-
+2,remove curse,-,-,-
+2,remove disease,-,-,-
+3,searing light,-,-,-
+2,sleet storm,-,-,-
+2,snare,-,-,-
+3,speak with dead,-,-,-
+2,speak with plants,-,-,-
+2,spike growth,-,-,-
+2,stone shape,-,-,-
+2,summon monster III,-,-,-
+2,summon nature’s ally III,-,-,-
+3,water breathing,-,-,-
+2,water walk,-,-,-
+2,wind wall,-,-,-

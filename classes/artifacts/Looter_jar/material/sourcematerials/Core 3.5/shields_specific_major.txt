@@ -1,0 +1,5 @@
+132,Caster's shield,-,-,-
+132,Spined shield,-,-,-
+132,Lion's shield,-,-,-
+198,Winged shield,-,-,-
+66,Absorbing shield,-,-,-

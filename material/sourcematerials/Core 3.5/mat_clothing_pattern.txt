@@ -1,0 +1,5 @@
+6,Striped,-,-,-
+6,Checkered,-,-,-
+6,Plaid,-,-,-
+6,Embroidered,-,-,-
+24,Plain,-,-,-

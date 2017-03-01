@@ -1,0 +1,3 @@
+2,Beetle Buckler,5,Chitin,-
+3,Dastana,5,Metal,-
+3,Stilletto Shield,10,Wood,Metal

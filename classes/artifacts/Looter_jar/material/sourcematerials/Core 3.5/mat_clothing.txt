@@ -1,0 +1,13 @@
+6,Leather,-,Leather,-
+6,Woolen,-,Cloth,-
+6,Silk,-,Cloth,-
+6,Cotton,-,Cloth,-
+6,Denim,-,Cloth,-
+6,Suede,-,Cloth,-
+6,Quilted Cotton,-,Cloth,-
+6,Treated Leather,-,Leather,-
+6,Satin,-,Cloth,-
+6,Fur Lined,-,Cloth,-
+6,Flaxen,-,Cloth,-
+6,Hempen,-,Cloth,-
+6,Flannel,-,Cloth,-

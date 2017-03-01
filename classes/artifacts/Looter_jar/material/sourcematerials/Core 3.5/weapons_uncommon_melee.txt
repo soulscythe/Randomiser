@@ -1,0 +1,29 @@
+6,orc double Axe,15,Metal,Wood
+6,spiked Chain,10,Metal,-
+6,punching Dagger,1,Metal,-
+6,Falchion,8,Metal,-
+6,dire Flail,10,Metal,-
+6,heavy Flail,10,Metal,-
+6,Flail,5,Metal,-
+6,Gauntlet,1,Metal,-
+6,spiked Gauntlet,1,Metal,-
+6,Glaive,10,Metal,Wood
+6,Greatclub,8,Wood,-
+6,Guisarme,12,Metal,Wood
+6,Halberd,12,Metal,Wood
+6,gnome hooked Hammer,6,Metal,Wood
+6,light Hammer,2,Metal,Wood
+6,Handaxe,3,Metal,Wood
+6,Kukri,2,Metal,-
+6,Longspear,9,Metal,Wood
+6,Net,6,Cloth,-
+6,heavy Pick,6,Metal,Wood
+6,light Pick,3,Metal,Wood
+6,Ranseur,12,Metal,Wood
+6,Sap,2,Leather,Metal
+6,Scythe,10,Metal,Wood
+6,Sickle,2,Metal,Wood
+6,two-bladed Sword,10,Metal,-
+6,Trident,4,Metal,Wood
+6,dwarven Urgrosh,12,Metal,Wood
+6,Whip,2,Leather,-

@@ -1,0 +1,4 @@
+66,Hide,25,Leather,-
+66,Scale mail,30,Metal,-
+66,Chainmail,40,Metal,-
+99,Breastplate,30,Metal,-

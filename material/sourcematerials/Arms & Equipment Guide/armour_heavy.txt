@@ -1,0 +1,3 @@
+14,Coral,40,Coral,-
+14,Dendritic,60,Crystal,-
+13,dwarven Stone,80,Stone,-

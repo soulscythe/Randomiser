@@ -1,0 +1,26 @@
+6,Apron,-,Leather,-
+6,Belt,-,Leather,-
+6,Boots,-,Leather,-
+6,Bodysuit,-,Cloth,-
+6,Cape,-,Cloth,-
+6,Chemise,-,Cloth,-
+6,Jerkin,-,Leather,-
+6,Codpeice,-,Leather,-
+6,Corset,-,Cloth,-
+6,Doublet,-,Cloth,-
+6,Dress,-,Cloth,-
+6,Girdle,-,Cloth,-
+6,Gloves,-,Leather,-
+6,Broad-Brimmed Hat,-,Cloth,-
+6,Fur-Trimmed Hat,-,Cloth,-
+6,Cap,-,Cloth,-
+6,Coif,-,Cloth,-
+6,Hood,-,Cloth,-
+1,Turban,-,Cloth,-
+1,Fez,-,Cloth,-
+6,Loincloth,-,Cloth,-
+6,Sash,-,Cloth,-
+6,Skirt,-,Cloth,-
+6,Stockings,-,Cloth,-
+6,Tabard,-,Cloth,-
+1,Toga,-,Cloth,-

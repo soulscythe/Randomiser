@@ -1,0 +1,2 @@
+3,Maul,20,Metal,Wood
+3,Lucerne hammer,10,Metal,Wood

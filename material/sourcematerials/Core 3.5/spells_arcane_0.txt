@@ -1,0 +1,22 @@
+4,acid splash,-,-,-
+4,arcane mark,-,-,-
+6,dancing lights,-,-,-
+4,daze,-,-,-
+7,detect magic,-,-,-
+4,detect poison,-,-,-
+4,disrupt undead,-,-,-
+4,flare,-,-,-
+5,ghost sound,-,-,-
+2,know direction,-,-,-
+6,light,-,-,-
+2,lullaby,-,-,-
+5,mage hand,-,-,-
+5,mending,-,-,-
+5,message,-,-,-
+5,open/close,-,-,-
+5,prestidigitation,-,-,-
+4,ray of frost,-,-,-
+6,read magic,-,-,-
+7,resistance,-,-,-
+2,summon instrument,-,-,-
+4,touch of fatigue,-,-,-

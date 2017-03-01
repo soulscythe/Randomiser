@@ -1,0 +1,3 @@
+330,[Specific Armour]Mithral shirt,-,-,-
+198,[Specific Armour]Dragonhide plate,-,-,-
+132,[Specific Armour]Elven chain,-,-,-

@@ -1,0 +1,6 @@
+3,Alchemist's Arrow,0.5,Glass,-
+5,blunt Arrow,0.5,Wood,-
+4,flight Arrow,0.5,Wood,Metal
+4,signal Arrow,0.5,Wood,Metal
+3,thundering Arrow,0.3,Wood,Stone
+4,tumbling Bolt,0.5,Wood,Metal

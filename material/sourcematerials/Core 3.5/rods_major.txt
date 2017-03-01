@@ -1,0 +1,29 @@
+26,Cancellation,5,Wood,-
+13,Enlarge Metamagic,5,Wood,-
+13,Extend Metamagic,5,Wood,-
+13,Silent Metamagic,5,Wood,-
+26,Wonder,5,Wood,-
+26,Python,5,Wood,-
+19,Flame extinguishing,5,Wood,-
+26,Viper,5,Wood,-
+33,Enemy detection,5,Wood,-
+39,Enlarge Metamagic,5,Wood,-
+39,Extend Metamagic,5,Wood,-
+39,Silent Metamagic,5,Wood,-
+33,Splendor,5,Wood,-
+33,Withering,5,Wood,-
+39,Empower Metamagic,5,Wood,-
+33,Thunder and lightning,5,Wood,-
+26,Quicken Metamagic,5,Wood,-
+26,Negation,5,Wood,-
+19,Absorption,5,Wood,-
+26,Flailing,5,Wood,-
+13,Maximize Metamagic,5,Wood,-
+13,Rulership,5,Wood,-
+13,Security,5,Wood,-
+13,Lordly might,5,Wood,-
+13,Empower Metamagic,5,Wood,-
+13,Quicken Metamagic,5,Wood,-
+13,Alertness,5,Wood,-
+6,Maximize Metamagic,5,Wood,-
+6,Quicken Metamagic,5,Wood,-

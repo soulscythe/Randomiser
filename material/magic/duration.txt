@@ -1,0 +1,9 @@
+instantaneous
+seconds
+rounds
+minutes
+hours
+days
+weeks
+months
+permanent
