@@ -82,21 +82,21 @@
       <file leaf-file-name="NPCGenerator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NPC/NPCGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2844141">
-              <caret line="385" column="20" selection-start-line="385" selection-start-column="20" selection-end-line="385" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.36177474">
+              <caret line="120" column="36" selection-start-line="120" selection-start-column="36" selection-end-line="120" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#10647#10648#0" expanded="true" />
-                <element signature="e#10699#10700#0" expanded="true" />
-                <element signature="e#12419#12420#0" expanded="true" />
-                <element signature="e#12435#12436#0" expanded="true" />
-                <element signature="e#14674#14682#0" expanded="true" />
-                <element signature="e#15353#15354#0" expanded="true" />
-                <element signature="e#15402#15403#0" expanded="true" />
-                <element signature="e#15437#15438#0" expanded="true" />
-                <element signature="e#15453#15454#0" expanded="true" />
-                <element signature="e#15492#15493#0" expanded="true" />
-                <element signature="e#15547#15548#0" expanded="true" />
+                <element signature="e#10669#10670#0" expanded="true" />
+                <element signature="e#10721#10722#0" expanded="true" />
+                <element signature="e#12441#12442#0" expanded="true" />
+                <element signature="e#12457#12458#0" expanded="true" />
+                <element signature="e#14696#14704#0" expanded="true" />
+                <element signature="e#15375#15376#0" expanded="true" />
+                <element signature="e#15424#15425#0" expanded="true" />
+                <element signature="e#15459#15460#0" expanded="true" />
+                <element signature="e#15475#15476#0" expanded="true" />
+                <element signature="e#15514#15515#0" expanded="true" />
+                <element signature="e#15569#15570#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -221,8 +221,8 @@
         <option value="$PROJECT_DIR$/material/npc/races.txt" />
         <option value="$PROJECT_DIR$/src/NPC/Subrace.java" />
         <option value="$PROJECT_DIR$/src/NPC/Race.java" />
-        <option value="$PROJECT_DIR$/src/NPC/NPCGenerator.java" />
         <option value="$PROJECT_DIR$/material/npc/occupations.txt" />
+        <option value="$PROJECT_DIR$/src/NPC/NPCGenerator.java" />
       </list>
     </option>
   </component>
@@ -1212,21 +1212,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NPC/NPCGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2844141">
-          <caret line="385" column="20" selection-start-line="385" selection-start-column="20" selection-end-line="385" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.36177474">
+          <caret line="120" column="36" selection-start-line="120" selection-start-column="36" selection-end-line="120" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#10647#10648#0" expanded="true" />
-            <element signature="e#10699#10700#0" expanded="true" />
-            <element signature="e#12419#12420#0" expanded="true" />
-            <element signature="e#12435#12436#0" expanded="true" />
-            <element signature="e#14674#14682#0" expanded="true" />
-            <element signature="e#15353#15354#0" expanded="true" />
-            <element signature="e#15402#15403#0" expanded="true" />
-            <element signature="e#15437#15438#0" expanded="true" />
-            <element signature="e#15453#15454#0" expanded="true" />
-            <element signature="e#15492#15493#0" expanded="true" />
-            <element signature="e#15547#15548#0" expanded="true" />
+            <element signature="e#10669#10670#0" expanded="true" />
+            <element signature="e#10721#10722#0" expanded="true" />
+            <element signature="e#12441#12442#0" expanded="true" />
+            <element signature="e#12457#12458#0" expanded="true" />
+            <element signature="e#14696#14704#0" expanded="true" />
+            <element signature="e#15375#15376#0" expanded="true" />
+            <element signature="e#15424#15425#0" expanded="true" />
+            <element signature="e#15459#15460#0" expanded="true" />
+            <element signature="e#15475#15476#0" expanded="true" />
+            <element signature="e#15514#15515#0" expanded="true" />
+            <element signature="e#15569#15570#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -118,7 +118,7 @@ public class NPCGenerator {
 			if (!s.trim().equals("")) personalityTraits.add(s.trim());
 		}
 		for (String s : readFileToArray(new File(materialPath + "\\occupations.txt"))) {
-			if (!s.trim().equals("")) occupations.add(s.trim());
+			if (!s.trim().equals("")) occupations.add(s.trim()); //handles blank lines
 		}
 		for (String s : readFileToArray(new File(materialPath + "\\idiosyncracies.txt"))) {
 			if (!s.trim().equals("")) idiosyncracies.add(s.trim());
