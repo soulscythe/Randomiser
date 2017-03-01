@@ -1,0 +1,24 @@
+//Military - each value here would be multiplied by 10 if in times of war, but this is the number of people kept in active garrison during times of peace.
+//Military rank goes: king/ruler > Herald > Pursuivant > Knight > Seargent-at-arms > Seargent > foot soldier > squire > page
+500,Arbalestier
+1500,Archer
+1500,Crossbowman
+200,Drummer
+100,Engineer (military)
+200,Guardsman
+1500,Halberdier
+200,Knifeman
+250,Mercenary
+1500,Pikeman
+250,Sapper (field fortifications specialist)
+500,Scout
+150,Siege Engineer
+1000,Sergeant
+250,Sergeant-at-arms
+1500,Spearman
+300,Spy
+1500,Swordsman
+1500,Cavalryman
+200,Squire
+200,Page
+200,Chaplain (religious duties in a military context)

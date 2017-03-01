@@ -1,0 +1,13 @@
+//Ill-Reputable
+1000,Burglar
+400,Cutpurse
+1500,Thug
+1500,Thief
+150,Assassin
+2000,Fence
+400,Footpad (someone that steals from pedestrians)
+1000,Outlaw
+500,Pickpocket
+300,Poacher
+250,Stewsman (brothel owner)
+400,Conman

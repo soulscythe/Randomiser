@@ -1,0 +1,27 @@
+100,Bailiff (makes arrests and executions)
+100,Catchpole (brings in debtors)
+40,Chancellor
+140,Constable
+50,Herald (responsible for announcements and proclamations, and knightly heraldry)
+100,Diplomat
+4,Exchequer (responsible for kingdom treasury and bookkeeping)
+400,Jailer
+30,Judge
+300,Knight
+20,Lord
+20,Lady
+100,Nobleman
+100,Noblewoman
+1,King
+1,Emperor
+4,Prince
+50,Pursuivant (officer of arms, ranked below Herald)
+50,Reeve (church warden)
+100,Sheriff
+80,Summoner (serves subpoenas)
+2000,Watchman
+500,Guard
+50,Barrister
+4,Steward (watches over a kingdom in a king's absence)
+20,Castellan (watches over a castle in the absence of it's owner)
+600,Messenger

@@ -1,0 +1,17 @@
+//The Learned
+,Alchemist
+,Astrologer
+,Astronomer
+,Tutor
+,Dean
+,Librarian
+,Mathemetician
+,Philosopher
+,Professor
+,Scholar
+,Scrivenor
+,Scribe
+,Theologian
+,Arcanologist
+,Historian
+,Geographer

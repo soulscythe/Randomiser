@@ -1,0 +1,12 @@
+//Non-occupations
+,Beggar
+,Buffoon
+,Hermit
+,Housewife
+,Landlord
+,Tenter
+,Peasant
+,Pilgrim
+,Refugee
+,Village Idiot
+,Madman

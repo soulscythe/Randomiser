@@ -1,0 +1,35 @@
+//Mercantile
+400,Acater (food provisioner)
+600,Apothecary
+200,Banker
+500,Boothman (grain seller)
+1000,Chapman (travelling merchant)
+200,Collier (coal maker/seller)
+150,Colporteur (seller of religious books)
+350,Drover (drives animals to market)
+450,Fishmonger
+400,Fruitier
+250,Fueller (sells wood/coal/turf as fuel)
+100,Glass Seller
+1000,Grocer
+800,Green Grocer
+500,Harberdasher (sells men's clothing)
+400,Herbalist
+800,Hay Merchant
+500,Innkeeper
+700,Ironmonger
+150,Lighterman (ferries goods from large ships to shore)
+350,Linen-draper (sells cloths and fabrics)
+80,Mercer (deals in fine fabrics like silk)
+2500,Merchant
+200,Oynter (oil seller)
+1200,Peddler
+120,Poulter (sells poultry)
+500,Skinner (sells furs and skins)
+80,Spice Merchant
+200,Stationer (sells books and writing supplies)
+350,Thresher (threshes grain, seperating it from straw)
+150,Unguentary (sells unguents and ointments)
+200,Confectioner
+350,Woodmonger (sells wood for fuel)
+250,Wine Seller

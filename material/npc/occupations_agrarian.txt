@@ -1,0 +1,21 @@
+//Farmers and foragers, those working with animals
+5000,Farmer
+200,Falconer
+350,Fewterer (keeper of hunting dogs)
+1000,Fisherman
+2000,Shepherd
+2000,Cowherd
+500,Fowler
+100,Forester
+80,Gamekeeper (ensures game are bred and not over-hunted)
+2000,Goatherd
+200,Hawker
+100,Hayward (tender of hedges)
+1500,Horse Trainer
+3500,Hunter
+800,Ostler (cares for horses)
+2000,Plowman
+4000,Reaper
+500,Sheepshearer
+1500,Swineherd
+1500,Trapper

@@ -1,0 +1,25 @@
+//Artists
+500,Artist
+1000,Bard
+300,Barker (advertises at entrance to shows)
+800,Geiger (one that plays a bowed and stringed instrument)
+150,Fool
+250,Glasspainter
+400,Harper
+80,Illuminator (lightworks for theatre)
+300,Jester
+500,Minstrel
+300,Acrobat
+75,Playwright
+700,Lutenist
+150,Mummer (predecessor to mimes)
+1200,Musician
+400,Painter
+500,Piper (musician)
+1000,Player (play actor)
+200,Poet
+350,Sculptor
+1000,Singer
+200,Troubadour (minstrel specializing in romances)
+400,Tumbler (lesser acrobat)
+150,Writer

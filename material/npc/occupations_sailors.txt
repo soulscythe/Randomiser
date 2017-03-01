@@ -1,0 +1,13 @@
+//Sailors
+,Bargeman
+,Boatman
+,Canaller
+,Ferryman
+,Mariner
+,Navigator
+,Sailor
+,Pilot
+,Sea Captain
+,Ship Captain
+,Shipchandler
+,Waterman
