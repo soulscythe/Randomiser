@@ -58,6 +58,7 @@ public class NPCGenerator {
 			"Resistance to fire damage, " +
 			"Knows Thaumaturgy cantrip","Infernal, Common","Medium",30,4.6f,6.7f,90,280,110);
 
+	//TODO: change for 5e
 	private String[] classes = {"Barbarian", "Bard", "Cleric","Druid","Fighter","Monk","Paladin","Ranger","Rogue","Sorcerer","Wizard",};
 	private String[] skills = {"Appraise","Balance","Bluff","Climb","Concentration","Craft","Decipher Script","Diplomacy","Disable Device","Disguise","Escape Artist","Forgery","Gather Information","Handle Animal","Heal","Hide","Intimidate","Jump","Knowledge","Listen","Move Silently","Open Lock","Perform","Profession","Ride","Search","Sense Motive","Sleight Of Hand","Spellcraft","Spot","Survival","Swim","Tumble","Use Magic Device","Use Rope"};
 
@@ -112,27 +113,38 @@ public class NPCGenerator {
 		femaleNames = new ArrayList<String>();
 		surnames = new ArrayList<String>();
 
-		for (String s : readFileToArray(new File(materialPath + "\\personality_traits.txt"))) {
-			if (!s.trim().equals("")) personalityTraits.add(s.trim());
-		}
+		/////////////////////////////////////////////////////////////////////////////////////////////////////
+		//occupations parsing////////////////////////////////////////////////////////////////////////////////
+		/////////////////////////////////////////////////////////////////////////////////////////////////////
 		for (String s : readFileToArray(new File(materialPath + "\\occupations.txt"))) {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
-			else occupations.add(s.trim());
+			occupations.add(s.trim());
+		}
+		/////////////////////////////////////////////////////////////////////////////////////////////////////
+		/////////////////////////////////////////////////////////////////////////////////////////////////////
+		for (String s : readFileToArray(new File(materialPath + "\\personality_traits.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue;
+			personalityTraits.add(s.trim());
 		}
 		for (String s : readFileToArray(new File(materialPath + "\\idiosyncracies.txt"))) {
-			if (!s.trim().equals("")) idiosyncracies.add(s.trim());
+			if (s.trim().equals("") || s.startsWith("//")) continue;
+			idiosyncracies.add(s.trim());
 		}
 		for (String s : readFileToArray(new File(materialPath + "\\appearance_details.txt"))) {
-			if (!s.trim().equals("")) appearanceDetails.add(s.trim());
+			if (s.trim().equals("") || s.startsWith("//")) continue;
+			appearanceDetails.add(s.trim());
 		}
 		for (String s : readFileToArray(new File(materialPath + "\\names_male.txt"))) {
-			if (!s.trim().equals("")) maleNames.add(s.trim());
+			if (s.trim().equals("") || s.startsWith("//")) continue;
+			maleNames.add(s.trim());
 		}
 		for (String s : readFileToArray(new File(materialPath + "\\names_female.txt"))) {
-			if (!s.trim().equals("")) femaleNames.add(s.trim());
+			if (s.trim().equals("") || s.startsWith("//")) continue;
+			femaleNames.add(s.trim());
 		}
 		for (String s : readFileToArray(new File(materialPath + "\\names_surname.txt"))) {
-			if (!s.trim().equals("")) surnames.add(s.trim());
+			if (s.trim().equals("") || s.startsWith("//")) continue;
+			surnames.add(s.trim());
 		}
 
 	}
