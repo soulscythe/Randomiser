@@ -15,12 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36916352-8763-4627-a7b0-7c9349975396" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCGenerator.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/Looter_jar/Looter.jar" afterPath="$PROJECT_DIR$/classes/artifacts/Looter_jar/Looter.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/npc/occupations.txt" afterPath="$PROJECT_DIR$/material/npc/occupations.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NPC/NPCGenerator.java" afterPath="$PROJECT_DIR$/src/NPC/NPCGenerator.java" />
     </list>
     <ignored path="Looter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +44,49 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="122" column="32" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
               <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#4902#4903#0" expanded="false" />
+                <element signature="e#4955#4956#0" expanded="false" />
+                <element signature="e#5608#5609#0" expanded="false" />
+                <element signature="e#5672#5673#0" expanded="false" />
+                <element signature="e#5711#5712#0" expanded="false" />
+                <element signature="e#5782#5783#0" expanded="false" />
                 <element signature="method#parseToRandomiser#0;class#Looter#0" expanded="false" />
+                <element signature="e#14942#14943#0" expanded="false" />
+                <element signature="e#15018#15019#0" expanded="false" />
+                <element signature="e#15163#15164#0" expanded="false" />
+                <element signature="e#15235#15236#0" expanded="false" />
+                <element signature="e#15382#15383#0" expanded="false" />
+                <element signature="e#15458#15459#0" expanded="false" />
+                <element signature="e#15602#15603#0" expanded="false" />
+                <element signature="e#15672#15673#0" expanded="false" />
+                <element signature="e#15820#15821#0" expanded="false" />
+                <element signature="e#15898#15899#0" expanded="false" />
+                <element signature="e#16044#16045#0" expanded="false" />
+                <element signature="e#16118#16119#0" expanded="false" />
+                <element signature="e#16268#16269#0" expanded="false" />
+                <element signature="e#16350#16351#0" expanded="false" />
+                <element signature="e#16498#16499#0" expanded="false" />
+                <element signature="e#16576#16577#0" expanded="false" />
+                <element signature="e#16722#16723#0" expanded="false" />
+                <element signature="e#16796#16797#0" expanded="false" />
+                <element signature="e#16944#16945#0" expanded="false" />
+                <element signature="e#17022#17023#0" expanded="false" />
+                <element signature="e#17168#17169#0" expanded="false" />
+                <element signature="e#17242#17243#0" expanded="false" />
+                <element signature="e#17390#17391#0" expanded="false" />
+                <element signature="e#17468#17469#0" expanded="false" />
+                <element signature="e#17619#17620#0" expanded="false" />
+                <element signature="e#17703#17704#0" expanded="false" />
+                <element signature="e#17848#17849#0" expanded="false" />
+                <element signature="e#17920#17921#0" expanded="false" />
+                <element signature="e#18074#18075#0" expanded="false" />
+                <element signature="e#18161#18162#0" expanded="false" />
+                <element signature="e#18316#18317#0" expanded="false" />
+                <element signature="e#18409#18410#0" expanded="false" />
+                <element signature="e#18562#18563#0" expanded="false" />
+                <element signature="e#18651#18652#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -97,8 +135,8 @@
       <file leaf-file-name="occupations.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/material/npc/occupations.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="61" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.15472127">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -129,7 +167,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -674,6 +714,13 @@
       <option name="number" value="Default" />
       <updated>1455800079620</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1488338957772</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488338957772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -687,23 +734,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1700" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18335208" sideWeight="0.5021436" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16707318" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" x="703" y="159" width="234" height="924" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16707318" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" x="703" y="159" width="234" height="924" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.041577823" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -747,6 +794,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1065,7 +1116,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1128,7 +1181,49 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="122" column="32" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
           <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4902#4903#0" expanded="false" />
+            <element signature="e#4955#4956#0" expanded="false" />
+            <element signature="e#5608#5609#0" expanded="false" />
+            <element signature="e#5672#5673#0" expanded="false" />
+            <element signature="e#5711#5712#0" expanded="false" />
+            <element signature="e#5782#5783#0" expanded="false" />
             <element signature="method#parseToRandomiser#0;class#Looter#0" expanded="false" />
+            <element signature="e#14942#14943#0" expanded="false" />
+            <element signature="e#15018#15019#0" expanded="false" />
+            <element signature="e#15163#15164#0" expanded="false" />
+            <element signature="e#15235#15236#0" expanded="false" />
+            <element signature="e#15382#15383#0" expanded="false" />
+            <element signature="e#15458#15459#0" expanded="false" />
+            <element signature="e#15602#15603#0" expanded="false" />
+            <element signature="e#15672#15673#0" expanded="false" />
+            <element signature="e#15820#15821#0" expanded="false" />
+            <element signature="e#15898#15899#0" expanded="false" />
+            <element signature="e#16044#16045#0" expanded="false" />
+            <element signature="e#16118#16119#0" expanded="false" />
+            <element signature="e#16268#16269#0" expanded="false" />
+            <element signature="e#16350#16351#0" expanded="false" />
+            <element signature="e#16498#16499#0" expanded="false" />
+            <element signature="e#16576#16577#0" expanded="false" />
+            <element signature="e#16722#16723#0" expanded="false" />
+            <element signature="e#16796#16797#0" expanded="false" />
+            <element signature="e#16944#16945#0" expanded="false" />
+            <element signature="e#17022#17023#0" expanded="false" />
+            <element signature="e#17168#17169#0" expanded="false" />
+            <element signature="e#17242#17243#0" expanded="false" />
+            <element signature="e#17390#17391#0" expanded="false" />
+            <element signature="e#17468#17469#0" expanded="false" />
+            <element signature="e#17619#17620#0" expanded="false" />
+            <element signature="e#17703#17704#0" expanded="false" />
+            <element signature="e#17848#17849#0" expanded="false" />
+            <element signature="e#17920#17921#0" expanded="false" />
+            <element signature="e#18074#18075#0" expanded="false" />
+            <element signature="e#18161#18162#0" expanded="false" />
+            <element signature="e#18316#18317#0" expanded="false" />
+            <element signature="e#18409#18410#0" expanded="false" />
+            <element signature="e#18562#18563#0" expanded="false" />
+            <element signature="e#18651#18652#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1143,8 +1238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/material/npc/occupations.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="61" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.15472127">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>

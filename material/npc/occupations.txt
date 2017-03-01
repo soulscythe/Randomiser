@@ -1,4 +1,4 @@
-//Numbers before are intended to be a rough estimation of the
+//Numbers before are intended to be a rough estimation of the amount of people in that occupation, of a population of 1,000,000.
 Bailiff
 Catchpole
 Chancellor
