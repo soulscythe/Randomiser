@@ -1,199 +1,205 @@
 //Numbers before are intended to be a rough estimation of the amount of people in that occupation, of a population of 1,000,000.
-Bailiff
-Catchpole
-Chancellor
-Constable
-Herald
-Diplomat
-Exchequer
-Jailer
-Judge
-Knight
-100,Lord
-100,Lady
-1000,Nobleman
-1000,Noblewoman
+100,Bailiff (makes arrests and executions)
+100,Catchpole (brings in debtors)
+40,Chancellor
+140,Constable
+50,Herald (responsible for announcements and proclamations, and knightly heraldry)
+100,Diplomat
+4,Exchequer (responsible for kingdom treasury and bookkeeping)
+400,Jailer
+30,Judge
+300,Knight
+20,Lord
+20,Lady
+100,Nobleman
+100,Noblewoman
 1,King
 1,Emperor
 4,Prince
-Pursuivant
-Reeve
-Sheriff
-Summoner
-Watchman
-Guard
-Barrister
-Steward
-Castellan
-Messenger
+50,Pursuivant (officer of arms, ranked below Herald)
+50,Reeve (church warden)
+100,Sheriff
+80,Summoner (serves subpoenas)
+2000,Watchman
+500,Guard
+50,Barrister
+4,Steward (watches over a kingdom in a king's absence)
+20,Castellan (watches over a castle in the absence of it's owner)
+600,Messenger
 
-Arbalestier
-Archer
-Crossbowman
-Drummer
-Engineer
-Guardsman
-Halberdier
-Knifeman
-Mercenary
-Pikeman
-Sapper
-Scout
-Siege Engineer
-Sergeant
-Sergeant-at-arms
-Spearman
-Spy
-Swordsman
-Cavalryman
-Squire
-Page
-Chaplain
+//Military - each value here would be multiplied by 10 if in times of war, but this is the number of people kept in active garrison during times of peace.
+//Military rank goes: king/ruler > Herald > Pursuivant > Knight > Seargent-at-arms > Seargent > foot soldier > squire > page
+500,Arbalestier
+1500,Archer
+1500,Crossbowman
+200,Drummer
+100,Engineer (military)
+200,Guardsman
+1500,Halberdier
+200,Knifeman
+250,Mercenary
+1500,Pikeman
+250,Sapper (field fortifications specialist)
+500,Scout
+150,Siege Engineer
+1000,Sergeant
+250,Sergeant-at-arms
+1500,Spearman
+300,Spy
+1500,Swordsman
+1500,Cavalryman
+200,Squire
+200,Page
+200,Chaplain (religious duties in a military context)
 
-Burglar
-Cutpurse
-Thug
-Thief
-Assassin
-Fence
-Footpad
-Outlaw
-Pickpocket
-Poacher
-Stewsman
-Conman
+//Ill-Reputable
+1000,Burglar
+400,Cutpurse
+1500,Thug
+1500,Thief
+150,Assassin
+2000,Fence
+400,Footpad (someone that steals from pedestrians)
+1000,Outlaw
+500,Pickpocket
+300,Poacher
+250,Stewsman (brothel owner)
+400,Conman
 
-Acater
-Apothecary
-Banker
-Boothman
-Chapman
-Collier
-Colporteur
-Drover
-Eggler
-Fishmonger
-Fruitier
-Fueller
-Glass Seller
-Grocer
-Green Grocer
-Harberdasher
-Herbalist
-Hay Merchant
-Innkeeper
-Ironmonger
-Lighterman
-Linen-draper
-Mercer
-Merchant
-Hawker
-Oynter
-Peddler
-Poulter
-Skinner
-Spice Merchant
-Stationer
-Thresher
-Unguentary
-Confectioner
-Woodmonger
-Wine Seller
+//Mercantile
+400,Acater (food provisioner)
+600,Apothecary
+200,Banker
+500,Boothman (grain seller)
+1000,Chapman (travelling merchant)
+200,Collier (coal maker/seller)
+150,Colporteur (seller of religious books)
+350,Drover (drives animals to market)
+450,Fishmonger
+400,Fruitier
+250,Fueller (sells wood/coal/turf as fuel)
+100,Glass Seller
+1000,Grocer
+800,Green Grocer
+500,Harberdasher (sells men's clothing)
+400,Herbalist
+800,Hay Merchant
+500,Innkeeper
+700,Ironmonger
+150,Lighterman (ferries goods from large ships to shore)
+350,Linen-draper (sells cloths and fabrics)
+80,Mercer (deals in fine fabrics like silk)
+2500,Merchant
+200,Oynter (oil seller)
+1200,Peddler
+120,Poulter (sells poultry)
+500,Skinner (sells furs and skins)
+80,Spice Merchant
+200,Stationer (sells books and writing supplies)
+350,Thresher (threshes grain, seperating it from straw)
+150,Unguentary (sells unguents and ointments)
+200,Confectioner
+350,Woodmonger (sells wood for fuel)
+250,Wine Seller
 
-Artist
-Bard
-Barker
-Bear-Ward
-Fiddler
-Fool
-Glasspainter
-Harper
-Illuminator
-Jester
-Minstrel
-Acrobat
-Playwright
-Limner
-Lutenist
-Mummer
-Musician
-Painter
-Piper
-Player
-Poet
-Sculptor
-Singer
-Troubadour
-Tumbler
-Writer
+//Artists
+500,Artist
+1000,Bard
+300,Barker (advertises at entrance to shows)
+800,Geiger (one that plays a bowed and stringed instrument)
+150,Fool
+250,Glasspainter
+400,Harper
+80,Illuminator (lightworks for theatre)
+300,Jester
+500,Minstrel
+300,Acrobat
+75,Playwright
+700,Lutenist
+150,Mummer (predecessor to mimes)
+1200,Musician
+400,Painter
+500,Piper (musician)
+1000,Player (play actor)
+200,Poet
+350,Sculptor
+1000,Singer
+200,Troubadour (minstrel specializing in romances)
+400,Tumbler (lesser acrobat)
+150,Writer
 
-Farmer
-Falconer
-Fewterer
-Fisherman
-Shepherd
-Cowherd
-Fowler
-Forester
-Gamekeeper
-Goatherd
-Hawker
-Hayward
-Horse Trainer
-Hunter
-Huntsman
-Ostler
-Plowman
-Reaper
-Sheepshearer
-Swineherd
-Thresher
-Tillerman
-Trapper
-Woolman
+//Farmers and foragers, those working with animals
+,Farmer
+,Falconer
+,Fewterer
+,Fisherman
+,Shepherd
+,Cowherd
+,Fowler
+,Forester
+,Gamekeeper
+,Goatherd
+,Hawker
+,Hayward
+,Horse Trainer
+,Hunter
+,Huntsman
+,Ostler
+,Plowman
+,Reaper
+,Sheepshearer
+,Swineherd
+,Thresher
+,Tillerman
+,Trapper
+,Woolman
 
-Alchemist
-Astrologer
-Astronomer
-Tutor
-Dean
-Librarian
-Mathemetician
-Philosopher
-Professor
-Scholar
-Scrivenor
-Scribe
-Theologian
-Arcanologist
-Historian
-Geographer
+//The Learned
+,Alchemist
+,Astrologer
+,Astronomer
+,Tutor
+,Dean
+,Librarian
+,Mathemetician
+,Philosopher
+,Professor
+,Scholar
+,Scrivenor
+,Scribe
+,Theologian
+,Arcanologist
+,Historian
+,Geographer
 
-Bargeman
-Boatman
-Canaller
-Ferryman
-Mariner
-Navigator
-Sailor
-Pilot
-Sea Captain
-Ship Captain
-Shipchandler
-Waterman
+//Sailors
+,Bargeman
+,Boatman
+,Canaller
+,Ferryman
+,Mariner
+,Navigator
+,Sailor
+,Pilot
+,Sea Captain
+,Ship Captain
+,Shipchandler
+,Waterman
 
-Beggar
-Buffoon
-Hermit
-Housewife
-Landlord
-Tenter
-Peasant
-Pilgrim
-Refugee
-Village Idiot
-Madman
+//Non-occupations
+,Beggar
+,Buffoon
+,Hermit
+,Housewife
+,Landlord
+,Tenter
+,Peasant
+,Pilgrim
+,Refugee
+,Village Idiot
+,Madman
 
+//Craftsmen - common
 366,Shoemaker
 214,Furrier
 197,Tailor
@@ -222,184 +228,185 @@ Madman
 23,Bleacher
 22,Cutler
 21,Glover
-Armoursmith
-Weaponsmith
+,Armoursmith
+,Weaponsmith
 
-Accoutrement maker
-Alabasterer
-Architect
-Arkwright
-Armorer
-Arrowsmith
-Balancemaker
-Basketmaker
-Beekeeper
-Beerbrewer
-Bellfounder
-Bellmaker
-Broom maker
-Billier
-Blockcutter
-Boatwright
-Bodger
-Bonecarver
-Bookbinder
-Bookprinter
-Bottelier
-Bowyer
-Brazier
-Brewer
-Bricker
-Bricklayer
-Embroiderer
-Bronzefounder
-Brushbinder
-Builder
-Buttonmaker
-Cabinetmaker
-Campaner
-Canvasser
-Carder
-Cardmaker
-Cartwright
-Cartographer
-Chainmaker
-Charcoalburner
-Cheesemaker
-Clockmaker
-Clothier
-Cobbler
-Coiner
-Combmaker
-Compasssmith
-Confectioner
-Coppersmith
-Cordwainer
-Corsetier
-Currier
-Delver
-Diamantaire
-Disher
-Drycooper
-Drywaller
-Dyer
-Engraver
-Fabricshearer
-Feltmaker
-Fletcher
-Founder
-Fuller
-Furniture maker
-Gemcutter
-Gilder
-Girdler
-Glassblower
-Glazier
-Goldbeater
-Goldsmith
-Gravedigger
-Grinder
-Hacker
-Hatter
-Horner
-Ivorist
-Joiner
-Knacker
-Knapper
-Knifesmith
-Lacemaker
-Lampwright
-Lancier
-Lanternmaker
-Lapidary
-Latoner
-Leadworker
-Lensgrinder
-Linen-armorer
-Linenspinner
-Lorimer
-Lutemaker
-Luthier
-Mailer
-Mailmaker
-Malemaker
-Marler
-Master builder
-Merchant taylor
-Milliner
-Miner
-Miniaturist
-Minter
-Mirrorer
-Nedeller
-Netmaker
-Oilmaker
-Papermaker
-Parchmenter
-Pasteler
-Pattenmaker
-Perukier
-Pewterer
-Physician
-Pinmaker
-Plasterer
-Plattner
-Plumber
-Pointer
-Poleturner
-Pot mender
-Potter
-Printer
-Purser
-Quarryman
-Quilter
-Rectifier
-Reedmaker
-Roper
-Rugweaver
-Sailmaker
-Saltboiler
-Salter
-Sawyer
-Scythesmith
-Seamstress
-Shingler
-Shipwright
-Siever
-Smelter
-Smith
-Soapmaker
-Spectaclesmaker
-Spooner
-Spurrer
-Stonecarver
-Stonecutter
-Stringer
-Swordsmith
-Tallowchandler
-Tapestrymaker
-Tasseler
-Thatcher
-Thonger
-Threadmaker
-Tile-burner
-Tiler
-Tile maker
-Tinker
-Tinsmith
-Treen maker
-Turner
-Typefounder
-Upholder
-Vaginarius
-Vintner
-Wainwright
-Webber
-Wheeler
-Wheelwright
-Wiredrawer
-Woodcarver
-Woodcutter
+//Craftsmen - less common
+,Accoutrement maker
+,Alabasterer
+,Architect
+,Arkwright
+,Armorer
+,Arrowsmith
+,Balancemaker
+,Basketmaker
+,Beekeeper
+,Beerbrewer
+,Bellfounder
+,Bellmaker
+,Broom maker
+,Billier
+,Blockcutter
+,Boatwright
+,Bodger
+,Bonecarver
+,Bookbinder
+,Bookprinter
+,Bottelier
+,Bowyer
+,Brazier
+,Brewer
+,Bricker
+,Bricklayer
+,Embroiderer
+,Bronzefounder
+,Brushbinder
+,Builder
+,Buttonmaker
+,Cabinetmaker
+,Campaner
+,Canvasser
+,Carder
+,Cardmaker
+,Cartwright
+,Cartographer
+,Chainmaker
+,Charcoalburner
+,Cheesemaker
+,Clockmaker
+,Clothier
+,Cobbler
+,Coiner
+,Combmaker
+,Compasssmith
+,Confectioner
+,Coppersmith
+,Cordwainer
+,Corsetier
+,Currier
+,Delver
+,Diamantaire
+,Disher
+,Drycooper
+,Drywaller
+,Dyer
+,Engraver
+,Fabricshearer
+,Feltmaker
+,Fletcher
+,Founder
+,Fuller
+,Furniture maker
+,Gemcutter
+,Gilder
+,Girdler
+,Glassblower
+,Glazier
+,Goldbeater
+,Goldsmith
+,Gravedigger
+,Grinder
+,Hacker
+,Hatter
+,Horner
+,Ivorist
+,Joiner
+,Knacker
+,Knapper
+,Knifesmith
+,Lacemaker
+,Lampwright
+,Lancier
+,Lanternmaker
+,Lapidary
+,Latoner
+,Leadworker
+,Lensgrinder
+,Linen-armorer
+,Linenspinner
+,Lorimer
+,Lutemaker
+,Luthier
+,Mailer
+,Mailmaker
+,Malemaker
+,Marler
+,Master builder
+,Merchant taylor
+,Milliner
+,Miner
+,Miniaturist
+,Minter
+,Mirrorer
+,Nedeller
+,Netmaker
+,Oilmaker
+,Papermaker
+,Parchmenter
+,Pasteler
+,Pattenmaker
+,Perukier
+,Pewterer
+,Physician
+,Pinmaker
+,Plasterer
+,Plattner
+,Plumber
+,Pointer
+,Poleturner
+,Pot mender
+,Potter
+,Printer
+,Purser
+,Quarryman
+,Quilter
+,Rectifier
+,Reedmaker
+,Roper
+,Rugweaver
+,Sailmaker
+,Saltboiler
+,Salter
+,Sawyer
+,Scythesmith
+,Seamstress
+,Shingler
+,Shipwright
+,Siever
+,Smelter
+,Smith
+,Soapmaker
+,Spectaclesmaker
+,Spooner
+,Spurrer
+,Stonecarver
+,Stonecutter
+,Stringer
+,Swordsmith
+,Tallowchandler
+,Tapestrymaker
+,Tasseler
+,Thatcher
+,Thonger
+,Threadmaker
+,Tile-burner
+,Tiler
+,Tile maker
+,Tinker
+,Tinsmith
+,Treen maker
+,Turner
+,Typefounder
+,Upholder
+,Vaginarius
+,Vintner
+,Wainwright
+,Webber
+,Wheeler
+,Wheelwright
+,Wiredrawer
+,Woodcarver
+,Woodcutter
 
 199,Maidservant
 151,Barber
@@ -411,62 +418,62 @@ Woodcutter
 26,Bather
 24,Copyist
 
-Accountant
-Actuary
-Attendent
-Bagger
-Bath attendent
-Bodyservant
-Butler
-Carman
-Carter
-Carver
-Ceiler
-Cellarer
-Clerk
-Chamberlain
-Chimney sweep
-Chirurgeon
-Cook
-Crier
-Dentist
-Ditcher
-Dog trainer
-Doorman
-Drayman
-Executioner
-Famulus
-Farrier
-Gardener
-Groom
-Harlot
-Kitchener
-Lawyer
-Link boy/man
-Maid
-Marshal
-Midwife
-Miller
-Napier
-Nurse
-Panter
-Paperer
-Pavior
-Pavyler
-Potboy
-Privycleaner
-Procurator
-Prostitute
-Quartermaster
-Raker
-Riveter
-Scullion
-Seneschal
-Sperviter
-Stainer
-Surgeon
-Slater
-Tapster
-Teamster
-Wagoner
-Waller
+,Accountant
+,Actuary
+,Attendent
+,Bagger
+,Bath attendent
+,Bodyservant
+,Butler
+,Carman
+,Carter
+,Carver
+,Ceiler
+,Cellarer
+,Clerk
+,Chamberlain
+,Chimney sweep
+,Chirurgeon
+,Cook
+,Crier
+,Dentist
+,Ditcher
+,Dog trainer
+,Doorman
+,Drayman
+,Executioner
+,Famulus
+,Farrier
+,Gardener
+,Groom
+,Harlot
+,Kitchener
+,Lawyer
+,Link boy/man
+,Maid
+,Marshal
+,Midwife
+,Miller
+,Napier
+,Nurse
+,Panter
+,Paperer
+,Pavior
+,Pavyler
+,Potboy
+,Privycleaner
+,Procurator
+,Prostitute
+,Quartermaster
+,Raker
+,Riveter
+,Scullion
+,Seneschal
+,Sperviter
+,Stainer
+,Surgeon
+,Slater
+,Tapster
+,Teamster
+,Wagoner
+,Waller

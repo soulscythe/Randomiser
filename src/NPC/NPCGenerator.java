@@ -42,7 +42,6 @@ public class NPCGenerator {
 	private Race forestGnome;
 	private Race rockGnome;
 	private Race halfElf = new Race("Half-Elf",new int[]{0,0,0,0,0,2},"Immunity to magical sleep effects, " +
-			"+2 on saving throws against Spells or Effects from the Enchantment school of magic, " +
 			"Darkvision, " +
 			"Immunity to magical sleep, " +
 			"Advantage on saving throws against being charmed, ","Common, Elven","Medium",30,4.6f,5.9f,85,230,185);
@@ -50,8 +49,7 @@ public class NPCGenerator {
 			"Proficiency in Intimidation, " +
 			"When reduced to 0HP, can choose to stay at 1HP, requires long rest to do again, " +
 			"On a critical hit, rolls one of damage dice once more","Common, Orc","Medium",30,4.6f,6.8f,115,440,80);
-	private Race halfling = new Race("Halfling",new int[]{0,2,0,0,0,0},"+2 on Climb, Jump, Listen, and Move Silently, " +
-			"Re-roll results of 1 on Attacks, Ability checks, and Saving Throws, " +
+	private Race halfling = new Race("Halfling",new int[]{0,2,0,0,0,0},"Re-roll results of 1 on Attacks, Ability checks, and Saving Throws, " +
 			"Advantage on Saving throws against Fear, " +
 			"Able to move through spaces of any creature of a larger size","Halfling","Small",25,2.7f,3.3f,25,40,200);
 	private Race lightfootHalfling;
