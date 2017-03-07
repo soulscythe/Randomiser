@@ -58,9 +58,8 @@ public class NPCGenerator {
 			"Resistance to fire damage, " +
 			"Knows Thaumaturgy cantrip","Infernal, Common","Medium",30,4.6f,6.7f,90,280,110);
 
-	//TODO: change for 5e
-	private String[] classes = {"Barbarian", "Bard", "Cleric","Druid","Fighter","Monk","Paladin","Ranger","Rogue","Sorcerer","Wizard",};
-	private String[] skills = {"Appraise","Balance","Bluff","Climb","Concentration","Craft","Decipher Script","Diplomacy","Disable Device","Disguise","Escape Artist","Forgery","Gather Information","Handle Animal","Heal","Hide","Intimidate","Jump","Knowledge","Listen","Move Silently","Open Lock","Perform","Profession","Ride","Search","Sense Motive","Sleight Of Hand","Spellcraft","Spot","Survival","Swim","Tumble","Use Magic Device","Use Rope"};
+	private String[] classes = {"Barbarian", "Bard", "Cleric","Druid","Fighter","Monk","Paladin","Ranger","Rogue","Sorcerer","Warlock","Wizard",};
+	private String[] skills = {"Acrobatics","Animal Handling","Arcana","Athletics","Deception","History","Insight","Intimidation","Investigation","Medicine","Nature","Perception","Performance","Persuasion","Religion","Sleight of Hand","Stealth","Survival"};
 
 	/////////////////////////////////////////////////
 	///TODO: The above should be converted into files read from folder, as to allow for expansion by user
@@ -68,7 +67,19 @@ public class NPCGenerator {
 
 
 
-	ArrayList<String> occupations;
+	ArrayList<String> occupations_agrarian;
+	ArrayList<String> occupations_art;
+	ArrayList<String> occupations_craftsmen;
+	ArrayList<String> occupations_criminal;
+	ArrayList<String> occupations_government;
+	ArrayList<String> occupations_mercantile;
+	ArrayList<String> occupations_military;
+	ArrayList<String> occupations_nonstandard;
+	ArrayList<String> occupations_sailors;
+	ArrayList<String> occupations_scholarly;
+	ArrayList<String> occupations_services;
+	int[] occupationTypeFrequencies = {1000,300,1000,100,50,600,750,100,200,150,1000};
+
 	ArrayList<String> personalityTraits;
 	ArrayList<String> appearanceDetails;
 	ArrayList<String> idiosyncracies; //appended to personality traits list, but randomised differently.
@@ -105,7 +116,17 @@ public class NPCGenerator {
 			System.out.println("Error finding npcPath");
 		}
 
-		occupations = new ArrayList<String>();
+		occupations_agrarian = new ArrayList<String>();
+		occupations_art = new ArrayList<String>();
+		occupations_craftsmen = new ArrayList<String>();
+		occupations_criminal = new ArrayList<String>();
+		occupations_government = new ArrayList<String>();
+		occupations_mercantile = new ArrayList<String>();
+		occupations_military = new ArrayList<String>();
+		occupations_nonstandard = new ArrayList<String>();
+		occupations_sailors = new ArrayList<String>();
+		occupations_scholarly = new ArrayList<String>();
+		occupations_services = new ArrayList<String>();
 		personalityTraits = new ArrayList<String>();
 		appearanceDetails = new ArrayList<String>();
 		idiosyncracies = new ArrayList<String>();
@@ -116,9 +137,104 @@ public class NPCGenerator {
 		/////////////////////////////////////////////////////////////////////////////////////////////////////
 		//occupations parsing////////////////////////////////////////////////////////////////////////////////
 		/////////////////////////////////////////////////////////////////////////////////////////////////////
-		for (String s : readFileToArray(new File(materialPath + "\\occupations.txt"))) {
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_agrarian.txt"))) {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
-			occupations.add(s.trim());
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_agrarian.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_art.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_art.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_craftsmen.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_craftsmen.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_criminal.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_criminal.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_government.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_government.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_mercantile.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_mercantile.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_military.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_military.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_nonstandard.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_nonstandard.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_sailors.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_sailors.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_scholarly.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_scholarly.add(value.trim());
+			}
+		}
+		for (String s : readFileToArray(new File(materialPath + "\\occupations_services.txt"))) {
+			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
+			if (s.split(",").length < 2) continue;
+			int weight = Integer.parseInt(s.split(",")[0]);
+			String value = s.substring(s.indexOf(','));
+			for (int i = 0; i < weight; i++) {
+				occupations_services.add(value.trim());
+			}
 		}
 		/////////////////////////////////////////////////////////////////////////////////////////////////////
 		/////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -174,8 +290,22 @@ public class NPCGenerator {
 	}
 
 	public String randomiseOccupation() {
-		//TODO: figure out weights for the currently unweighted occupation options
-		return occupations.get(rand.nextInt(occupations.size()));
+		int totalFreq = 0;
+		for (int i : occupationTypeFrequencies) totalFreq += i; //make note of total weights
+		int chosenNum = rand.nextInt(totalFreq);				//pick random number within range of total weights
+		int curPos = 0;											//track position as we add to each weight
+
+		Object[] occupationalVariables = new Object[] {occupations_agrarian,occupations_art,occupations_craftsmen,occupations_criminal,occupations_government,occupations_mercantile,occupations_military,occupations_nonstandard,occupations_sailors,occupations_scholarly,occupations_services};
+		ArrayList<String> chosenList = new ArrayList<String>();
+
+		for (int i = 0; i < occupationTypeFrequencies.length; i++) { //iterate once for each weight number
+			if (chosenNum <= (curPos += i)) {						//add weight number to current position and see if randomised number was within this range
+				chosenList = (ArrayList<String>)occupationalVariables[i];				//if it was, make not of the respective arraylist, and stop
+				break;
+			}
+		}
+
+		return chosenList.get(rand.nextInt(chosenList.size()));
 	}
 
 	public String randomiseClass() {

@@ -9,7 +9,7 @@ public class NPC {
 	String name;		//
 	String occupation;	//list
 	String gender;		//binary randomisation
-	Race raceC;
+	Race raceC;			//race as Class variable
 	String race;		//randomise between races, allow for user-input to specify the proportion of different races
 	int age;			//randomise between min and max for race
 	String alignment;	//two ternary randomisations, user-input to specify 'average' alignment, and the randomisation would vary results on a curve from there
@@ -39,31 +39,14 @@ public class NPC {
 	String fullIntelligence;
 	String fullWisdom;
 	String fullCharisma;
-	String bab; //applied from class levels, usually 0, as classes are rarely applied to NPC's
+	String proficiencyBonus; //applied from class levels, usually 0, as classes are rarely applied to NPC's
 	String speed; //taken from race
-	String initiative; //dex modifier only
 	//taken from either class or commoner stats
-	String fortitudeSave;
-	String reflexSave;
-	String willSave;
+	String saveProficiencies;
 	//only 10 + dex can be accounted for
 	String AC; //given in format "[10+dex] + armour/shields etc."
 	String carriedItems; //randomise via looter, weapons and such must be added manually from here to the combat stats by DM
 	String carriedMoney; //randomise via looter WHEN IT WORKS.
-
-	//class-based stats, only populate as required
-	String clericDomains;
-
-	String level0Spells;
-	String level1Spells;
-	String level2Spells;
-	String level3Spells;
-	String level4Spells;
-	String level5Spells;
-	String level6Spells;
-	String level7Spells;
-	String level8Spells;
-	String level9Spells;
 
 	//-------BOTH?-------//
 	//randomise skills by... something... one or two points in literally anything perhaps.
@@ -82,11 +65,11 @@ public class NPC {
 		//combat
 		else if (i == 1) return new String[] {HP,playerClass,classLevel,size,
 				fullStrength,fullDexterity,fullConstitution,fullIntelligence,fullWisdom,fullCharisma,
-				bab,speed,initiative,fortitudeSave,reflexSave,willSave,AC,carriedItems,carriedMoney,skills,languages,feats,racialFeatures};
+				proficiencyBonus,speed,saveProficiencies,AC,carriedItems,carriedMoney,skills,languages,feats,racialFeatures};
 		//full
 		else if (i == 2) return new String[] {name,occupation,gender,race,age+"",alignment,personalityTraits,appearanceDetails,height,weight,religion,HP,playerClass,classLevel,size,
 				fullStrength,fullDexterity,fullConstitution,fullIntelligence,fullWisdom,fullCharisma,
-				bab,speed,initiative,fortitudeSave,reflexSave,willSave,AC,carriedItems,carriedMoney,skills,languages,feats,racialFeatures};
+				proficiencyBonus,speed,saveProficiencies,AC,carriedItems,carriedMoney,skills,languages,feats,racialFeatures};
 		else return new String[]{"Error"};
 	}
 
@@ -142,11 +125,7 @@ public class NPC {
 		out.fullIntelligence = "" + out.intelligence + " (" + formatModifier((out.intelligence/2)-5) + ")";
 		out.fullWisdom = "" + out.wisdom + " (" + formatModifier((out.wisdom/2)-5) + ")";
 		out.fullCharisma = "" + out.charisma + " (" + formatModifier((out.charisma/2)-5) + ")";
-		out.bab = "+0";
-		out.initiative = formatModifier((out.dexterity/2)-5);
-		out.fortitudeSave = "";
-		out.reflexSave = "";
-		out.willSave = "";
+		out.proficiencyBonus = "+2";
 		out.AC = "" + ((out.dexterity/2)+5) + " + armour/shields/etc.";
 		out.carriedItems = npcGen.randomiseItems();
 		out.carriedMoney = npcGen.randomiseMoney();
