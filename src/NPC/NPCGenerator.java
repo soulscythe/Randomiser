@@ -19,7 +19,6 @@ public class NPCGenerator {
 
 	private Random rand = new Random();
 
-
 	private Race human = new Race("Human",new int[]{1,1,1,1,1,1},"","Common","Medium",30,4.6f,6.7f,90,280,110);
 	private Race dwarf = new Race("Dwarf",new int[]{0,0,2,0,0,0},"Darkvision, " +
 			"Proficient in Intelligence (History) relating to origin of stonework and adds double proficiency, " +
@@ -57,15 +56,13 @@ public class NPCGenerator {
 	private Race tiefling = new Race("Tiefling",new int[]{0,0,0,1,0,2},"Darkvision, " +
 			"Resistance to fire damage, " +
 			"Knows Thaumaturgy cantrip","Infernal, Common","Medium",30,4.6f,6.7f,90,280,110);
-
+	Race[] races;
 	private String[] classes = {"Barbarian", "Bard", "Cleric","Druid","Fighter","Monk","Paladin","Ranger","Rogue","Sorcerer","Warlock","Wizard",};
 	private String[] skills = {"Acrobatics","Animal Handling","Arcana","Athletics","Deception","History","Insight","Intimidation","Investigation","Medicine","Nature","Perception","Performance","Persuasion","Religion","Sleight of Hand","Stealth","Survival"};
 
 	/////////////////////////////////////////////////
 	///TODO: The above should be converted into files read from folder, as to allow for expansion by user
 	/////////////////////////////////////////////////
-
-
 
 	ArrayList<String> occupations_agrarian;
 	ArrayList<String> occupations_art;
@@ -78,7 +75,6 @@ public class NPCGenerator {
 	ArrayList<String> occupations_sailors;
 	ArrayList<String> occupations_scholarly;
 	ArrayList<String> occupations_services;
-	int[] occupationTypeFrequencies = {1000,300,1000,100,50,600,750,100,200,150,1000};
 
 	ArrayList<String> personalityTraits;
 	ArrayList<String> appearanceDetails;
@@ -87,12 +83,18 @@ public class NPCGenerator {
 	ArrayList<String> femaleNames;
 	ArrayList<String> surnames;
 
+	//USER INPUT VARS////
+	public int averageAge = 30; // a scale from 0 to maximum?
+	//agrarian,art,craftsmen,criminal,government,mercantile,military,nonstandard,sailors,scholarly,services
+	public int[] occupationTypeFrequencies = {100,30,100,10,5,60,75,10,20,15,100};
 	public float goodEvil = 1.5f;		//This should represent an average of the group's moral/ethical alignment, and it will use this as a baseline, closer to evil meaning more likely to happen
 	public float lawfulChaotic = 1.5f;	//0-1 = evil/chaotic, 2-3 = good/lawful. 1-2 is neutral.
+	//human,hillDwarf,mountainDwarf,highElf,woodElf,drow,forestGnome,rockGnome,halfElf,halfOrc,lightfootHalfling,stoutHalfling,dragonborn,tiefling
+	public int[] raceAmounts = {100,100,100,100,100,100,100,100,100,100,100,100,100,100};
+	/////////////////////
+
 	public float alignmentVariance = 2.05f;
 	// Perhaps randomise a value that is +/- 2.05 of the average. this means the lowest value available, if an average of 3 is given, is 0.95, which is just enough to be considered evil(capped)
-
-	public int averageAge; // take user input for average age, as a scale from 0 to maximum?
 
 	String materialPath;
 
@@ -109,6 +111,8 @@ public class NPCGenerator {
 		forestGnome = gnome.newSub("Forest Gnome", new int[] {0,1,0,0,0,0},"Knows Minor Illusion cantrip, Can communicate with animals of a size Small or lesser");
 		rockGnome = gnome.newSub("Rock Gnome", new int[] {0,0,1,0,0,0},"Add twice proficiency to Intelligence (History) checks related to magic items, alchemical objects, or technological devices, Proficiency with artisans tools and can make Tiny clockwork objects");
 		//////////////////////////
+
+		races = new Race[] {human,hillDwarf,mountainDwarf,highElf,woodElf,drow,forestGnome,rockGnome,halfElf,halfOrc,lightfootHalfling,stoutHalfling,dragonborn,tiefling};
 
 		try {
 			materialPath = new File(new File(".").getAbsolutePath()).getCanonicalPath() + "\\material\\npc";
@@ -275,6 +279,7 @@ public class NPCGenerator {
 	}
 
 	public int randomiseAge(Race r) {
+		/*
 		boolean abovePrime = rand.nextBoolean();
 		int age;
 		int prime = r.maxAge/4;
@@ -284,6 +289,19 @@ public class NPCGenerator {
 			age += prime;
 		} else {
 			age = squaredChance(prime,false);
+		}
+
+		return age;
+		*/
+		boolean aboveAvg = rand.nextBoolean();
+		int age;
+		int avg = averageAge;
+
+		if (aboveAvg) {
+			age = squaredChance(r.maxAge-avg,true);
+			age += avg;
+		} else {
+			age = squaredChance(avg,false);
 		}
 
 		return age;
@@ -335,10 +353,17 @@ public class NPCGenerator {
 	}
 
 	public Race randomiseRace() {
-		Race[] races = {human,dwarf,elf,gnome,halfElf,halfOrc,halfling,dragonborn,tiefling};
+		int totalWeights = 0;
+		for (int i : raceAmounts) totalWeights += i;
+		int chosenIndex = rand.nextInt(totalWeights);
+		int curPos = 0;
 		Race chosenRace = races[rand.nextInt(races.length)].duplicate();
-		if (chosenRace.subraces.size() > 0) {
-			chosenRace = chosenRace.subraces.get(rand.nextInt(chosenRace.subraces.size()));
+
+		for (int i = 0; i < races.length; i++) {
+			if (chosenIndex <= (curPos+=raceAmounts[i])) {
+				chosenRace = races[i].duplicate();
+				break;
+			}
 		}
 
 		String[] dColours = new String[] {"Black","Blue","Brass","Bronze","Copper","Gold","Green","Red","Silver","White"};
@@ -380,7 +405,8 @@ public class NPCGenerator {
 		lcmin = lawfulChaotic - alignmentVariance;
 		if (lcmin < 0) lcmin = 0;
 		float lcrange = lcmax - lcmin;
-		float lawChaosPick = rand.nextFloat()*lcrange;
+		//possibly use squaredchance
+		float lawChaosPick = (rand.nextFloat()*lcrange) + lcmin;
 		if (lawChaosPick < 0) out += "ErrorLC Alignment < 0";
 		else if (lawChaosPick < 1) out += "Chaotic ";
 		else if (lawChaosPick < 2) out += "Neutral ";
@@ -394,7 +420,8 @@ public class NPCGenerator {
 		gemin = goodEvil - alignmentVariance;
 		if (gemin < 0) gemin = 0;
 		float gerange = gemax - gemin;
-		float goodEvilPick = rand.nextFloat()*gerange;
+		//possibly use squaredchance
+		float goodEvilPick = (rand.nextFloat()*gerange) + gemin;
 		if (goodEvilPick < 0) out += "ErrorGE Alignment < 0";
 		else if (goodEvilPick < 1) out += "Evil";
 		else if (goodEvilPick < 2) out += "Neutral";
@@ -530,7 +557,7 @@ public class NPCGenerator {
 	}
 
 	public String randomiseItems() {
-		return ""; //integrate looter randomisation
+		return ""; //TODO: integrate looter randomisation
 	}
 
 	public String randomiseMoney() {
@@ -538,7 +565,7 @@ public class NPCGenerator {
 	}
 
 	public String randomiseLanguages() {
-		return ""; //randomise amongst list of languages,
+		return ""; //TODO: randomise amongst list of languages,
 	}
 
 	public String[] readFileToArray(File file) {
@@ -584,6 +611,14 @@ public class NPCGenerator {
 		int itemp = (int)temp;												//convert to int
 		if (lowerNumbersMoreLikely) itemp = maxResult - itemp;				//subtract from max if we want the lower values to be the most likely results
 		return itemp;
+	}
+
+	public float squaredChance(float maxResult, boolean lowerNumbersMoreLikely){ //NOTE WELL: SQUARE RANDOMISATION
+		double temp = rand.nextFloat()*Math.pow((double)maxResult,2d);		//Get random between 0 and intended max^2
+		temp = Math.round(Math.sqrt(temp));									//round to nearest int for convenient conversion
+		float ftemp = (float) temp;											//convert to float
+		if (lowerNumbersMoreLikely) ftemp = maxResult - ftemp;				//subtract from max if we want the lower values to be the most likely results
+		return ftemp;
 	}
 
 }

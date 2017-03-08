@@ -20,6 +20,8 @@ public class NPCForm {
 	private JButton btnNew;
 	private JSpinner spnNPCCount;
 	private JTable tblNPC;
+	private JButton btnSettings;
+	private JCheckBox chkOverwrite;
 
 	DefaultTableModel tableModel;
 	private String[] tableColumns = {"Name", "Occupation", "Gender", "Race", "Alignment"};
@@ -74,15 +76,20 @@ public class NPCForm {
 	}
 
 	private void addButtonListeners() {
-		/*TODO: on 'new' button clicked, take user input of racial diversity etc, and feed to npcGen instance.
-		TODO: Give this seeded generator to the constructor NPC.newRandom(*generator*) for each NPC to be created.
-		TODO: Add each NPC created to the NPC arraylist, then updateTable() with that list;*/
 
 		btnNew.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
+				if (chkOverwrite.isSelected()) NPCs = new ArrayList<NPC>();
 				for (int i = 0; i < (Integer)spnNPCCount.getValue(); i++) NPCs.add(NPC.newRandom(npcGen));
 				updateTable();
+			}
+		});
+
+		btnSettings.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				NPCGeneratorForm npcGeneratorForm = new NPCGeneratorForm(npcGen);
 			}
 		});
 

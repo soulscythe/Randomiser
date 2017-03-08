@@ -1,5 +1,5 @@
 //services
-1000,Maidservant
+1000,Maidservant/Manservant
 750,Barber
 350,Restaurateur
 300,Water carrier
