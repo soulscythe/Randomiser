@@ -1,13 +1,13 @@
 //Sailors
-,Bargeman
-,Boatman
-,Canaller
-,Ferryman
-,Mariner
-,Navigator
-,Sailor
-,Pilot
-,Sea Captain
-,Ship Captain
-,Shipchandler
-,Waterman
+120,Bargeman
+150,Boatman
+100,Canaller
+250,Ferryman
+1000,Mariner
+100,Navigator
+2000,Sailor
+120,Pilot
+200,Sea Captain
+200,Ship Captain
+220,Shipchandler (handles provisioning for ships)
+400,Waterman (riverboat sailor)

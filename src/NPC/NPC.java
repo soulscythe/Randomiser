@@ -76,7 +76,7 @@ public class NPC {
 	public static String[] stringArrayFormat_Full() {
 		return new String[] {"Name", "Occupation", "Gender", "Race", "Age","Alignment", "Personality Traits", "Physical Traits", "Height", "Weight", "Religion","HP", "Class (if any)", "Class Level", "Size",
 				"Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma",
-				"Base Attack Bonus", "Speed","Initiative","Fortitude Save", "Reflex Save", "Will Save", "AC", "Items on Person", "Money on Person", "Skills","Languages","Feats","Racial Features"};
+				"Proficiency Bonus","Speed","Save Proficiencies", "AC", "Items on Person", "Money on Person", "Skills","Languages","Feats","Racial Features"};
 	}
 
 	public static String[] StringArrayFormat_Social () {
@@ -86,7 +86,7 @@ public class NPC {
 	public static String[] StringArrayFormat_Combat () {
 		return new String[] {"HP", "Class (if any)", "Class Level", "Size",
 				"Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma",
-				"Base Attack Bonus", "Speed","Initiative","Fortitude Save", "Reflex Save", "Will Save", "AC", "Items on Person", "Money on Person", "Skills","Languages","Feats","Racial Features"};
+				"Proficiency Bonus","Speed","Save Proficiencies", "AC", "Items on Person", "Money on Person", "Skills","Languages","Feats","Racial Features"};
 	}
 
 	public static NPC blank() {

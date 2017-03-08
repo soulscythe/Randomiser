@@ -1,70 +1,46 @@
 //services
-199,Maidservant
-151,Barber
-130,Restaurateur
-58,Water carrier
-43,Laundress
-42,Porter
-29,Doctor
-26,Bather
-24,Copyist
+1000,Maidservant
+750,Barber
+350,Restaurateur
+300,Water carrier
+250,Laundress
+210,Porter
+150,Doctor
+120,Bather
+110,Copyist
 
-,Accountant
-,Actuary
-,Attendent
-,Bagger
-,Bath attendent
-,Bodyservant
-,Butler
-,Carman
-,Carter
-,Carver
-,Ceiler
-,Cellarer
-,Clerk
-,Chamberlain
-,Chimney sweep
-,Chirurgeon
-,Cook
-,Crier
-,Dentist
-,Ditcher
-,Dog trainer
-,Doorman
-,Drayman
-,Executioner
-,Famulus
-,Farrier
-,Gardener
-,Groom
-,Harlot
-,Kitchener
-,Lawyer
-,Link boy/man
-,Maid
-,Marshal
-,Midwife
-,Miller
-,Napier
-,Nurse
-,Panter
-,Paperer
-,Pavior
-,Pavyler
-,Potboy
-,Privycleaner
-,Procurator
-,Prostitute
-,Quartermaster
-,Raker
-,Riveter
-,Scullion
-,Seneschal
-,Sperviter
-,Stainer
-,Surgeon
-,Slater
-,Tapster
-,Teamster
-,Wagoner
-,Waller
+30,Actuary (accountant)
+250,Attendent
+100,Bath attendent
+300,Bodyservant
+450,Butler
+200,Carman (drives a vehicle to transport goods)
+350,Carter (drives a cart)
+400,Clerk
+150,Chamberlain
+250,Chimney sweep
+150,Chirurgeon (surgeon)
+1300,Cook
+280,Crier
+100,Dentist
+80,Dog trainer
+160,Doorman
+100,Executioner
+20,Famulus (house manservant, often to a magician or scholar)
+150,Gardener
+300,Groom (tends to horses)
+350,Kitchener
+150,Lawyer
+600,Maid
+120,Midwife
+280,Miller
+160,Nurse
+80,Pavior (lays pavement)
+200,Privycleaner
+250,Prostitute
+150,Quartermaster
+600,Scullion (lowest-ranking servant in a household)
+350,Tapster
+200,Teamster
+200,Wagoner
+400,Waller

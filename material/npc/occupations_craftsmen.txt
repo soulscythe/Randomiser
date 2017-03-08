@@ -1,208 +1,151 @@
 //Craftsmen - common (multiply the current values by 5)
-366,Shoemaker
-214,Furrier
-197,Tailor
-131,Jeweler
-106,Pastrycook
-104,Mason
-95,Carpenter
-86,Weaver
-71,Chandler
-70,Cooper
-62,Baker
-58,Scabbard maker
-54,Hatmaker
-51,Saddler
-51,Chicken butcher
-45,Purse maker
-42,Meat butcher
-36,Buckle maker
-34,Blacksmith
-28,Roofer
-27,Locksmith
-26,Ropemaker
-24,Tanner
-24,Rugmaker
-24,Harness maker
-23,Bleacher
-22,Cutler
-21,Glover
-,Armoursmith
-,Weaponsmith
+2000,Shoemaker
+1100,Furrier (makes clothing and wares from animal fur)
+1000,Tailor
+650,Jeweller
+150,Pastrycook
+550,Mason
+500,Carpenter
+400,Weaver
+350,Chandler (candle-maker)
+350,Cooper (barrel-maker)
+300,Baker
+300,Scabbard maker
+300,Hatmaker
+250,Saddler
+220,Purse maker
+200,Butcher
+180,Buckle maker
+160,Blacksmith
+150,Roofer
+140,Locksmith
+130,Ropemaker
+120,Tanner
+120,Rugmaker
+120,Harness maker
+100,Cutler (makes cutlery)
+100,Glover (makes gloves)
+80,Armoursmith
+80,Weaponsmith
 
 //Craftsmen - less common
-,Accoutrement maker
-,Alabasterer
-,Architect
-,Arkwright
-,Armorer
-,Arrowsmith
-,Balancemaker
-,Basketmaker
-,Beekeeper
-,Beerbrewer
-,Bellfounder
-,Bellmaker
-,Broom maker
-,Billier
-,Blockcutter
-,Boatwright
-,Bodger
-,Bonecarver
-,Bookbinder
-,Bookprinter
-,Bottelier
-,Bowyer
-,Brazier
-,Brewer
-,Bricker
-,Bricklayer
-,Embroiderer
-,Bronzefounder
-,Brushbinder
-,Builder
-,Buttonmaker
-,Cabinetmaker
-,Campaner
-,Canvasser
-,Carder
-,Cardmaker
-,Cartwright
-,Cartographer
-,Chainmaker
-,Charcoalburner
-,Cheesemaker
-,Clockmaker
-,Clothier
-,Cobbler
-,Coiner
-,Combmaker
-,Compasssmith
-,Confectioner
-,Coppersmith
-,Cordwainer
-,Corsetier
-,Currier
-,Delver
-,Diamantaire
-,Disher
-,Drycooper
-,Drywaller
-,Dyer
-,Engraver
-,Fabricshearer
-,Feltmaker
-,Fletcher
-,Founder
-,Fuller
-,Furniture maker
-,Gemcutter
-,Gilder
-,Girdler
-,Glassblower
-,Glazier
-,Goldbeater
-,Goldsmith
-,Gravedigger
-,Grinder
-,Hacker
-,Hatter
-,Horner
-,Ivorist
-,Joiner
-,Knacker
-,Knapper
-,Knifesmith
-,Lacemaker
-,Lampwright
-,Lancier
-,Lanternmaker
-,Lapidary
-,Latoner
-,Leadworker
-,Lensgrinder
-,Linen-armorer
-,Linenspinner
-,Lorimer
-,Lutemaker
-,Luthier
-,Mailer
-,Mailmaker
-,Malemaker
-,Marler
-,Master builder
-,Merchant taylor
-,Milliner
-,Miner
-,Miniaturist
-,Minter
-,Mirrorer
-,Nedeller
-,Netmaker
-,Oilmaker
-,Papermaker
-,Parchmenter
-,Pasteler
-,Pattenmaker
-,Perukier
-,Pewterer
-,Physician
-,Pinmaker
-,Plasterer
-,Plattner
-,Plumber
-,Pointer
-,Poleturner
-,Pot mender
-,Potter
-,Printer
-,Purser
-,Quarryman
-,Quilter
-,Rectifier
-,Reedmaker
-,Roper
-,Rugweaver
-,Sailmaker
-,Saltboiler
-,Salter
-,Sawyer
-,Scythesmith
-,Seamstress
-,Shingler
-,Shipwright
-,Siever
-,Smelter
-,Smith
-,Soapmaker
-,Spectaclesmaker
-,Spooner
-,Spurrer
-,Stonecarver
-,Stonecutter
-,Stringer
-,Swordsmith
-,Tallowchandler
-,Tapestrymaker
-,Tasseler
-,Thatcher
-,Thonger
-,Threadmaker
-,Tile-burner
-,Tiler
-,Tile maker
-,Tinker
-,Tinsmith
-,Treen maker
-,Turner
-,Typefounder
-,Upholder
-,Vaginarius
-,Vintner
-,Wainwright
-,Webber
-,Wheeler
-,Wheelwright
-,Wiredrawer
-,Woodcarver
-,Woodcutter
+50,Accoutrement maker (makes military accesories)
+40,Architect
+100,Arkwright (makes chests - generally wooden)
+120,Armorer
+20,Arrowsmith (makes arrowheads)
+10,Balancemaker (makes scales)
+60,Basketmaker
+40,Beekeeper
+50,Beerbrewer
+15,Bellfounder (makes large bells like church bells)
+10,Bellmaker (makes small bells, hand-sized or less)
+25,Broom maker
+70,Billier (axe maker)
+10,Blockcutter (makes printing blocks)
+100,Boatwright
+20,Bookbinder
+50,Bookprinter
+150,Bottelier (makes glass bottles)
+200,Bowyer (makes bows)
+50,Brazier (brass-worker)
+200,Brewer
+30,Bricker (brick maker)
+200,Bricklayer
+100,Embroiderer
+50,Bronzefounder
+20,Brushbinder
+300,Builder
+10,Buttonmaker
+120,Cabinetmaker
+40,Canvasser (canvas maker)
+20,Carder (combs wool for spinning)
+100,Cartwright
+15,Cartographer
+30,Chainmaker
+50,Cheesemaker
+20,Clockmaker
+30,Clothier (makes cloth/fabrics for use by tailors)
+80,Cobbler
+10,Combmaker
+10,Compasssmith
+40,Confectioner
+50,Coppersmith
+40,Cordwainer (fine leatherworker)
+30,Corsetier (corset maker)
+50,Currier (leather-curer)
+20,Delver (ditch-digger)
+10,Diamantaire (diamond-cutter)
+20,Disher (dish maker)
+15,Dyer (dye maker)
+20,Engraver
+45,Fletcher
+50,Founder
+50,Furniture maker
+20,Gemcutter
+50,Glassblower
+10,Glazier (makes stained glass)
+10,Goldsmith
+30,Gravedigger
+40,Hatter
+50,Horner (works in horn, making cutlery, instruments etc)
+80,Joiner (skilled carpenter)
+100,Knacker (harness maker)
+20,Knapper
+20,Lacemaker (makes lace, i.e. patterned fabric)
+20,Lampwright
+30,Lancier (lance maker)
+20,Lapidary (worker of precious stones)
+10,Lensgrinder
+20,Lorimer (maker of horse gear)
+20,Lutemaker
+35,Luthier
+20,Mailer (enameller)
+10,Master builder
+150,Milliner (maker of womens hats and clothing)
+300,Miner
+10,Miniaturist (painter of small)
+20,Minter (coin minter)
+25,Mirrorer
+50,Netmaker
+100,Oilmaker
+40,Papermaker
+40,Parchmenter
+50,Perukier (wigmaker)
+60,Pewterer (pewter-worker)
+120,Physician
+30,Plattner (metal-sheet maker)
+20,Plumber
+30,Poleturner
+35,Pot mender
+50,Potter
+20,Printer (using printing blocks)
+60,Quarryman
+20,Quilter
+10,Rectifier (distills alcohol)
+100,Reedmaker (makes wooden wind instruments)
+100,Roper (rope maker)
+30,Rugweaver
+20,Sailmaker
+100,Sawyer (saws wood)
+30,Scythesmith
+100,Seamstress
+20,Shingler
+180,Shipwright
+20,Smelter
+40,Soapmaker
+10,Spectaclesmaker
+30,Stonecarver
+40,Stonecutter
+30,Swordsmith
+10,Tapestrymaker
+60,Thatcher
+10,Threadmaker
+100,Tinker
+80,Turner (lathe-worker)
+30,Upholsterer
+20,Vintner (wine-maker)
+60,Webber (weaver)
+40,Wheelwright
+20,Wiredrawer
+150,Woodcarver

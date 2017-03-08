@@ -1,12 +1,12 @@
 //Non-occupations
-,Beggar
-,Buffoon
-,Hermit
-,Housewife
-,Landlord
-,Tenter
-,Peasant
-,Pilgrim
-,Refugee
-,Village Idiot
-,Madman
+100,Beggar
+50,Buffoon
+25,Hermit
+300,Housewife
+350,Landlord
+100,Tenter (unskilled workman's assistant)
+500,Peasant
+50,Pilgrim
+150,Refugee
+40,Village Idiot
+10,Madman

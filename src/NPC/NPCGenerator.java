@@ -141,7 +141,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_agrarian.add(value.trim());
 			}
@@ -150,7 +150,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_art.add(value.trim());
 			}
@@ -159,7 +159,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_craftsmen.add(value.trim());
 			}
@@ -168,7 +168,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_criminal.add(value.trim());
 			}
@@ -177,7 +177,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_government.add(value.trim());
 			}
@@ -186,7 +186,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_mercantile.add(value.trim());
 			}
@@ -195,7 +195,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_military.add(value.trim());
 			}
@@ -204,7 +204,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_nonstandard.add(value.trim());
 			}
@@ -213,7 +213,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_sailors.add(value.trim());
 			}
@@ -222,7 +222,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_scholarly.add(value.trim());
 			}
@@ -231,7 +231,7 @@ public class NPCGenerator {
 			if (s.trim().equals("") || s.startsWith("//")) continue; //handles blank lines and 'comments'
 			if (s.split(",").length < 2) continue;
 			int weight = Integer.parseInt(s.split(",")[0]);
-			String value = s.substring(s.indexOf(','));
+			String value = s.substring(s.indexOf(',') + 1);
 			for (int i = 0; i < weight; i++) {
 				occupations_services.add(value.trim());
 			}
@@ -294,15 +294,32 @@ public class NPCGenerator {
 		for (int i : occupationTypeFrequencies) totalFreq += i; //make note of total weights
 		int chosenNum = rand.nextInt(totalFreq);				//pick random number within range of total weights
 		int curPos = 0;											//track position as we add to each weight
-
-		Object[] occupationalVariables = new Object[] {occupations_agrarian,occupations_art,occupations_craftsmen,occupations_criminal,occupations_government,occupations_mercantile,occupations_military,occupations_nonstandard,occupations_sailors,occupations_scholarly,occupations_services};
 		ArrayList<String> chosenList = new ArrayList<String>();
 
-		for (int i = 0; i < occupationTypeFrequencies.length; i++) { //iterate once for each weight number
-			if (chosenNum <= (curPos += i)) {						//add weight number to current position and see if randomised number was within this range
-				chosenList = (ArrayList<String>)occupationalVariables[i];				//if it was, make not of the respective arraylist, and stop
-				break;
-			}
+		if (chosenNum <= (curPos += occupationTypeFrequencies[0])) {
+			chosenList = occupations_agrarian;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[1])) {
+			chosenList = occupations_art;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[2])) {
+			chosenList = occupations_craftsmen;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[3])) {
+			chosenList = occupations_criminal;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[4])) {
+			chosenList = occupations_government;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[5])) {
+			chosenList = occupations_mercantile;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[6])) {
+			chosenList = occupations_military;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[7])) {
+			chosenList = occupations_nonstandard;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[8])) {
+			chosenList = occupations_sailors;
+		} else if (chosenNum <= (curPos += occupationTypeFrequencies[9])) {
+			chosenList = occupations_scholarly;
+		} else if (chosenNum <= (curPos + occupationTypeFrequencies[10])) {
+			chosenList = occupations_services;
+		} else {
+			chosenList.add("ERROR IN OCCUPATIONTYPE SELECTION");
 		}
 
 		return chosenList.get(rand.nextInt(chosenList.size()));
