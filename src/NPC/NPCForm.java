@@ -129,10 +129,7 @@ public class NPCForm {
 				String workingPath = npcGen.materialPath;
 				FileOutputStream fileOut = new FileOutputStream(workingPath + "\\saves\\" + s + ".npc");
 				ObjectOutputStream out = new ObjectOutputStream(fileOut);
-				out.write(NPCs.size());
-				for (NPC n : NPCs) {
-					out.writeObject(n);
-				}
+				out.writeObject(NPCs);
 				out.close();
 				fileOut.close();
 			}catch(IOException i) {
@@ -152,21 +149,18 @@ public class NPCForm {
 		} else {
 			return false;
 		}
-		ArrayList<NPC> out = new ArrayList<NPC>();
+		ArrayList<NPC> out;
 		try {
 			FileInputStream fileIn = new FileInputStream(f);
 			ObjectInputStream in = new ObjectInputStream(fileIn);
-			int count = in.read();
-			for (int i = 0; i<count; i++) {
-				out.add((NPC)in.readObject());
-			}
+			out = (ArrayList<NPC>) in.readObject();
 			in.close();
 			fileIn.close();
 		}catch(IOException i) {
 			i.printStackTrace();
 			return false;
 		}catch(ClassNotFoundException c) {
-			System.out.println("Employee class not found");
+			System.out.println("class not found");
 			c.printStackTrace();
 			return false;
 		}
