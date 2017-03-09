@@ -3,7 +3,7 @@ package NPC;
 /**
  * Created by Soulscythe on 07/01/2017.
  */
-public class NPC {
+public class NPC implements java.io.Serializable  {
 
 	//---------SOCIAL---------//
 	String name;		//

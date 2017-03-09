@@ -7,6 +7,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -22,6 +23,7 @@ public class NPCForm {
 	private JTable tblNPC;
 	private JButton btnSettings;
 	private JCheckBox chkOverwrite;
+	private JButton btnSave;
 
 	DefaultTableModel tableModel;
 	private String[] tableColumns = {"Name", "Occupation", "Gender", "Race", "Alignment"};
@@ -96,10 +98,82 @@ public class NPCForm {
 		btnLoad.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				updateTable();
+				if (load()) updateTable();
+				else JOptionPane.showMessageDialog(null, "Load Failed");
+			}
+		});
+
+		btnSave.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				if (saveCurrent()) JOptionPane.showMessageDialog(null, "Save Succesful");
+				else JOptionPane.showMessageDialog(null, "Save Failed");
 			}
 		});
 	}
+
+	public boolean saveCurrent () {
+		if (NPCs.size() == 0) {
+			//exit
+		} else {
+			String s = (String)JOptionPane.showInputDialog(
+					null,
+					"Filename:\n",
+					"Customized Dialog",
+					JOptionPane.PLAIN_MESSAGE,
+					null,
+					null,
+					"");
+
+			try {
+				String workingPath = npcGen.materialPath;
+				FileOutputStream fileOut = new FileOutputStream(workingPath + "\\saves\\" + s + ".npc");
+				ObjectOutputStream out = new ObjectOutputStream(fileOut);
+				out.write(NPCs.size());
+				for (NPC n : NPCs) {
+					out.writeObject(n);
+				}
+				out.close();
+				fileOut.close();
+			}catch(IOException i) {
+				i.printStackTrace();
+				return false;
+			}
+		}
+		return true;
+	}
+	public boolean load () {
+		JFileChooser jfc = new JFileChooser();
+		jfc.setCurrentDirectory(new File(npcGen.materialPath + "\\saves\\"));
+		int returnVal = jfc.showOpenDialog(null);
+		File f;
+		if(returnVal == JFileChooser.APPROVE_OPTION) {
+			f = jfc.getSelectedFile();
+		} else {
+			return false;
+		}
+		ArrayList<NPC> out = new ArrayList<NPC>();
+		try {
+			FileInputStream fileIn = new FileInputStream(f);
+			ObjectInputStream in = new ObjectInputStream(fileIn);
+			int count = in.read();
+			for (int i = 0; i<count; i++) {
+				out.add((NPC)in.readObject());
+			}
+			in.close();
+			fileIn.close();
+		}catch(IOException i) {
+			i.printStackTrace();
+			return false;
+		}catch(ClassNotFoundException c) {
+			System.out.println("Employee class not found");
+			c.printStackTrace();
+			return false;
+		}
+		NPCs = out;
+		return true;
+	}
+
 	class NPCContextMenu extends JPopupMenu {
 		JMenuItem socialView;
 		JMenuItem combatView;

@@ -96,7 +96,7 @@ public class NPCGenerator {
 	public float alignmentVariance = 2.05f;
 	// Perhaps randomise a value that is +/- 2.05 of the average. this means the lowest value available, if an average of 3 is given, is 0.95, which is just enough to be considered evil(capped)
 
-	String materialPath;
+	public String materialPath;
 
 	public NPCGenerator () {
 
@@ -526,7 +526,7 @@ public class NPCGenerator {
 
 	public String randomiseSkills() {
 		String out = "";
-		int skillsKnown = squaredChance(8,true);
+		int skillsKnown = squaredChance(5,true);
 		ArrayList<String> skillsLearned = new ArrayList<String>();
 		for (int i = 0; i < skillsKnown; i++){
 			boolean searching = true;
@@ -550,7 +550,7 @@ public class NPCGenerator {
 		}
 
 		for (String s : skillsLearned) {
-			out += s + ", " + (squaredChance(5,true)+1) + " Ranks. ";
+			out += s + ". ";
 		}
 
 		return out;

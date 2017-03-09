@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Created by Soulscythe on 15/01/2017.
  */
-public class Race {
+public class Race implements java.io.Serializable {
 	public String name;
 	public ArrayList<Race> subraces;
 	public int statBonuses[] = {0,0,0,0,0,0};
