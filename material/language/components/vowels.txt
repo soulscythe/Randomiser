@@ -1,6 +1,6 @@
-a,soft
-e,soft
-i,soft
-o,soft
-u,soft
-y,soft,exotic
+a,soft,start,mid,end
+e,soft,start,mid,end
+i,soft,start,mid,end
+o,soft,lilting,start,mid,end
+u,soft,start,mid,end
+y,soft,exotic,start,mid,end

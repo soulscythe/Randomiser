@@ -34,7 +34,7 @@
           </component>
         </children>
       </scrollpane>
-      <grid id="59086" layout-manager="GridLayoutManager" row-count="1" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+      <grid id="59086" layout-manager="GridLayoutManager" row-count="1" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
         <margin top="0" left="0" bottom="0" right="0"/>
         <constraints>
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
@@ -42,26 +42,40 @@
         <properties/>
         <border type="none"/>
         <children>
-          <component id="61501" class="javax.swing.JButton" binding="btnCreate">
+          <component id="61501" class="javax.swing.JButton" binding="btnTranslate">
             <constraints>
-              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Button"/>
+              <text value="Translate"/>
             </properties>
           </component>
-          <component id="ca93" class="javax.swing.JSpinner" binding="spnSizeMax">
+          <component id="70cc1" class="javax.swing.JButton" binding="btnNew">
             <constraints>
-              <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+              <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
-            <properties/>
+            <properties>
+              <text value="CreateLanguage"/>
+            </properties>
           </component>
-          <component id="d5e33" class="javax.swing.JSpinner" binding="spnSizeMin">
+          <hspacer id="e5aa2">
             <constraints>
-              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
-            <properties/>
+          </hspacer>
+          <component id="6f871" class="javax.swing.JButton" binding="btnSample">
+            <constraints>
+              <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Sample Word"/>
+            </properties>
           </component>
+          <hspacer id="52ec">
+            <constraints>
+              <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
         </children>
       </grid>
       <grid id="b5719" binding="FormatDetails" layout-manager="GridLayoutManager" row-count="4" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
@@ -77,10 +91,12 @@
               <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <majorTickSpacing value="10"/>
-              <minorTickSpacing value="5"/>
+              <majorTickSpacing value="20"/>
+              <maximum value="200"/>
+              <minorTickSpacing value="10"/>
               <paintTicks value="true"/>
               <toolTipText value="Ratio of 'Soft' to 'Hard' syllables in the language"/>
+              <value value="100"/>
             </properties>
           </component>
           <component id="5f462" class="javax.swing.JLabel">
@@ -107,11 +123,12 @@
               <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <majorTickSpacing value="10"/>
-              <minorTickSpacing value="5"/>
+              <majorTickSpacing value="20"/>
+              <maximum value="200"/>
+              <minorTickSpacing value="10"/>
               <paintTicks value="true"/>
               <toolTipText value="Chance of syllables being sibilant (having 's' sounds). Far left rules it out, anything else is used in comparison to the other sliders."/>
-              <value value="50"/>
+              <value value="100"/>
             </properties>
           </component>
           <component id="900c0" class="javax.swing.JLabel">
@@ -127,10 +144,11 @@
               <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <majorTickSpacing value="10"/>
-              <minorTickSpacing value="5"/>
+              <majorTickSpacing value="20"/>
+              <maximum value="200"/>
+              <minorTickSpacing value="10"/>
               <paintTicks value="true"/>
-              <value value="50"/>
+              <value value="100"/>
             </properties>
           </component>
           <component id="17adc" class="javax.swing.JLabel">
@@ -146,10 +164,11 @@
               <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <majorTickSpacing value="10"/>
-              <minorTickSpacing value="5"/>
+              <majorTickSpacing value="20"/>
+              <maximum value="200"/>
+              <minorTickSpacing value="10"/>
               <paintTicks value="true"/>
-              <value value="50"/>
+              <value value="100"/>
             </properties>
           </component>
           <component id="eea9d" class="javax.swing.JLabel">

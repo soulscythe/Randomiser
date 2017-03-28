@@ -20,7 +20,16 @@ public class WordComponent {
             for (int i = 1; i < full.length; i++) {
                 desc[i -1] = full[i];
             }
+            descriptors = desc;
         } else descriptors = new String[0];
+    }
+    public boolean descContains (String descriptorToFind) {
+        if (descriptors == null) return false;
+        if (descriptors.length <= 0) return false;
+        for (String s : descriptors) {
+            if (s.equals(descriptorToFind)) return true;
+        }
+        return false;
     }
 
 }
