@@ -55,6 +55,8 @@ public class NPC implements java.io.Serializable  {
 	String feats;			//Not sure...
 	String racialFeatures;	//given from race
 
+
+
 	public String[] toStringArray() {
 		//"Name", "Occupation", "Gender", "Race", "Alignment"
 		return new String[] {name,occupation,gender,race,alignment};
@@ -131,7 +133,6 @@ public class NPC implements java.io.Serializable  {
 		out.carriedMoney = npcGen.randomiseMoney();
 		out.skills = npcGen.randomiseSkills();
 		out.languages = npcGen.randomiseLanguages();
-		//out.feats = wat?
 
 		return out;
 	}
@@ -149,7 +150,7 @@ public class NPC implements java.io.Serializable  {
 		this.intelligence += race.statBonuses[3];
 		this.wisdom += race.statBonuses[4];
 		this.charisma += race.statBonuses[5];
-		raceC = race;
+		this.raceC = race;
 	}
 	public static String formatModifier(int i) {
 		if (i >= 0) return "+"+i;

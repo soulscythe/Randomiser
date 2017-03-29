@@ -381,11 +381,11 @@ public class NPCGenerator {
 		}
 
 		if (chosenRace.equals(halfElf)) {
-			int A = rand.nextInt(6);
+			int A = rand.nextInt(5);
 			int B;
-			do {B = rand.nextInt(6);} while (B == A);
-			chosenRace.statBonuses[A] += 1;
-			chosenRace.statBonuses[B] += 1;
+			do {B = rand.nextInt(5);} while (B == A);
+			chosenRace.statBonuses[A] = 1;
+			chosenRace.statBonuses[B] = 1;
 		}
 
 		return chosenRace;

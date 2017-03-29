@@ -1,6 +1,7 @@
 package NPC;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 /**
  * Created by Soulscythe on 15/01/2017.
@@ -31,7 +32,7 @@ public class Race implements java.io.Serializable {
 		this.maxWeight = mxw;
 		this.maxAge = mxa;
 		this.speed = sp;
-		subraces = new ArrayList<Race>();
+		this.subraces = new ArrayList<Race>();
 	}
 
 	public Race newSub (String n, int stb[],String rf) {

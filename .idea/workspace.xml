@@ -11,38 +11,14 @@
     <bookmark url="file://$PROJECT_DIR$/src/Randomiser.java" line="7" />
     <bookmark url="file://$PROJECT_DIR$/src/Randomiser.java" line="1077" />
     <bookmark url="file://$PROJECT_DIR$/src/Looter.java" line="213" />
-    <bookmark url="file://$PROJECT_DIR$/src/NPC/Race.java" line="56" />
+    <bookmark url="file://$PROJECT_DIR$/src/NPC/Race.java" line="57" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36916352-8763-4627-a7b0-7c9349975396" name="Default" comment="Serialization fix">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/LanguageMaker.class" afterPath="$PROJECT_DIR$/bin/LanguageMaker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/LanguageMakerGUI.class" afterPath="$PROJECT_DIR$/bin/LanguageMakerGUI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter.class" afterPath="$PROJECT_DIR$/bin/Looter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm$HeaderListener$1.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm$HeaderListener$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm$HeaderListener$2.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm$HeaderListener$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm$HeaderListener.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm$HeaderListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm$NPCContextMenu$1.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm$NPCContextMenu$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm$NPCContextMenu$2.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm$NPCContextMenu$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm$NPCContextMenu$3.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm$NPCContextMenu$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm$NPCContextMenu.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm$NPCContextMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm$PopClickListener.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm$PopClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCForm.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCForm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCGenerator.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCGeneratorForm.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCGeneratorForm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Randomiser.class" afterPath="$PROJECT_DIR$/bin/Randomiser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Translator$1.class" afterPath="$PROJECT_DIR$/bin/Translator$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Translator.class" afterPath="$PROJECT_DIR$/bin/Translator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/WordComponent.class" afterPath="$PROJECT_DIR$/bin/WordComponent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/Looter_jar/Looter.jar" afterPath="$PROJECT_DIR$/classes/artifacts/Looter_jar/Looter.jar" />
+    <list default="true" id="36916352-8763-4627-a7b0-7c9349975396" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/language/components/consonants.txt" afterPath="$PROJECT_DIR$/material/language/components/consonants.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/language/components/consonants_composite.txt" afterPath="$PROJECT_DIR$/material/language/components/consonants_composite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/language/components/vowels.txt" afterPath="$PROJECT_DIR$/material/language/components/vowels.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/language/components/vowels_composite.txt" afterPath="$PROJECT_DIR$/material/language/components/vowels_composite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LanguageMaker.java" afterPath="$PROJECT_DIR$/src/LanguageMaker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Translator.form" afterPath="$PROJECT_DIR$/src/Translator.form" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Translator.java" afterPath="$PROJECT_DIR$/src/Translator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WordComponent.java" afterPath="$PROJECT_DIR$/src/WordComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NPC/NPC.java" afterPath="$PROJECT_DIR$/src/NPC/NPC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NPC/NPCGenerator.java" afterPath="$PROJECT_DIR$/src/NPC/NPCGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NPC/Race.java" afterPath="$PROJECT_DIR$/src/NPC/Race.java" />
     </list>
     <ignored path="Looter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,17 +44,59 @@
         <entry file="file://$PROJECT_DIR$/src/NPC/NPCForm.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="125" column="24" selection-start-line="125" selection-start-column="24" selection-end-line="125" selection-end-column="24" />
+              <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LanguageMaker.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NPCGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NPC/NPCGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="382" column="41" selection-start-line="382" selection-start-column="41" selection-end-line="382" selection-end-column="41" />
+              <folding>
+                <element signature="method#randomiseAlignment#0;class#NPCGenerator#0" expanded="false" />
+                <element signature="method#randomiseHeight#0;class#NPCGenerator#0" expanded="false" />
+                <element signature="method#randomiseWeight#0;class#NPCGenerator#0" expanded="false" />
+                <element signature="method#randomisePersonalityTraits#0;class#NPCGenerator#0" expanded="false" />
+                <element signature="method#randomiseAppearanceDetails#0;class#NPCGenerator#0" expanded="false" />
+                <element signature="method#randomiseStats#0;class#NPCGenerator#0" expanded="false" />
+                <element signature="method#randomiseSkills#0;class#NPCGenerator#0" expanded="false" />
+                <element signature="method#readFileToArray#0;class#NPCGenerator#0" expanded="false" />
+                <element signature="method#percentageChance#0;class#NPCGenerator#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NPC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NPC/NPC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Race.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NPC/Race.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27410468">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LanguageMaker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LanguageMaker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.98748577">
-              <caret line="278" column="25" selection-start-line="278" selection-start-column="25" selection-end-line="278" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="263" column="32" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -162,10 +180,7 @@
         <option value="$PROJECT_DIR$/src/NPC/NPCGeneratorForm.form" />
         <option value="$PROJECT_DIR$/src/NPC/NPCGeneratorForm.java" />
         <option value="$PROJECT_DIR$/src/Launcher.form" />
-        <option value="$PROJECT_DIR$/src/NPC/NPC.java" />
         <option value="$PROJECT_DIR$/src/NPC/NPCForm.form" />
-        <option value="$PROJECT_DIR$/src/NPC/NPCGenerator.java" />
-        <option value="$PROJECT_DIR$/src/NPC/Race.java" />
         <option value="$PROJECT_DIR$/src/NPC/NPCForm.java" />
         <option value="$PROJECT_DIR$/material/language/components/vowels.txt" />
         <option value="$PROJECT_DIR$/src/WordComponent.java" />
@@ -175,6 +190,9 @@
         <option value="$PROJECT_DIR$/src/Translator.form" />
         <option value="$PROJECT_DIR$/src/Translator.java" />
         <option value="$PROJECT_DIR$/src/LanguageMaker.java" />
+        <option value="$PROJECT_DIR$/src/NPC/NPC.java" />
+        <option value="$PROJECT_DIR$/src/NPC/NPCGenerator.java" />
+        <option value="$PROJECT_DIR$/src/NPC/Race.java" />
       </list>
     </option>
   </component>
@@ -267,6 +285,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -349,33 +368,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Looter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Looter5e" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="material" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -798,7 +794,13 @@
       <option name="project" value="LOCAL" />
       <updated>1489022585300</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Artifact Build Update">
+      <created>1490671890488</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1490671890488</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -812,7 +814,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="966" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08125677" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -821,21 +823,21 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18335208" sideWeight="0.5021436" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16868798" sideWeight="0.49785638" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2030905" sideWeight="0.9017264" order="3" side_tool="false" content_ui="combo" x="703" y="159" width="234" height="924" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2030905" sideWeight="0.9017264" order="3" side_tool="false" content_ui="combo" x="703" y="159" width="234" height="924" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.041577823" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20396914" sideWeight="0.098273575" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28776187" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16876972" sideWeight="0.49785638" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32745314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28776187" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -882,7 +884,8 @@
     <MESSAGE value="Incorporated NPC generation settings and options" />
     <MESSAGE value="Added Saving and Loading, + Serialization" />
     <MESSAGE value="Serialization fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Serialization fix" />
+    <MESSAGE value="Artifact Build Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Artifact Build Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1168,25 +1171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NPC/Race.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30524862">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#1706#1707#0" expanded="false" />
-            <element signature="e#1744#1745#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NPC/NPC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21132597">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/material/language/components/vowels.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1236,14 +1220,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NPC/NPCForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="125" column="24" selection-start-line="125" selection-start-column="24" selection-end-line="125" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/material/language/components/consonants_composite.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39034483">
@@ -1260,23 +1236,6 @@
             <element signature="method#parseToRandomiser#0;class#Looter#0" expanded="false" />
             <element signature="e#8765#9370#0" expanded="true" />
             <element signature="e#9369#9370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NPC/NPCGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74206895">
-          <caret line="380" column="9" selection-start-line="380" selection-start-column="9" selection-end-line="380" selection-end-column="9" />
-          <folding>
-            <element signature="method#randomiseHeight#0;class#NPCGenerator#0" expanded="false" />
-            <element signature="method#randomiseWeight#0;class#NPCGenerator#0" expanded="false" />
-            <element signature="method#randomisePersonalityTraits#0;class#NPCGenerator#0" expanded="false" />
-            <element signature="method#randomiseAppearanceDetails#0;class#NPCGenerator#0" expanded="false" />
-            <element signature="method#randomiseStats#0;class#NPCGenerator#0" expanded="false" />
-            <element signature="method#randomiseSkills#0;class#NPCGenerator#0" expanded="false" />
-            <element signature="method#readFileToArray#0;class#NPCGenerator#0" expanded="false" />
-            <element signature="method#percentageChance#0;class#NPCGenerator#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1302,9 +1261,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LanguageMaker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.98748577">
-          <caret line="278" column="25" selection-start-line="278" selection-start-column="25" selection-end-line="278" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="263" column="32" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NPC/NPCForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NPC/NPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NPC/NPCGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="382" column="41" selection-start-line="382" selection-start-column="41" selection-end-line="382" selection-end-column="41" />
+          <folding>
+            <element signature="method#randomiseAlignment#0;class#NPCGenerator#0" expanded="false" />
+            <element signature="method#randomiseHeight#0;class#NPCGenerator#0" expanded="false" />
+            <element signature="method#randomiseWeight#0;class#NPCGenerator#0" expanded="false" />
+            <element signature="method#randomisePersonalityTraits#0;class#NPCGenerator#0" expanded="false" />
+            <element signature="method#randomiseAppearanceDetails#0;class#NPCGenerator#0" expanded="false" />
+            <element signature="method#randomiseStats#0;class#NPCGenerator#0" expanded="false" />
+            <element signature="method#randomiseSkills#0;class#NPCGenerator#0" expanded="false" />
+            <element signature="method#readFileToArray#0;class#NPCGenerator#0" expanded="false" />
+            <element signature="method#percentageChance#0;class#NPCGenerator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NPC/Race.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27410468">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
