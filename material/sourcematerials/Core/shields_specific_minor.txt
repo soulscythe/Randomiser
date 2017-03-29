@@ -1,0 +1,4 @@
+198,Darkwood buckler,-,-,-
+330,Darkwood shield,-,-,-
+99,Mithral heavy shield,-,-,-
+33,Caster's shield,-,-,-

@@ -1,0 +1,6 @@
+6,Chipped,-,-,-
+6,Splintered,-,-,-
+6,Burned,-,-,-
+6,Charred,-,-,-
+6,Cracked,-,-,-
+6,Split,-,-,-

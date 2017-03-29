@@ -1,0 +1,48 @@
+2,animate dead,-,-,-
+3,arcane eye,-,-,-
+2,bestow curse,-,-,-
+3,charm monster,-,-,-
+3,confusion,-,-,-
+2,contagion,-,-,-
+2,crushing despair,-,-,-
+1,cure critical wounds,-,-,-
+1,detect scrying,-,-,-
+4,dimension door,-,-,-
+3,dimensional anchor,-,-,-
+2,enervation,-,-,-
+2,enlarge person, mass,-,-,-
+2,black tentacles,-,-,-
+2,fear,-,-,-
+3,fire shield,-,-,-
+2,fire trap,-,-,-
+3,freedom of movement,-,-,-
+1,lesser geas,-,-,-
+3,lesser globe of invulnerability,-,-,-
+2,hallucinatory terrain,-,-,-
+2,ice storm,-,-,-
+2,illusory wall,-,-,-
+3,greater invisibility,-,-,-
+2,secure shelter,-,-,-
+1,locate creature,-,-,-
+2,minor creation,-,-,-
+1,modify memory,-,-,-
+1,neutralize poison,-,-,-
+2,resilient sphere,-,-,-
+2,phantasmal killer,-,-,-
+2,polymorph,-,-,-
+2,rainbow pattern,-,-,-
+1,mnemonic enhancer,-,-,-
+2,mass reduce person,-,-,-
+3,remove curse,-,-,-
+1,repel vermin,-,-,-
+2,scrying,-,-,-
+2,shadow conjuration,-,-,-
+2,shout,-,-,-
+2,solid fog,-,-,-
+1,speak with plants,-,-,-
+2,stone shape,-,-,-
+3,stoneskin,-,-,-
+2,summon monster IV,-,-,-
+3,wall of fire,-,-,-
+3,wall of ice,-,-,-
+1,zone of silence,-,-,-

@@ -1,0 +1,19 @@
+4,antipathy,-,-,-
+3,astral projection,-,-,-
+6,elemental swarm,-,-,-
+6,energy drain,-,-,-
+6,etherealness,-,-,-
+6,foresight,-,-,-
+6,gate,-,-,-
+9,mass heal,-,-,-
+7,implosion,-,-,-
+2,miracle,-,-,-
+6,regenerate,-,-,-
+5,shambler,-,-,-
+6,shapechange,-,-,-
+5,soul bind,-,-,-
+6,storm of vengeance,-,-,-
+6,summon monster IX,-,-,-
+6,summon nature’s ally IX,-,-,-
+4,sympathy,-,-,-
+1,true resurrection,-,-,-

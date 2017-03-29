@@ -1,0 +1,3 @@
+6,Cracked,-,-,-
+6,Burned,-,-,-
+6,Scratched,-,-,-

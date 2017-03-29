@@ -1,0 +1,14 @@
+6,Gold,-,Metal,-
+6,Silver,-,Metal,-
+6,Pewter,-,Metal,-
+6,Platinum,-,Metal,-
+6,Bronze,-,Metal,-
+6,Steel,-,Metal,-
+6,Iron,-,Metal,-
+6,Brass,-,Metal,-
+6,Nickel,-,Metal,-
+6,Copper,-,Metal,-
+6,Gold-Plated,-,Metal,-
+6,Silver-Plated,-,Metal,-
+6,Crystal,-,Crystal,-
+6,Bone,-,Bone,-

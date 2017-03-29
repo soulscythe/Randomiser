@@ -1,0 +1,5 @@
+60,Hide,25,Leather,-
+60,Chain shirt,25,Metal,-
+40,Scale mail,30,Metal,-
+50,Breastplate,30,Metal,-
+30,Half-plate,50,Metal,-

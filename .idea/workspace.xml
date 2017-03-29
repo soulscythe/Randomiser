@@ -15,111 +15,137 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36916352-8763-4627-a7b0-7c9349975396" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/alchemical_items.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/ammunition.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_heavy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_light.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_specials_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_specials_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_specials_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_specific_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_specific_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/armour_specific_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/art_solid.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/clothing.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/crockery.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/cutlery.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/damage_brittle.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/damage_cloth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/damage_leather.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/damage_metal.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/damage_wood.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/games.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/gear.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/jewellery.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/kitchenware.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/major_types.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/mat_art_solid.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/mat_clothing.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/mat_clothing_colour.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/mat_clothing_pattern.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/mat_jewellery.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/mat_jewellery_stones.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/medium_types.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/minor_types.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/potions_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/potions_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/potions_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/rings_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/rings_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/rings_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/rods_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/rods_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/scrap.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/shield_specials_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/shield_specials_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/shield_specials_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/shields.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/shields_specific_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/shields_specific_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/shields_specific_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_arcane_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/spells_divine_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/staves_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/staves_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/tools.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/uncommon_mat_metal.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/uncommon_mat_wood.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/wands_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/wands_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/wands_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapon_specials_melee_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapon_specials_melee_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapon_specials_melee_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapon_specials_ranged_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapon_specials_ranged_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapon_specials_ranged_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapons_common_melee.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapons_common_ranged.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapons_specific_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapons_specific_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapons_specific_minor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapons_uncommon_melee.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/weapons_uncommon_ranged.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/wondrous_major.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/wondrous_medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material/sourcematerials/Core 3.5/wondrous_minor.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPC.class" afterPath="$PROJECT_DIR$/bin/NPC/NPC.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/NPCGenerator.class" afterPath="$PROJECT_DIR$/bin/NPC/NPCGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NPC/Race.class" afterPath="$PROJECT_DIR$/bin/NPC/Race.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/Looter_jar/Looter.jar" afterPath="$PROJECT_DIR$/classes/artifacts/Looter_jar/Looter.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/alchemical_items.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/ammunition.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_heavy.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_light.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_specials_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_specials_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_specials_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_specific_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_specific_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/armour_specific_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/art_solid.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/clothing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/crockery.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/cutlery.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/damage_brittle.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/damage_cloth.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/damage_leather.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/damage_metal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/damage_wood.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/games.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/gear.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/jewellery.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/kitchenware.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/major_types.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/mat_art_solid.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/mat_clothing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/mat_clothing_colour.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/mat_clothing_pattern.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/mat_jewellery.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/mat_jewellery_stones.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/medium_types.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/minor_types.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/potions_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/potions_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/potions_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/rings_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/rings_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/rings_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/rods_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/rods_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/scrap.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/shield_specials_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/shield_specials_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/shield_specials_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/shields.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/shields_specific_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/shields_specific_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/shields_specific_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_arcane_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/spells_divine_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/staves_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/staves_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/tools.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/uncommon_mat_metal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/uncommon_mat_wood.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/wands_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/wands_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/wands_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapon_specials_melee_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapon_specials_melee_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapon_specials_melee_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapon_specials_ranged_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapon_specials_ranged_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapon_specials_ranged_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapons.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapons_common_ranged.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapons_specific_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapons_specific_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapons_specific_minor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapons_uncommon_melee.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/weapons_uncommon_ranged.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/wondrous_major.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/wondrous_medium.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material/sourcematerials/Core/wondrous_minor.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$1.class" afterPath="$PROJECT_DIR$/bin/Looter$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$10.class" afterPath="$PROJECT_DIR$/bin/Looter$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$11.class" afterPath="$PROJECT_DIR$/bin/Looter$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$12.class" afterPath="$PROJECT_DIR$/bin/Looter$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$13.class" afterPath="$PROJECT_DIR$/bin/Looter$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$14.class" afterPath="$PROJECT_DIR$/bin/Looter$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$15.class" afterPath="$PROJECT_DIR$/bin/Looter$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$16.class" afterPath="$PROJECT_DIR$/bin/Looter$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$17.class" afterPath="$PROJECT_DIR$/bin/Looter$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$18.class" afterPath="$PROJECT_DIR$/bin/Looter$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$19.class" afterPath="$PROJECT_DIR$/bin/Looter$19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$2.class" afterPath="$PROJECT_DIR$/bin/Looter$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$20.class" afterPath="$PROJECT_DIR$/bin/Looter$20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$21.class" afterPath="$PROJECT_DIR$/bin/Looter$21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$22.class" afterPath="$PROJECT_DIR$/bin/Looter$22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$23.class" afterPath="$PROJECT_DIR$/bin/Looter$23.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$24.class" afterPath="$PROJECT_DIR$/bin/Looter$24.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$25.class" afterPath="$PROJECT_DIR$/bin/Looter$25.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$26.class" afterPath="$PROJECT_DIR$/bin/Looter$26.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$27.class" afterPath="$PROJECT_DIR$/bin/Looter$27.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$28.class" afterPath="$PROJECT_DIR$/bin/Looter$28.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$29.class" afterPath="$PROJECT_DIR$/bin/Looter$29.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$3.class" afterPath="$PROJECT_DIR$/bin/Looter$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$30.class" afterPath="$PROJECT_DIR$/bin/Looter$30.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$31.class" afterPath="$PROJECT_DIR$/bin/Looter$31.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$32.class" afterPath="$PROJECT_DIR$/bin/Looter$32.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$33.class" afterPath="$PROJECT_DIR$/bin/Looter$33.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$34.class" afterPath="$PROJECT_DIR$/bin/Looter$34.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$35.class" afterPath="$PROJECT_DIR$/bin/Looter$35.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$36.class" afterPath="$PROJECT_DIR$/bin/Looter$36.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$4.class" afterPath="$PROJECT_DIR$/bin/Looter$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$5.class" afterPath="$PROJECT_DIR$/bin/Looter$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$6.class" afterPath="$PROJECT_DIR$/bin/Looter$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$7.class" afterPath="$PROJECT_DIR$/bin/Looter$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$8.class" afterPath="$PROJECT_DIR$/bin/Looter$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter$9.class" afterPath="$PROJECT_DIR$/bin/Looter$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Looter.class" afterPath="$PROJECT_DIR$/bin/Looter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/npc/Idiosyncracies.txt" afterPath="$PROJECT_DIR$/material/npc/Idiosyncracies.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/npc/names_female.txt" afterPath="$PROJECT_DIR$/material/npc/names_female.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/npc/names_male.txt" afterPath="$PROJECT_DIR$/material/npc/names_male.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material/npc/names_surname.txt" afterPath="$PROJECT_DIR$/material/npc/names_surname.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Files.java" afterPath="$PROJECT_DIR$/src/Files.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Looter.form" afterPath="$PROJECT_DIR$/src/Looter.form" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Looter.java" afterPath="$PROJECT_DIR$/src/Looter.java" />
     </list>
     <ignored path="Looter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -906,7 +932,13 @@
       <option name="project" value="LOCAL" />
       <updated>1490749701068</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Looter update in progress">
+      <created>1490756982894</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1490756982894</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -920,7 +952,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="966" height="1040" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08125677" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -932,7 +964,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16868798" sideWeight="0.49785638" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20860927" sideWeight="0.9017264" order="3" side_tool="false" content_ui="combo" x="703" y="159" width="234" height="924" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20860927" sideWeight="0.9017264" order="3" side_tool="false" content_ui="combo" x="703" y="159" width="234" height="924" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32745314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.041577823" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -992,7 +1024,8 @@
     <MESSAGE value="Serialization fix" />
     <MESSAGE value="Artifact Build Update" />
     <MESSAGE value="The &quot;No Crazy Half-Elves&quot; Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="The &quot;No Crazy Half-Elves&quot; Update" />
+    <MESSAGE value="Looter update in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Looter update in progress" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

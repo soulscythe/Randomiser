@@ -1,0 +1,21 @@
+19,Charming,5,Wood,-
+39,Fire,5,Wood,-
+13,Swarming insects,5,Wood,-
+33,Healing,5,Wood,-
+13,Size alteration,5,Wood,-
+33,Illumination,5,Wood,-
+46,Frost,5,Wood,-
+46,Defense,5,Wood,-
+33,Abjuration,5,Wood,-
+33,Conjuration,5,Wood,-
+33,Enchantment,5,Wood,-
+33,Evocation,5,Wood,-
+33,Illusion,5,Wood,-
+33,Necromancy,5,Wood,-
+33,Transmutation,5,Wood,-
+26,Divination,5,Wood,-
+33,Earth and stone,5,Wood,-
+33,Woodlands,5,Wood,-
+33,Life,5,Wood,-
+33,Passage,5,Wood,-
+19,Power,5,Wood,-

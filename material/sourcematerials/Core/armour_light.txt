@@ -1,0 +1,4 @@
+30,Padded,10,Cloth,Leather
+20,Leather,15,Leather,-
+10,Studded leather,20,Leather,-
+

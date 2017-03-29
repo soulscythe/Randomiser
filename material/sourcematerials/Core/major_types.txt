@@ -1,0 +1,9 @@
+66,Armour and Shields,-,-,-
+66,Weapons,-,-,-
+33,Potions,-,-,-
+66,Rings,-,-,-
+66,Rods,-,-,-
+66,Scrolls,-,-,-
+66,Staffs,-,-,-
+99,Wands,-,-,-
+132,Wondrous Items,-,-,-

@@ -1,0 +1,14 @@
+7,create water,-,-,-
+7,cure minor wounds,-,-,-
+8,detect magic,-,-,-
+7,detect poison,-,-,-
+7,flare,-,-,-
+7,guidance,-,-,-
+7,inflict minor wounds,-,-,-
+7,know direction,-,-,-
+8,light,-,-,-
+7,mending,-,-,-
+7,purify food and drink,-,-,-
+7,read magic,-,-,-
+7,resistance,-,-,-
+7,virtue,-,-,-

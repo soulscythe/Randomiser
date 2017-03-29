@@ -1,0 +1,100 @@
+6,Dimensional shackles,-,-,-
+6,obsidian steed Figurine of wondrous power,-,-,-
+6,Drums of panic,-,-,-
+6,orange Ioun stone,-,-,-
+6,pale green prism Ioun stone,-,-,-
+6,Lantern of revealing,-,-,-
+6,Robe of blending,-,-,-
+6,Amulet of natural armor +4,-,-,-
+6,Amulet of proof against detection and location,-,-,-
+6,5 ft. by 10 ft. Carpet of flying,-,-,-
+6,iron Golem manual,-,-,-
+6,Amulet of health +6,-,-,-
+6,Belt of giant Strength +6,-,-,-
+6,Bracers of armor +6,-,-,-
+6,Cloak of Charisma +6,-,-,-
+6,Gloves of Dexterity +6,-,-,-
+6,Headband of intellect +6,-,-,-
+6,vibrant purple prism Ioun stone,-,-,-
+6,6th-level spell Pearl of power,-,-,-
+6,Periapt of Wisdom +6,-,-,-
+6,Scarab of protection,-,-,-
+6,lavender and green ellipsoid Ioun stone,-,-,-
+6,Ring gates,-,-,-
+6,Crystal ball,-,-,-
+6,greater stone Golem manual,-,-,-
+6,Orb of storms,-,-,-
+6,Boots of teleportation,-,-,-
+6,Bracers of armor +7,-,-,-
+6,7th-level spell Pearl of power,-,-,-
+6,Amulet of natural armor +5,-,-,-
+6,major Cloak of displacement,-,-,-
+6,Crystal ball with see invisibility,-,-,-
+6,Horn of Valhalla,-,-,-
+6,Crystal ball with detect thoughts,-,-,-
+6,6 ft. by 9 ft. Carpet of flying,-,-,-
+6,Amulet of mighty fists +3,-,-,-
+6,Wings of flying,-,-,-
+6,Cloak of etherealness,-,-,-
+6,Instant fortress,-,-,-
+6,Manual of bodily health +2,-,-,-
+6,Manual of gainful exercise +2,-,-,-
+6,Manual of quickness of action +2,-,-,-
+6,Tome of clear thought +2,-,-,-
+6,Tome of leadership and influence +2,-,-,-
+6,Tome of understanding +2,-,-,-
+6,Eyes of charming,-,-,-
+6,Robe of stars,-,-,-
+6,10 ft. by 10 ft. Carpet of flying,-,-,-
+6,Darkskull,-,-,-
+6,Cube of force,-,-,-
+6,Bracers of armor +8,-,-,-
+6,8th-level spell Pearl of power,-,-,-
+6,Crystal ball with telepathy,-,-,-
+6,greater Horn of blasting,-,-,-
+6,two spells Pearl of power,-,-,-
+6,Helm of teleportation,-,-,-
+6,Gem of seeing,-,-,-
+6,Robe of the archmagi,-,-,-
+6,Mantle of faith,-,-,-
+6,Crystal ball with true seeing,-,-,-
+6,9th-level spell Pearl of power,-,-,-
+6,Well of many worlds,-,-,-
+6,Manual of bodily health +3,-,-,-
+6,Manual of gainful exercise +3,-,-,-
+6,Manual of quickness of action +3,-,-,-
+6,Tome of clear thought +3,-,-,-
+6,Tome of leadership and influence +3,-,-,-
+6,Tome of understanding +3,-,-,-
+6,Apparatus of the crab,-,-,-
+6,Mantle of spell resistance,-,-,-
+6,Mirror of opposition,-,-,-
+6,greater Strand of prayer beads,-,-,-
+6,Amulet of mighty fists +4,-,-,-
+6,Eyes of petrification,-,-,-
+6,Bowl of commanding water elementals,-,-,-
+6,Brazier of commanding fire elementals,-,-,-
+6,Censer of controlling air elementals,-,-,-
+6,Stone of controlling earth elementals,-,-,-
+6,Manual of bodily health +4,-,-,-
+6,Manual of gainful exercise +4,-,-,-
+6,Manual of quickness of action +4,-,-,-
+6,Tome of clear thought +4,-,-,-
+6,Tome of leadership and influence +4,-,-,-
+6,Tome of understanding +4,-,-,-
+6,Amulet of the planes,-,-,-
+6,Robe of eyes,-,-,-
+6,Helm of brilliance,-,-,-
+6,Manual of bodily health +5,-,-,-
+6,Manual of gainful exercise +5,-,-,-
+6,Manual of quickness of action +5,-,-,-
+6,Tome of clear thought +5,-,-,-
+6,Tome of leadership and influence +5,-,-,-
+6,Tome of understanding +5,-,-,-
+6,Efreeti bottle,-,-,-
+6,Amulet of mighty fists +5,-,-,-
+6,Chaos diamond,-,-,-
+6,Cubic gate,-,-,-
+6,Iron flask,-,-,-
+6,Mirror of mental prowess,-,-,-
+6,Mirror of life trapping,-,-,-

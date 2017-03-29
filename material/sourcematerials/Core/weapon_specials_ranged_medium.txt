@@ -1,0 +1,16 @@
+52,Bane,-,-,-
+52,Distance,-,-,-
+79,Flaming,-,-,-
+79,Frost,-,-,-
+13,Merciful,-,-,-
+33,Returning,-,-,-
+79,Shock,-,-,-
+33,Seeking,-,-,-
+19,Thundering,-,-,-
+19,Anarchic,-,-,-
+19,Axiomatic,-,-,-
+33,Flaming burst,-,-,-
+19,Holy,-,-,-
+33,Icy burst,-,-,-
+33,Shocking burst,-,-,-
+19,Unholy,-,-,-

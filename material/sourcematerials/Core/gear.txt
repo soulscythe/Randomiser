@@ -1,0 +1,88 @@
+6,Abacus,2,Cloth,-
+6,Backpack,5,Cloth,-
+6,Ball Bearings (bag of up to 1000),2,Metal,Leather
+6,Barrel,70,Wood,-
+6,Basket,2,Wood,-
+6,Bedroll,7,Cloth,-
+6,Bell,-,Metal,-
+6,Blanket,3,Cloth,-
+6,Block and tackle,5,Wood,Metal
+6,Book,5,Paper,Leather
+6,Glass Bottle,2,Glass,-
+6,Bucket,2,Metal,-
+6,Caltrops (bag of up to 20),2,Metal,Leather
+6,Candle,-,Wax,-
+6,Canvas (sq. yd.),1,Cloth,-
+6,Map or Scroll Case,1,Wood,-
+6,Chain (10 ft.),10,Metal,-
+6,Chalk (1 Piece),-,Stone,-
+6,Chest (empty),25,Wood,Metal
+6,Climber's kit,12,Metal,Leather
+6,Common Clothes,3,Cloth,-
+6,Clothes (Costume),4,Cloth,-
+6,Fine Clothes,6,Cloth,-
+6,Traveler's Clothes,4,Cloth,-
+6,Crowbar,5,Metal,-
+1,Druidic Focus (Sprig of Mistletoe),-,-,-
+1,Druidic Focus (Totem),-,Wood,-
+1,Druidic Focus (Wooden Staff),4,Wood,-
+1,Druidic Focus (Yew Wand),1,-,-
+6,Firewood,20,Wood,-
+6,Fishhook,-,Metal,-
+6,Fishing Tackle,4,Wood,Metal
+6,25 sq. ft. Fishing net,5,Cloth,-
+6,Flask,1,Glass,-
+6,Flint and steel,-,Metal,Stone
+6,Grappling hook,4,Metal,-
+6,Hammer,3,Wood,Metal
+6,Sledge Hammer,10,Metal,Wood
+6,Healer's Kit,3,-,-
+6,Holy Symbol (Amulet),1,Metal,Wood
+6,Holy Symbol (Reliquary),2,Wood,Metal
+6,Hourglass,1,Glass,Metal
+6,Hunting Trap,25,Metal,-
+6,Ink (1 oz. vial),-,Glass,-
+6,Inkpen,-,Wood,Metal
+6,Jug/Pitcher,4,Clay,-
+6,10-foot Ladder,25,Wood,-
+6,Lamp,1,Metal,Glass
+6,Bullseye Lantern,2,Metal,Glass
+6,Hooded Lantern,2,Metal,-
+2,Lock (very simple),1,Metal,-
+2,Lock (average),1,Metal,-
+2,Lock (good),1,Metal,-
+2,Lock (amazing),1,Metal,-
+6,Magnifying Glass,1,Glass,Metal
+6,Manacles,6,Metal,-
+6,Mess Kit,1,-,-
+6,Steel Mirror,0.5,Metal,-
+6,Clay Mug/Tankard,1,Clay,-
+6,Oil (1-pint flask),1,Glass,-
+6,Paper (1 sheet),-,Paper,-
+6,Parchment (1 sheet),-,Paper,-
+6,Perfume (1 vial),-,Glass,-
+6,Miner's Pick,10,Wood,Metal
+6,Piton,0.25,Metal,-
+6,10-foot Pole,7,Wood,-
+6,Iron Pot,10,Metal,-
+6,Pouch,1,Leather,-
+6,Portable Ram,35,Wood,Metal
+6,Rations (1d3 days),2,Food,-
+6,Robes,4,Cloth,-
+6,Hempen Rope (50 ft.),10,Cloth,-
+6,Silk Rope (50 ft.),5,Cloth,-
+6,Sack,0.5,Cloth,-
+6,Merchant's Scales,3,Metal,-
+6,Sealing wax,-,Wax,-
+6,Sewing needle,-,Metal,-
+6,Signal whistle,-,Metal,-
+6,Signet ring,-,Metal,-
+6,Soap,-,Soap,-
+6,Spellbook,3,Paper,Leather
+6,Spade or shovel,8,Wood,Metal
+6,Spyglass,1,Metal,Glass
+6,Tent,20,Cloth,Wood
+6,Torch,1,Wood,-
+6,Vial,-,Cloth,-
+6,Waterskin,5,Leather,-
+6,Whetstone,1,Stone,-

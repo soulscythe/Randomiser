@@ -1,0 +1,37 @@
+6,Knife,0.5,Metal,-
+6,Hammer,1,Wood,Metal
+6,Chisel,0.5,Metal,Wood
+6,Wood Saw,1.5,Metal,Wood
+2,Alchemist's supplies,8,-,-
+6,Brewer's supplies,9,-,-
+6,Calligrapher's supplies,5,-,-
+6,Carpenter's tools,6,-,-
+3,Cartographer's tools,6,-,-
+6,Cobbler's tools,5,-,-
+6,Cook's utensils,8,-,-
+2,Glassblower's tools,5,-,-
+2,Jeweler's tools,2,-,-
+6,Leatherworker's tools,5,-,-
+6,Mason's tools,8,-,-
+6,Painter's supplies,5,-,-
+6,Potter's tools,3,-,-
+6,Smith's tools,8,-,-
+6,Tinker's tools,10,-,-
+6,Weaver's tools,5,-,-
+6,Woodcarver's tools,5,-,-
+3,Disguise kit,3,-,-
+2,Forgery kit,5,-,-
+6,Herbalism kit,3,-,-
+6,Bagpipes,6,Cloth,Wood
+6,Drum,3,Leather,Wood
+6,Dulcimer,10,Wood,-
+6,Flute,1,Wood,Metal
+6,Lute,2,Wood,-
+6,Lyre,2,Wood,-
+6,Horn,2,Metal,-
+6,Pan Flute,2,Wood,-
+6,Shawm,1,Wood,-
+6,Viol,1,Wood,-
+6,Navigator's tools,2,-,-
+1,Poisoner's kit,2,-,-
+1,Thieves' tools,1,-,-

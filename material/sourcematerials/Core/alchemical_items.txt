@@ -1,0 +1,7 @@
+79,Alchemist's fire (1d4 flasks),1,Glass,-
+79,Acid (2d4 flasks),1,Glass,-
+79,Smokesticks (1d4 sticks),0.5,Wood,-
+79,Holy water (1d4 flasks),0.5,Glass,-
+92,Antitoxin (1d4 doses),-,Glass,-
+79,Everburning torch,1,Wood,-
+45,Potion of Healing,0.5,Glass,-

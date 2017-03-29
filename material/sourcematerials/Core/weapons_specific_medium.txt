@@ -1,0 +1,18 @@
+59,Javelin of lightning,-,-,-
+39,Slaying arrow,-,-,-
+59,Adamantine dagger,-,-,-
+59,Adamantine battleaxe,-,-,-
+26,Slaying arrow (greater),-,-,-
+19,Shatterspike,-,-,-
+39,Dagger of venom,-,-,-
+33,Trident of warning,-,-,-
+39,Assassin's dagger,-,-,-
+33,Shifter's sorrow,-,-,-
+26,Trident of fish command,-,-,-
+52,Flame tongue,-,-,-
+33,Luck blade (0 wishes),-,-,-
+46,Sword of subtlety,-,-,-
+33,Sword of the planes,-,-,-
+26,Nine lives stealer,-,-,-
+19,Sword of life stealing,-,-,-
+13,Oathbow,-,-,-

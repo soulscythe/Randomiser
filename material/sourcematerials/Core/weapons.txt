@@ -1,0 +1,37 @@
+8,Club,2,Wood,Metal
+10,Dagger,1,Metal,-
+3,Greatclub,10,Wood,Metal
+6,Handaxe,2,Metal,Wood
+10,Javelin,2,Metal,Wood
+4,Light hammer,2,Metal,Wood
+10,Mace,4,Metal,Wood
+10,Quarterstaff,4,Wood,-
+2,Sickle,2,Metal,Wood
+10,Spear,3,Metal,Wood
+10,Light Crossbow,5,Wood,-
+4,Dart,0.25,Metal,-
+10,Shortbow,2,Wood,-
+6,Sling,0,Leather,-
+10,Battleaxe,4,Metal,Wood
+4,Flail,2,Metal,-
+6,Glaive,6,Metal,Wood
+10,Greataxe,7,Metal,Wood
+10,Greatsword,6,Metal,-
+10,Halberd,6,Metal,Wood
+8,Lance,6,Metal,Wood
+10,Longsword,3,Metal,-
+6,Maul,10,Metal,-
+10,Morningstar,4,Metal,Wood
+4,Pike,18,Metal,Wood
+6,Rapier,2,Metal,-
+8,Scimitar,3,Metal,-
+10,Shortsword,2,Metal,-
+4,Trident,4,Metal,Wood
+4,War pick,2,Metal,Wood
+6,Warhammer,2,Metal,Wood
+2,Whip,3,Leather,-
+1,Blowgun,1,Wood,Metal
+3,Hand Crossbow,3,Wood,-
+6,Heavy Crossbow,18,Wood,-
+10,Longbow,2,Wood,-
+2,Net,3,Cloth,-

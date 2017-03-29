@@ -1,0 +1,4 @@
+60,Chainmail,40,Metal,-
+40,Splint mail,45,Metal,-
+50,Ring mail,35,Metal,-
+30,Full plate,50,Metal,-

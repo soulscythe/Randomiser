@@ -1,0 +1,16 @@
+66,Dinner Fork,-,-,-
+13,Serving Fork,-,-,-
+19,Dessert Fork,-,-,-
+39,Soup Spoon,-,-,-
+39,Dessert Spoon,-,-,-
+39,Tablespoon,-,-,-
+39,Teaspoon,-,-,-
+13,Serving Spoon,0.25,-,-
+33,Wooden Spoon,-,-,-
+26,Ladle,0.5,-,-
+52,Knife,-,-,-
+66,Butter Knife,-,-,-
+33,Bread Knife,0.25,-,-
+13,Carving Knife,0.5,-,-
+6,Meat Cleaver,1,-,-
+13,Serving Tongs,0.5,-,-
