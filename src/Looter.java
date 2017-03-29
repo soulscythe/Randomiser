@@ -121,7 +121,6 @@ public class Looter {
 
         spnMaxItems.setValue(1);
         spnMinItems.setValue(1);
-        spnSize.setValue(1);
         spnLevel.setValue(1);
 
         JMenuBar menuBar;
@@ -194,12 +193,6 @@ public class Looter {
             Randomiser.level = (Integer)spnLevel.getValue();
         } catch (Exception ex) {
             printErr("Level is non-numeric");
-            errFlag = true;
-        }
-        try {
-            Randomiser.size = (Integer)spnSize.getValue();
-        } catch (Exception ex) {
-            printErr("Size is non-numeric");
             errFlag = true;
         }
         try {

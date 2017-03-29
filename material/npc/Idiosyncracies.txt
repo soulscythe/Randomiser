@@ -15,8 +15,8 @@ Believes in reincarnation
 Believes one gender is better than the other
 Believes one race or culture is better than another
 Believes the world will end soon
-Carries a “lucky” item with them everywhere
-Doesn’t believe in mental illness
+Carries a 'lucky' item with them everywhere
+Doesn't believe in mental illness
 Dislikes violence toward animals
 Hates conflict
 Always trying to recruit people to their religion/philosophical beliefs
@@ -41,7 +41,7 @@ Experiences episodes of mania
 Experiences panic attacks
 Compulsive disorder
 Learning disability
-Asperger’s Syndrome
+Asperger's Syndrome
 ADHD
 Bipolar
 Delusions of grandeur
@@ -68,7 +68,7 @@ Plays a musical instrument
 Sings well
 Always snacking on something
 Cannot pour anything without spilling
-Doesn’t drink alcohol
+Doesn't drink alcohol
 Eats only cold food
 Eats only hot food
 Allergic to nuts
@@ -128,9 +128,9 @@ Gives the vaguest possible answer to questions
 Laughs at own jokes
 Nervous laughter before speaking
 Quotes things incorrectly
-Corrects others’ grammar
+Corrects others' grammar
 Curses constantly
-Doesn’t understand sarcasm
+Doesn't understand sarcasm
 Easily distracted
 Speaks in tangents
 Gossips constantly
@@ -167,7 +167,7 @@ Talks to inanimate objects
 Talks to self
 Talks very loudly
 Talks very quietly
-Tells “stories” with no point or conclusion
+Tells 'stories' with no point or conclusion
 Brutally honest
 Yawns a lot
 Easily cold

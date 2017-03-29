@@ -1,3 +1,0 @@
-6,A collection of dice,0.25,Bone,-
-6,A set of cards,0.25,Paper,-
-6,A backgammon set,1,Wood,-

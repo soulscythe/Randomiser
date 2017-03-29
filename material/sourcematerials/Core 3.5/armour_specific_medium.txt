@@ -1,7 +1,0 @@
-165,[Specific Armour]Mithral shirt,-,-,-
-132,[Specific Armour]Dragonhide plate,-,-,-
-79,[Specific Armour]Elven chain,-,-,-
-66,[Specific Armour]Rhino hide,-,-,-
-99,[Specific Armour]Adamantine breastplate,-,-,-
-99,[Specific Armour]Dwarven plate,-,-,-
-19,[Specific Armour]Banded mail of luck,-,-,-

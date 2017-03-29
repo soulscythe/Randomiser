@@ -1,9 +1,0 @@
-165,Glamered,-,-,-
-46,light Fortification,-,-,-
-132,Slick,-,-,-
-132,Shadow,-,-,-
-132,Silent moves,-,-,-
-26,Spell resistance (13),-,-,-
-6,improved Slick,-,-,-
-6,improved Shadow,-,-,-
-6,improved Silent moves,-,-,-

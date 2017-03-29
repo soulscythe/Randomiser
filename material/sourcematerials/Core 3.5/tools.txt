@@ -1,4 +1,0 @@
-6,Knife,0.5,Metal,-
-6,Hammer,1,Wood,Metal
-6,Chisel,0.5,Metal,Wood
-6,Wood Saw,1.5,Metal,Wood

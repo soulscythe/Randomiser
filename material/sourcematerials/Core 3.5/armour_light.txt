@@ -1,4 +1,0 @@
-66,Padded,10,Cloth,Leather
-66,Leather,15,Leather,-
-39,Studded leather,20,Leather,-
-79,Chain shirt,25,Metal,-

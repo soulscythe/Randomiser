@@ -1,4 +1,0 @@
-6,Adamantine,-,-,-
-6,Cold Iron,-,-,-
-6,Mithral,-,-,-
-6,Alchemical Silver,-,-,-

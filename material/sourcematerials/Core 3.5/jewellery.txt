@@ -1,9 +1,0 @@
-6,Earrings,-,-,-
-6,Ring,-,-,-
-6,Necklace,-,-,-
-6,Bracelet,-,-,-
-6,Tiara,-,-,-
-6,Torc,-,-,-
-6,Brooch,-,-,-
-6,Crown,-,-,-
-6,Circlet,-,-,-

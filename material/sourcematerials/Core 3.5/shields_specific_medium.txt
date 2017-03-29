@@ -1,7 +1,0 @@
-132,Darkwood buckler,-,-,-
-165,Darkwood shield,-,-,-
-165,Mithral heavy shield,-,-,-
-99,Caster's shield,-,-,-
-33,Spined shield,-,-,-
-33,Lion's shield,-,-,-
-33,Winged shield,-,-,-

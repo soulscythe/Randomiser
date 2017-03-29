@@ -1,5 +1,0 @@
-6,shattered,-,-,-
-6,scored,-,-,-
-6,chipped,-,-,-
-6,cracked,-,-,-
-6,stained,-,-,-

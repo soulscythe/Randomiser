@@ -35,7 +35,7 @@ public class Files {
 	public static final String SHIELDS_SPECIAL_MED = "shields_specials_medium.txt";
 	public static final String SHIELDS_SPECIAL_MIN = "shields_specials_minor.txt";
 	public static final String TOOLS = "tools.txt";
-	public static final String WEAPONS_COM_MELEE = "weapons_common_melee.txt";
+	public static final String WEAPONS_COM_MELEE = "weapons.txt";
 	public static final String WEAPONS_COM_RANGED = "weapons_common_ranged.txt";
 	public static final String WEAPONS_SPEC = "weapons_specific.txt";
 	public static final String WEAPONS_UNCOM_MELEE = "weapons_uncommon_melee.txt";

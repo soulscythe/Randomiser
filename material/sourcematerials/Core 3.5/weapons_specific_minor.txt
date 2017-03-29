@@ -1,8 +1,0 @@
-99,Sleep arrow,-,-,-
-66,Screaming bolt,-,-,-
-132,masterwork Silver dagger,-,-,-
-132,masterwork Cold iron longsword,-,-,-
-66,Javelin of lightning,-,-,-
-33,Slaying arrow,-,-,-
-66,Adamantine dagger,-,-,-
-66,Adamantine battleaxe,-,-,-

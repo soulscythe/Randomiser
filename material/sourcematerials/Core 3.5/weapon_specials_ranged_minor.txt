@@ -1,9 +1,0 @@
-79,Bane,-,-,-
-85,Distance,-,-,-
-99,Flaming,-,-,-
-99,Frost,-,-,-
-33,Merciful,-,-,-
-52,Returning,-,-,-
-99,Shock,-,-,-
-66,Seeking,-,-,-
-39,Thundering,-,-,-

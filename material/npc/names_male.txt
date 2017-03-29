@@ -63,7 +63,7 @@ Adelulf
 Adenot
 Aderlard
 Adestan
-Adhémar
+Adh'mar
 Adlard
 Admago
 Admetos
@@ -212,7 +212,7 @@ Alastor
 Alatheus
 Alatz
 Alaviv
-Alazaïs
+Alaza's
 Alberi
 Alberic
 Albericus
@@ -364,7 +364,7 @@ Ambure
 Ame
 Ameinias
 Ameinokles
-Amélien
+Am'lien
 Amer
 Americ
 Americus
@@ -827,7 +827,7 @@ Automedon
 Autonous
 Auveray
 Auvere
-Auveré
+Auver'
 Auvrai
 Auxitius
 Auxkin
@@ -856,7 +856,7 @@ Aymon
 Ayol
 Azeari
 Azelinus
-Azémar
+Az'mar
 Azer
 Azeus
 Azibar
@@ -922,7 +922,7 @@ Barnier
 Baro
 Barret
 Barrett
-Barthélemy
+Barth'lemy
 Bartholomeus
 Bartram
 Bartrem
@@ -983,12 +983,12 @@ Benedictus
 Benedicus
 Beneger
 Beneoit
-Benéoit
+Ben'oit
 Beneoite
 Benet
 Benett
 Beneyt
-Bénezet
+B'nezet
 Benger
 Benild
 Benkamin
@@ -1014,7 +1014,7 @@ Berengerus
 Berengier
 Berhdoldus
 Berhtolf
-Béri
+B'ri
 Berico
 Berig
 Berimud
@@ -1340,7 +1340,7 @@ Cleph
 Clerebald
 Clerenbald
 Climborin
-Climençon
+Climen'on
 Climent
 Clinias
 Clisthenes
@@ -1349,7 +1349,7 @@ Clonius
 Clotaire
 Clothair
 Clovis
-Clymençon
+Clymen'on
 Clyment
 Clytius
 Clytomedes
@@ -1379,7 +1379,7 @@ Constans
 Constantianus
 Constantinianus
 Constantinus
-Cöon
+C'on
 Copreus
 Corbinian
 Cordylion
@@ -1402,7 +1402,7 @@ Cozard
 Crathis
 Cratinus
 Cratippus
-Crépin
+Cr'pin
 Crescentius
 Cresconius
 Cressant
@@ -1523,7 +1523,7 @@ Demas
 Demeas
 Demetrios
 Democedes
-Democoön
+Democo'n
 Demodocus
 Demokrates
 Demoleon
@@ -1709,7 +1709,7 @@ Ebrimud
 Ebroin
 Ebrulf
 Eburhart
-Echëeus
+Ech'eus
 Echekrates
 Echelaos
 Echemmon
@@ -1945,7 +1945,7 @@ Espan
 Espanelis
 Esprevere
 Estebe
-Estène
+Est'ne
 Estmond
 Estorgan
 Estout
@@ -2094,7 +2094,7 @@ Fairman
 Faldron
 Fallard
 Fameite
-Famète
+Fam'te
 Fangeaux
 Faramond
 Faramund
@@ -2113,8 +2113,8 @@ Fato
 Fauques
 Faure
 Fawkes
-Féderic
-Féderyc
+F'deric
+F'deryc
 Fehde
 Feletheus
 Felippe
@@ -2466,8 +2466,8 @@ Gervaise
 Gervas
 Gervasius
 Gervassius
-Gervès
-Gervèse
+Gerv's
+Gerv'se
 Gervesin
 Gervesot
 Gervis
@@ -2684,9 +2684,9 @@ Guarinet
 Guarinus
 Guarnier
 Guenes
-Guérart
+Gu'rart
 Gueri
-Guérin
+Gu'rin
 Guerinnet
 Guermont
 Guernier
@@ -2963,7 +2963,7 @@ Heribert
 Heribrand
 Herilo
 Heriot
-Hérique
+H'rique
 Herluin
 Herman
 Hermangild
@@ -3010,7 +3010,7 @@ Hervoet
 Hervouet
 Hervy
 Hesdin
-Hétouyn
+H'touyn
 Hetzkinus
 Heude
 Heudebrand
@@ -3062,7 +3062,7 @@ Hipparchos
 Hipparinos
 Hippasus
 Hippias
-Hippocoön
+Hippoco'n
 Hippoklides
 Hippokratides
 Hippolytos
@@ -3105,7 +3105,7 @@ Homeros
 Hone
 Honfroi
 Honoratus
-Honoré
+Honor'
 Honorius
 Honot
 Hootje
@@ -3119,7 +3119,7 @@ Hotu
 Hotys
 Hotz
 Houdart
-Houdéet
+Houd'et
 Houdin
 Houdoin
 Houdouyn
@@ -3445,7 +3445,7 @@ Jocelin
 Jocelyn
 Jocet
 Joceus
-Joçon
+Jo'on
 Jodocus
 Joel
 Joeli
@@ -3696,7 +3696,7 @@ Laurgain
 Laurin
 Lawrence
 Leagros
-Léal
+L'al
 Leandros
 Learchos
 Leavold
@@ -3778,7 +3778,7 @@ Lichas
 Licymnios
 Lie
 Liebte
-Lièce
+Li'ce
 Liellus
 Lienart
 Ligart
@@ -4049,7 +4049,7 @@ Mazuste
 Mazzi
 Mecistes
 Mecistios
-Médard
+M'dard
 Meder
 Mederi
 Medios
@@ -4254,7 +4254,7 @@ Nauteus
 Nazares
 Neal
 Neale
-Néapolion
+N'apolion
 Nearchos
 Ned
 Neddie
@@ -4271,7 +4271,7 @@ Neozzo
 Nepotian
 Neritos
 Nestor
-Névelet
+N'velet
 Ngakaukawa
 Ngati
 Niarchos
@@ -4315,8 +4315,8 @@ Nithard
 Niuzilo
 Nivelet
 Nob
-Noeë
-Noël
+Noe'
+No'l
 Noemon
 Noll
 Nolly
@@ -4551,7 +4551,7 @@ Ozwell
 Pablo
 Pacatian
 Pachymeres
-Paeëon
+Pae'on
 Paen
 Pagane
 Paganel
@@ -5063,7 +5063,7 @@ Reginalde
 Reginaldus
 Reginar
 Regino
-Régnier
+R'gnier
 Reignald
 Reignolde
 Reimfred
@@ -5091,7 +5091,7 @@ Remon
 Remondin
 Remonnet
 Remont
-Rémy
+R'my
 Renard
 Renart
 Renaud
@@ -5521,7 +5521,7 @@ Tallo
 Talon
 Talos
 Talthybios
-Tamás
+Tam's
 Tame
 Tamme
 Tanais
@@ -5627,7 +5627,7 @@ Theoclymnius
 Theoctistus
 Theocydes
 Theodahad
-Théodard
+Th'odard
 Theodbald
 Theodehad
 Theodekles
@@ -5694,7 +5694,7 @@ Theutgaud
 Theutlich
 Thibaud
 Thidrek
-Thiébaut
+Thi'baut
 Thieme
 Thiemmo
 Thierri
@@ -5709,7 +5709,7 @@ Thoas
 Thomas
 Thon
 Thonyn
-Thoön
+Tho'n
 Thorald
 Thorax
 Thore
@@ -5792,8 +5792,8 @@ Tmolus
 Toa
 Tobar
 Todor
-Tomás
-Tönjes
+Tom's
+T'njes
 Torleu
 Torphin
 Torquil
@@ -5973,7 +5973,7 @@ Vetericus
 Vetranio
 Vetranis
 Vettias
-Vézian
+V'zian
 Viator
 Vicelin
 Victor

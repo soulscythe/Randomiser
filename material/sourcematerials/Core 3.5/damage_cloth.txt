@@ -1,7 +1,0 @@
-6,Frayed,-,-,-
-6,Stained,-,-,-
-6,Torn,-,-,-
-6,Faded,-,-,-
-6,Moth-eaten,-,-,-
-6,Patched,-,-,-
-6,Singed,-,-,-

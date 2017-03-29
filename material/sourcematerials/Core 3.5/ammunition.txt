@@ -1,4 +1,0 @@
-6,Arrows (50),7.5,Wood,Metal
-6,crossbow Bolts (50),5,Wood,Metal
-6,repeating crossbow Bolts (50),10,Wood,Metal
-6,sling Bullets (50),25,Stone,-

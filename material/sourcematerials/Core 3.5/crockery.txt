@@ -1,9 +1,0 @@
-66,Cup,0.5,Ceramic,-
-66,Mug,0.5,Ceramic,-
-66,Plate,0.5,Ceramic,-
-13,Platter,1,Ceramic,-
-52,Bowl,0.5,Ceramic,-
-13,Teacup,0.25,Ceramic,-
-52,Saucer,0.25,Ceramic,-
-26,Dish,0.5,Ceramic,-
-6,Serving Tray,1,Ceramic,-
